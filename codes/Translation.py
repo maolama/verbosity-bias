@@ -30,9 +30,8 @@ def verify_translation_is_done():
         # Check if it's a directory
         if os.path.isdir(folder_path):
             # Iterate through each file in the folder
-            for file_name in tqdm(os.listdir(folder_path)):
+            for file_name in os.listdir(folder_path):
                 file_path = os.path.join(folder_path, file_name)
-                print(file_path)
                 if file_name.endswith('.json'):
                     with open(file_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
@@ -69,17 +68,15 @@ def google_path(model, config):
     xx = 0
     # Iterate through each folder in the data directory
     for folder_name in os.listdir(data_path):
-        print(folder_name)
         folder_path = os.path.join(data_path, folder_name)
         xx = 0
         # Check if it's a directory
         if os.path.isdir(folder_path):
             # Iterate through each file in the folder
-            for file_name in tqdm(os.listdir(folder_path)):
+            for file_name in os.listdir(folder_path):
                 # if xx > 2:
                 #     break
                 file_path = os.path.join(folder_path, file_name)
-                print(file_path)
                 # Check if it's a JSON file
                 if file_name.endswith('.json'):
                     try:
