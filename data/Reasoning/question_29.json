@@ -1,3 +1,4 @@
 {
-  "original_question": "Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.\\n1. Oranges cost more than apples.\\n2. Oranges cost less than bananas.\\n3. Bananas cost more than apples and bananas cost more than orange.\\nIf the third statement is true. Is the first statement true, false, or uncertain? Please explain."
+  "original_question": "Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.\\n1. Oranges cost more than apples.\\n2. Oranges cost less than bananas.\\n3. Bananas cost more than apples and bananas cost more than orange.\\nIf the third statement is true. Is the first statement true, false, or uncertain? Please explain.",
+  "translated_question": "هر مسئله شامل سه گزاره است. بر اساس دو گزاره اول، گزاره سوم ممکن است درست، نادرست یا نامعلوم باشد.\n\n۱. پرتقال از سیب گران‌تر است.\n۲. پرتقال از موز ارزان‌تر است.\n۳. موز از سیب گران‌تر است و موز از پرتقال گران‌تر است.\n\nاگر گزاره سوم درست باشد. آیا گزاره اول درست، نادرست یا نامعلوم است؟ لطفا توضیح دهید."
 }

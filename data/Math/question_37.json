@@ -1,3 +1,4 @@
 {
-  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find x such that f(x) = 0.."
+  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find x such that f(x) = 0..",
+  "translated_question": "با فرض اینکه f(x) برابر با چهار ایکس به توان سه منهای نُه ایکس منهای چهارده است، ایکس را طوری پیدا کنید که f(x) برابر با صفر باشد."
 }

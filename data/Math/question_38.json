@@ -1,3 +1,4 @@
 {
-  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find the derivative of f at point 1, say f\u2019(1)."
+  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find the derivative of f at point 1, say f’(1).",
+  "translated_question": "با توجه به اینکه f(x) = 4x^3 - 9x - 14 است، مشتق f را در نقطه ۱ محاسبه کنید، یعنی f’(1)."
 }

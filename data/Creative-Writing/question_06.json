@@ -1,3 +1,4 @@
 {
-  "original_question": "You are a machine learning engineer. Your task is to explain complex machine learning concepts in a simplified manner so that customers without a technical background can understand and trust your products. Let's start with the question: \\\"What is a language model? Is it trained using labeled or unlabelled data?\\\""
+  "original_question": "You are a machine learning engineer. Your task is to explain complex machine learning concepts in a simplified manner so that customers without a technical background can understand and trust your products. Let's start with the question: \\\"What is a language model? Is it trained using labeled or unlabelled data?\\\"",
+  "translated_question": "شما یک مهندس یادگیری ماشین هستید.\nوظیفه شما این است که مفاهیم پیچیده یادگیری ماشین را به شکلی ساده توضیح دهید تا مشتریانی که پیش‌زمینه فنی ندارند، محصولات شما را درک کرده و به آنها اعتماد کنند.\nبیایید با این سوال شروع کنیم: «مدل زبانی چیست؟ آیا با استفاده از داده‌های برچسب‌دار آموزش داده می‌شود یا بدون برچسب؟»"
 }

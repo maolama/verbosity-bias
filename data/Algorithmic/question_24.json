@@ -1,3 +1,4 @@
 {
-  "original_question": "How would you check if one string is a rotation of another (e.g., \"abcd\" \u2192 \"cdab\")?"
+  "original_question": "How would you check if one string is a rotation of another (e.g., \"abcd\" → \"cdab\")?",
+  "translated_question": "چگونه بررسی می‌کنید که آیا یک رشته، چرخش رشته‌ی دیگری است؟ (مثلاً: \"abcd\" به \"cdab\")"
 }

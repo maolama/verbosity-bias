@@ -1,3 +1,4 @@
 {
-  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find the value of f(2)."
+  "original_question": "Given that f(x) = 4x^3 - 9x - 14, find the value of f(2).",
+  "translated_question": "اگر f(x) برابر با 4x^3 - 9x - 14 باشد، مقدار f(2) را پیدا کنید."
 }

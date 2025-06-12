@@ -1,3 +1,4 @@
 {
-  "original_question": "Given the coordinates of two points (in n-dimensional space) in two lists, how would you calculate the Euclidean distance?"
+  "original_question": "Given the coordinates of two points (in n-dimensional space) in two lists, how would you calculate the Euclidean distance?",
+  "translated_question": "با داشتن مختصات دو نقطه (در فضای n-بعدی) در دو لیست، چگونه فاصله اقلیدسی را محاسبه می‌کنید؟"
 }

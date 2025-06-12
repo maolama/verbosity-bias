@@ -17,10 +17,36 @@ def translation_route():
         model = genai.GenerativeModel(CONFIG[TR_MODEL])
         print(model)
         google_path(model, CONFIG)
-
+        verify_translation_is_done()
     else:
         print(CONFIG[TR_API_URL])
         print(CONFIG[TR_API_KEY])
+
+
+def verify_translation_is_done():
+    errors =[]
+    for folder_name in os.listdir(data_path):
+        folder_path = os.path.join(data_path, folder_name)
+        # Check if it's a directory
+        if os.path.isdir(folder_path):
+            # Iterate through each file in the folder
+            for file_name in tqdm(os.listdir(folder_path)):
+                file_path = os.path.join(folder_path, file_name)
+                print(file_path)
+                if file_name.endswith('.json'):
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    # Check if the 'translated_question' key exists
+                    if 'translated_question' not in data:
+                        errors.append(file_path)
+
+    if len(errors) > 0:
+        for error in errors:
+            print(error)
+    else:
+        print("Everything is done")
+
+    pass
 
 
 def google_path(model, config):
@@ -50,8 +76,8 @@ def google_path(model, config):
         if os.path.isdir(folder_path):
             # Iterate through each file in the folder
             for file_name in tqdm(os.listdir(folder_path)):
-                if xx > 2:
-                    break
+                # if xx > 2:
+                #     break
                 file_path = os.path.join(folder_path, file_name)
                 print(file_path)
                 # Check if it's a JSON file
@@ -84,6 +110,5 @@ def google_path(model, config):
 
                     except Exception as e:
                         print(f"Error processing file {file_path}: {e}")
-
 
     pass

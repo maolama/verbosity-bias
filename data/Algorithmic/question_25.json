@@ -1,3 +1,4 @@
 {
-  "original_question": "How can I check if a string of parentheses is balanced (e.g., \"((()()))\")?"
+  "original_question": "How can I check if a string of parentheses is balanced (e.g., \"((()()))\")?",
+  "translated_question": "چگونه می‌توانم بررسی کنم که آیا یک رشته پرانتز متوازن است (مثلاً \"((()()))\")؟"
 }
