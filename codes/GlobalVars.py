@@ -1,3 +1,8 @@
 base_path = './'
 
 data_path = base_path + '/data'
+
+TR_PR = "TRANSLATION_PROVIDER"
+TR_MODEL = "TRANSLATION_MODEL"
+TR_API_URL = "TRANSLATION_API_URL"
+TR_API_KEY = "TRANSLATION_API_KEY"

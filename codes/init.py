@@ -1,6 +1,9 @@
 import os
+import sys
 
+from dotenv import load_dotenv
 from codes.GlobalVars import *
+from codes.utils import *
 
 
 def create_data_dir():
@@ -61,8 +64,26 @@ def count_questions(path):
     print(f"Total questions: {total}")
 
 
-def init(path):
+# def load_env(env_file=None):
+#     # Load the .env file
+#     load_dotenv(env_file)
+#
+#     # Get the API key from the environment variable
+#     google_api_key = os.getenv('GOOGLE_API_KEY')
+#     if google_api_key is None:
+#         log_error("Fatal Error: GOOGLE_API_KEY is not set.")
+#         sys.exit(1)
+#     else:
+#         # todo should be deleted
+#         log(f"API_KEY loaded: {google_api_key}" , "cyan")
+#     # Set the API key as an environment variable
+#     os.environ['GOOGLE_API_KEY'] = google_api_key
+#     return True
+
+
+def init(path, env_file=None):
     create_data_dir()
     create_questions_dir(path)
     count_questions(path)
+    # load_env(env_file)
     return True
