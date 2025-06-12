@@ -1,0 +1,1181 @@
+Facts: 39
+Reasoning: 35
+Opinion-based/Value-laden: 41
+Open-ended/Subjective(Roleplay-included): 32
+Math: 39
+Creative-Writing: 44
+Counter-Factual: 43
+Algorithm/Coding: 27
+STEM: 39
+Extraction: 28
+total questions: 367
+
+
+### Facts
+What is the capital of Iran?
+
+
+Which Iranian city is known for its historical Persian gardens and poetry?
+
+
+Who wrote the epic poem Shahnameh?
+
+
+What is the chemical symbol for water?
+
+
+What is the largest planet in the solar system?
+
+
+Which planet is known as the Red Planet?
+
+
+What is the hardest natural substance on Earth?
+
+
+What color is the Iranian flag?
+
+
+What is the main gas that makes up the Earth's atmosphere?
+
+
+What is the name of the Persian Gulf island known for its unique red soil?
+
+
+Who was the founder of the Achaemenid Empire?
+
+
+What is the boiling point of water at sea level in Celsius?
+
+
+Who developed the theory of relativity?
+
+
+How many sides does a hexagon have?
+
+
+What is the common name for the "Festival of Fire" celebrated before Nowruz?
+
+
+Which blood type is considered the universal donor?
+
+
+What is the speed of light in a vacuum?
+
+
+What is the longest river in the world?
+
+
+What is the longest river in the world?
+
+
+What are the two important mountain ranges in Iran?
+
+
+When did World War II end?
+
+
+What does "www" stand for in web addresses?
+
+
+Which organ in the human body produces insulin?
+
+
+What is the highest mountain in Iran?
+
+
+Which Egyptian queen ruled alongside Julius Caesar?
+
+
+What is the most important topic in mathematics for 'Signal Processing'?
+
+
+Who discovered penicillin?
+
+
+Which planet is second from the Sun?
+
+
+What is the largest ocean on Earth?
+
+
+Who painted the Mona Lisa?
+
+
+Who was the first person to walk on the Moon?
+
+
+Who was the first Iranian woman to win the Fields Medal in mathematics?
+
+
+Which Persian mystic poet wrote the Masnavi, a spiritual masterpiece?
+
+
+Which Iranian mathematician and astronomer developed the Jalali calendar?
+
+
+Which Iranian mathematician is credited with significant contributions to algebra, including solving cubic equations?
+
+
+What is the national animal of Iran?
+
+
+What is the currency of Iran?
+
+
+Which country borders Iran to the east?
+
+
+Who was Avicenna, and what was he known for?
+
+
+
+
+### Reasoning
+
+
+Why might an individual choose a career with lower pay but higher job satisfaction over a high-paying but stressful job?
+
+
+Why are Persian carpets highly valued around the world?
+
+
+Why is saffron considered an important ingredient in Iranian cuisine?
+
+
+Why is the concept of "Taarof" (Iranian ritual politeness) often challenging for individuals from other cultures to navigate effectively?
+
+
+Why might a historical figure be celebrated as a hero in one culture but viewed as a villain in another?
+
+
+If a society heavily relies on oral tradition for historical knowledge, what are the potential strengths and weaknesses compared to societies with written records?
+
+
+Explain the reasoning why a government might subsidize certain industries even if they are not immediately profitable.
+
+
+Explain the reasoning behind the Chaharshanbe Suri tradition of jumping over bonfires before Nowruz in Iran.
+
+
+Why is freedom of the press considered a cornerstone of democratic societies?
+
+
+What is the reasoning behind the design and function of a caravanserai along ancient trade routes like the Silk Road?
+
+
+Why do many Iranian homes include a 'samovar' for tea preparation?
+
+
+Why do traditional bazaars often serve as both economic and social hubs?
+
+
+What is a respectful and thoughtful way to approach a classmate when you have developed feelings for her?
+
+
+You overhear a conversation in which one person always tells the truth and the other always lies. They say contradictory things about who owns a Persian rug. How can you figure out the owner in one question?
+
+
+You are given three statements about a historical figure from the Safavid era. One is true, one is false, and one is misleading. How can you determine which is which using a logical approach?
+
+
+Why might someone prefer to live in a smaller Iranian city like Yazd over a larger metropolis like Tehran?
+
+
+Why are Iranian pistachios considered superior in quality compared to those from other regions?
+
+
+Why might a country invest heavily in renewable energy despite having abundant fossil fuel reserves?
+
+
+Why do some people prefer reading physical books over e-books, even with the convenience of digital devices?
+
+
+Why might learning a second language be more difficult for adults than for children?
+
+
+Why do some people resist adopting new technologies even when they offer clear benefits?
+
+
+I have two options:\n1. Drop the course in which I scored an unacceptable grade on the midterm exam.\n2. Stay in the course and try to recover my grade.\nUnder what circumstances would you suggest each one?
+
+
+Why is it important to learn at least one foreign language?
+
+
+Imagine you are participating in a race with a group of people. If you have just overtaken the second person, what's your current position? Where is the person you just overtook?
+
+
+Imagine you are participating in a race with a group of people. If you have just overtaken the last person, what's your current position?
+
+
+You can see a beautiful red house to your left, a hypnotic greenhouse to your right, and an attractive heated pink place in the front. So, where is Persepolis?
+
+
+Ali is very healthy, but he has to go to the hospital every day. What could be the reasons?
+
+
+Reza has three sisters. Each of them has one brother. How many brothers does David have?
+
+
+Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.\n1. Oranges cost more than apples.\n2. Oranges cost less than bananas.\n3. Bananas cost more than apples and bananas cost more than orange.\nIf the third statement is true. Is the first statement true, false, or uncertain? Please explain.
+
+
+Which word does not belong with the others?\ntyre, steering wheel, car, engine. Please explain.
+
+
+One morning, after sunrise, Erfan stood facing a pole. The shadow of the pole fell exactly to his right. Can you tell me the direction towards which the shadow was pointing - east, south, west, or north? Explain your reasoning steps.
+
+
+One morning, after sunrise, Erfan stood facing a pole. The shadow of the pole fell exactly to his right. In which direction was Suresh facing? (East, south, west, or north) How do you solve this?
+
+
+Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?
+
+
+Why might someone prefer to shop at a small, locally-owned business instead of a large chain store, even if the prices are higher?
+
+
+Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?
+
+
+
+
+### Opinion-based
+
+
+Should education be free for everyone?
+
+
+Is technology isolating people?
+
+
+Should voting be mandatory?
+
+
+Is it ethical to use animals for scientific research?
+
+
+Is it more important to be kind or to be honest?
+
+
+How can I improve my time management skills?
+
+
+What are the most effective ways to deal with stress?
+
+
+What are the main differences between Python and Java programming languages?
+
+
+How can I increase my productivity while working from home?
+
+
+What are some potential implications of using a single-use plastic bottle versus a reusable bottle on both the environment and human health?
+
+
+Should museums and historical sites charge admission fees?
+
+
+Should young Iranians be encouraged to pursue careers and lives within Iran to contribute to national development, or should they prioritize seeking opportunities abroad if they believe it benefits them personally?
+
+
+Is it more valuable to have deep knowledge in one area or general knowledge in many?
+
+
+Do modern technologies make people more productive or more distracted?
+
+
+Should students focus more on grades or actual learning?
+
+
+Should traditional clothing be preserved in modern Iranian society?
+
+
+Should poetry still be taught in schools?
+
+
+Should the primary purpose of higher education be job preparation or intellectual development?
+
+
+Should citizens be morally obligated to vote in national elections?
+
+
+Is it more valuable for a society to uphold long-standing traditions (like certain aspects of celebrating Nowruz) rigidly, or to allow them to evolve with contemporary sensibilities?
+
+
+What is the most ethical stance on animal rights in the context of food production and scientific research?
+
+
+Should the length of a workweek be reduced to improve work-life balance, even if it impacts productivity?
+
+
+Should the primary goal of criminal justice be retribution, deterrence, or rehabilitation?
+
+
+To what extent should a society prioritize the preservation of its historical and cultural heritage over modern development and progress?
+
+
+Should individuals prioritize personal happiness over societal expectations when making major life decisions?
+
+
+Is it more important for schools to teach critical thinking skills or practical job-related skills?
+
+
+Should people rely more on scientific evidence or personal intuition when making health-related choices?
+
+
+Is it more valuable to preserve historical traditions or to embrace modern innovations?
+
+
+Should children be encouraged to follow their passions or to pursue careers with financial stability?
+
+
+Is it better to invest in space exploration or to address immediate global challenges like poverty?
+
+
+Should people prioritize physical health over mental health, or are they equally important?
+
+
+Should social media companies be responsible for the content posted by their users?
+
+
+You are a tour guide showing visitors around Tehran. What stories do you share?
+
+
+You are a young artist struggling to get recognition. What keeps you going?
+
+
+You are a traveler lost in a remote village. How do you seek help?
+
+
+You are a historian discovering an ancient artifact. What are your initial reactions?
+
+
+If you were to describe a typical Iranian meal to someone who has never experienced it, what would you suggest?
+
+
+Imagine you are a librarian working in a historic library filled with ancient manuscripts from different countries. What is your favorite part?
+
+
+Provide insights into the correlation between economic indicators such as GDP, inflation, and unemployment rates. Explain how fiscal and monetary policies affect those indicators. Suppose I’m five years old.
+
+
+How do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?
+
+
+How can I determine if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful?
+
+
+
+
+
+
+
+
+### Open-ended
+You are a successful entrepreneur in Tehran. What does success mean to you?
+
+
+You are a philosophy professor at a university. How do you define happiness?
+
+
+You are a student preparing for final exams. How do you stay motivated during difficult times?
+
+
+You are a poet reflecting on life. What makes a good friend?
+
+
+You are an experienced teacher. What are the qualities of a good student?
+
+
+You are an artist living in Isfahan. What inspires your creativity?
+
+
+You are an author working on your memoirs. What kind of legacy would you like to leave behind?
+
+
+You are a young professional in a big city. What does a balanced life look like for you?
+
+
+You are a grandparent talking to your grandchild. What life advice do you want to share?
+
+
+If you were someone who has just read the Shahnameh for the first time, which hero or story resonated with you most deeply?
+
+
+Speaking as a wildlife conservationist working to protect the Persian leopard, what are the main threats to this species in your assessment?
+
+
+Imagine you are a fictional Iranian inventor in the early 20th century. What societal problem are you trying to solve with your latest invention, and what are your hopes for its impact?
+
+
+Speaking as a teacher in a rural Iranian school, what are the unique joys and obstacles you encounter in providing education to children in your community?
+
+
+As an environmental activist trying to protect the Caspian Hyrcanian mixed forests, what strategies do you believe are most effective for their conservation?
+
+
+If you were a fictional Persian merchant traveling the Silk Road in the 13th century, what were the greatest risks you faced?
+
+
+Speaking as an astronomer working at an observatory in the Kavir Desert, what unique insights or feelings does observing the vast desert night sky evoke in you about humanity's place in the universe?
+
+
+Imagine you are a time traveler who has just visited Persepolis in its heyday. Beyond the monumental architecture, what was the most striking aspect of the societal atmosphere or the daily life you observed?
+
+
+As a chef running a popular food stall in the Grand Bazaar of Isfahan, what is the secret you've learned to truly connect with your customers through food, beyond just the taste?
+
+
+You are a storyteller sharing a tale around a campfire. What message would your story leave with the listeners?
+
+
+You are a photographer capturing life in Shiraz. What moment would you freeze in time, and why?
+
+
+You are an artist painting a scene from a Persian garden. What colors and symbols would you use?
+
+
+You are a teacher in a rural school. How do you inspire your students to dream big?
+
+
+You are a musician composing a piece for a Persian santur. How would you describe the mood of your music?
+
+
+You are a student asking a professor for an extension on an assignment.
+
+
+Imagine you are a shopkeeper responding to a customer complaint about late delivery.
+
+
+You are a candidate in a student election for the school council, giving a campaign speech.
+
+
+Pretend you are calling a technical support line to fix your internet connection.
+
+
+As a pirate captain, what would you say to your crew to motivate them to search for hidden treasure?
+
+
+As a sports commentator, describe the winning goal in the final seconds of a Champions League final game, between Barcelona and PSG, scored by Lionel Messi (Barcelona).
+
+
+As a soccer commentator, describe the glorious moment of Messi's return to Barcelona (after his departure in 2021) during the first match of the league at the packed Camp Nou stadium.
+
+
+As a space colonist on Mars, describe your daily life and the challenges you face living on another planet.
+
+
+As a journalist, imagine you want to write a headline and a short cover text for your newspaper’s front page about the upcoming last and final showdown between Lionel Messi and Cristiano Ronaldo next month.
+
+
+
+
+
+
+
+
+
+
+
+
+### Math
+
+
+What is the sum of the first 10 positive even numbers?
+
+
+What is the sum of the first 10 terms of the arithmetic sequence starting with 3 and a common difference of 4?
+
+
+If a train travels 90 km in 1.5 hours, what is its average speed, and how long will it take to travel 180 km at the same speed?
+
+
+A farmer has 36 meters of fencing and wants to build a rectangular pen with the maximum area. What should the dimensions be?
+
+
+Solve for x : 2x + 3 = 5x - 6
+
+
+If the probability of rain today is 30% and tomorrow is 40%, what is the probability it rains on at least one of the two days (assuming independence)?
+
+
+There are 5 red balls and 7 blue balls in a bag. If you randomly pick 2 balls without replacement, what is the probability both are blue?
+
+
+What is the least common multiple (LCM) of 12, 15, and 20?
+
+
+How many different ways can the letters in the word “IRAN” be arranged?
+
+
+John has 12 marbles. He gives 1/4 of them to Sarah. How many marbles does John have left?
+
+
+A shopkeeper buys a pen for £0.80 and sells it for £1.25. If she sells 10 pens, what is her total profit?
+
+
+Tom drives for 2 hours at an average speed of 50 miles per hour. He then drives for another 1 hour at an average speed of 70 miles per hour. How far did he drive in total?
+
+
+A baker needs 200 grams of flour for a cake. He has a 1 kilogram bag of flour. If he makes 3 cakes, how much flour will be left in the bag (in grams)?
+
+
+A train leaves Station A at 09:30 and arrives at Station B at 11:00. If the distance between the stations is 120 miles, what was the train's average speed in miles per hour?
+
+
+A car accelerates from rest to 20 m/s in 5 seconds. What is its average acceleration?
+
+
+A force of 30 Newtons is applied to a box with a mass of 5 kg. What is the acceleration of the box? (Ignore friction).
+
+
+A family prepares seven dishes for Yalda Night. If each member only eats a unique combination of three dishes, how many different combinations are possible?
+
+
+If a shirt costs $20 after a 20% discount, what was the original price?
+
+
+A recipe for 4 people requires 2 cups of flour. How much flour is needed for 6 people?
+
+
+If 3 workers can build a wall in 12 hours, how long will it take 4 workers to build the same wall?
+
+
+A rectangle has a length of 10 cm and a width that is half its length. What is its area?
+
+
+A rectangle’s perimeter is 40 cm, with a length 4 cm more than its width. What are the dimensions of the rectangle?
+
+
+A number is increased by 5, then doubled, and then decreased by 10. If the final result is 20, what was the original number?
+
+
+If the sum of three consecutive odd numbers is 57, what are the numbers?
+
+
+A triangle has a base of 10 cm and a height of 8 cm. If the base is increased by 2 cm and the height is decreased by 1 cm, what is the new area?
+
+
+If you flip a coin three times, what is the probability of getting heads each time?
+
+
+If you roll a six-sided die, what is the probability of rolling a 4?
+
+
+What is the probability of rolling a sum of 7 when rolling two six-sided dice?
+
+
+What is the probability of drawing a heart from a standard deck of 52 playing cards?
+
+
+If you draw cards from a deck of 52 playing cards consecutively, what is the probability of drawing the King of hearts before the King of diamonds?
+
+
+The vertices of a triangle are at points (0, 0), (-1, 1), and (3, 3). What is the area of the triangle?
+
+
+A tech startup invests $8000 in software development in the first year, and then invests half of that amount in software development in the second year. If the startup maintains the same strategy for the third year, investing half of the previous year's amount into software development, how much will they invest in the third year?
+
+
+In a survey conducted at a local high school, preferences for a new school color were measured: 58% of students liked the color blue, 45% preferred green, and 22% liked both colors. If we randomly pick a student from the school, what's the probability that they would like neither blue nor green?
+
+
+Some people got on a bus at the terminal. At the first bus stop, half of the people got down and 4 more people got in. Then at the second bus stop, 6 people got down and 8 more got in. If there were a total of 25 people heading to the third stop, how many people got on the bus at the terminal?
+
+
+How many integers are in the solution of the inequality “|x + 5| < 10”?
+
+
+Given that f(x) = 4x^3 - 9x - 14, find the value of f(2).
+
+
+Given that f(x) = 4x^3 - 9x - 14, find x such that f(x) = 0..
+
+
+Given that f(x) = 4x^3 - 9x - 14, find the derivative of f at point 1, say f’(1).
+
+
+If the endpoints of a line segment are (2, -2) and (10, 4), what is the length of the segment?
+
+
+
+
+
+
+
+
+### Creative-Writing
+
+
+Compose an engaging travel blog post about a recent trip to Qeshm Island, highlighting cultural experiences and must-see attractions.
+
+
+Draft a professional email seeking your supervisor's feedback on the 'Quarterly Financial Report' you prepared. Ask specifically about the data analysis, presentation style, and the clarity of conclusions drawn. Keep the email short and to the point.
+
+
+Write a persuasive email to convince your introverted friend, who dislikes public speaking, to volunteer as a guest speaker at a local event. Use compelling arguments and address potential objections. Please be concise.
+
+
+Write a descriptive paragraph about a bustling marketplace, incorporating sensory details such as smells, sounds, and visual elements to create an immersive experience for the reader.
+
+
+Please write a captivating short story beginning with the sentence: The old abandoned house at the end of the street held a secret that no one had ever discovered.
+
+
+You are a machine learning engineer. Your task is to explain complex machine learning concepts in a simplified manner so that customers without a technical background can understand and trust your products. Let's start with the question: \"What is a language model? Is it trained using labeled or unlabelled data?\"
+
+
+Write a poem inspired by nature.
+
+
+Write instructions for making a simple Iranian dish.
+
+
+Write a short story that begins with someone receiving an unexpected letter.
+
+
+Write a persuasive paragraph on why reading books is better than watching movies.
+
+
+Compose a descriptive paragraph about a traditional Iranian market.
+
+
+Write a letter to your future self 10 years from now.
+
+
+Draft a travel blog post about a recent trip to Yazd.
+
+
+Write a fictional dialogue between two friends who disagree about social media.
+
+
+Compose a short speech on the value of honesty.
+
+
+Write a thank-you note to a teacher who inspired you.
+
+
+Create a mythical creature inspired by Persian folklore. Describe its appearance, abilities, and a brief legend associated with it.
+
+
+Write a diary entry from the perspective of a cat living in the Golestan Palace in Tehran, observing the visitors and the historical surroundings.
+
+
+Compose a poem about the Alborz mountains as if they were ancient, sleeping giants.
+
+
+Write a polite email requesting a deadline extension from your professor.
+
+
+Compose a short product description for a handmade Persian silk carpet.
+
+
+Compose an invitation to a small gathering at your home. I'm inviting my close friends, thus, make the invitation friendly and warm.
+
+
+Compose a reply to someone who just congratulated you on a new job.
+
+
+Write a short message to accompany a birthday gift to a close friend.
+
+
+Write a comment on a blog post about traditional Iranian cuisine.
+
+
+Compose a short email apologizing for missing a team meeting.
+
+
+Draft a polite text message asking a colleague to cover your shift at work.
+
+
+Compose a LinkedIn post announcing a career change and expressing gratitude to your network.
+
+
+Write a formal complaint letter to a landlord about a broken heating system.
+
+
+Write a follow-up email after a job interview.
+
+
+Draft an email requesting a letter of recommendation from a professor.
+
+
+Write a short motivational email to your team before a big project deadline.
+
+
+Draft an email to customer service requesting a refund for a defective product, like a TV.
+
+
+Last night, I disagreed with my friend, which led to an argument between us. Could you please provide a letter of forgiveness to inform her that I regret what happened?
+
+
+Write a short story about a lost cat finding its way home.
+
+
+Write a set of instructions for making a cup of Persian tea.
+
+
+Write a persuasive letter to the local council about improving a park.
+
+
+Write a description of the sounds of a busy marketplace.
+
+
+Draft a social media post announcing a local charity event.
+
+
+Compose a short speech on the importance of kindness.
+
+
+Write a thank-you note for a thoughtful gift.
+
+
+Can you help me write a formal email to a potential business partner proposing a joint venture?
+
+
+Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?
+
+
+Write a compelling product launch announcement email to inform our customers of our new software solution.
+
+
+
+
+
+
+
+
+### Counter-Factual
+
+
+What if the Internet had been invented during the Renaissance period?
+
+
+What if the Black Death had not occurred in the 14th century?
+
+
+What if Isaac Newton had focused on biology instead of physics?
+
+
+What if Alan Turing had not cracked the Enigma code during World War II?
+
+
+What if the Suez Canal had never been constructed?
+
+
+What if Christopher Columbus had not discovered the Americas?
+
+
+What if Vincent van Gogh had been a successful artist during his lifetime?
+
+
+What if electricity had been discovered in ancient Greece?
+
+
+What if World War I had never happened?
+
+
+What if humans had evolved with the ability to photosynthesize?
+
+
+What if the printing press had been invented in China 1,000 years earlier?
+
+
+What if the Roman Empire had never fallen?
+
+
+What if Charles Darwin had never published On the Origin of Species?
+
+
+What if the dinosaurs had never gone extinct?
+
+
+What if the wheel had never been invented?
+
+
+What if the Industrial Revolution had started in Africa?
+
+
+What if artificial intelligence had emerged in the 19th century?
+
+
+What if the Wright brothers had failed to invent the airplane?
+
+
+What if the Soviet Union had reached the Moon before the United States?
+
+
+What if Shakespeare had written his plays in Persian?
+
+
+What if the Earth had two moons?
+
+
+What if all countries had adopted a universal language in the 19th century?
+
+
+What if computers had never been invented?
+
+
+What if the Persian Empire had successfully conquered Greece?
+
+
+What if the Mongol invasion of Persia had never occurred?
+
+
+What if the works of Avicenna (Ibn Sina) had been lost to history?
+
+
+What if Ferdowsi had never written the Shahnameh?
+
+
+What if oil had never been discovered in the Middle East?
+
+
+What if the Qajar dynasty had successfully modernized Iran in the 19th century?
+
+
+What if the World Wide Web had remained a military-only technology?
+
+
+What if the Earth had rings like Saturn?
+
+
+What if Leonardo da Vinci had been born in 20th-century Tehran?
+
+
+What if paper had never been invented?
+
+
+What if the Constitutional Revolution in Iran (1905–1911) had resulted in a stable democratic government?
+
+
+What if Nima Yushij had never introduced modernism to Persian poetry?
+
+
+What if the Persian Gulf had dried up in ancient times?
+
+
+What if Hafez had published his own interpretations of his poetry?
+
+
+What if the Achaemenid Empire had developed steam technology?
+
+
+What if Earth rotated twice as fast as it does now?
+
+
+What if gravity could be turned on and off?
+
+
+What if humans could hibernate like bears?
+
+
+What if electricity had never been discovered?
+
+
+What if Persepolis had not been burned by Alexander the Great?
+
+
+
+
+### Algorithmic
+
+
+Given an unsorted list of integers, propose an algorithm to find the maximum element in the list.
+
+
+Given a sorted list and an integer x, propose an algorithm to find out if the list contains x or not.
+
+
+Given a list of numbers, propose an algorithm to calculate the mean of those numbers.
+
+
+Given a list of names, propose an algorithm to find out if a name is repeated in the list.( If any duplicate items exist.)
+
+
+Given a list of emails, explain a strategy for removing all duplicate entries from a list of email addresses, ensuring each unique email address remains only once.
+
+
+Describe a systematic method for finding the most common character (the mode) in a given string of text.
+
+
+Explain the conceptual process you would follow to reverse the order of items in a collection (e.g., a list of names) without using a built-in reverse function.
+
+
+Given a list of integers and an integer "k", propose an algorithm to find a pair of numbers whose sum is equal to "k", if any pair exists.
+
+
+Outline a method to determine the number of words in a given sentence. Assume words are separated by single spaces.
+
+
+Explain an algorithm for calculating the factorial of a given non-negative integer n.
+
+
+How to check if a String is a palindrome?
+
+
+Given a list of integers, how would you find the second-smallest element?
+
+
+How would you check if a list is sorted in ascending order?
+
+
+Given two lists, how would you find common elements between them?
+
+
+How would you count the frequency of a specific element in a list?
+
+
+Given a string, how would you reverse the order of words (not characters)?
+
+
+Given a number, how would you check if it’s a prime number?
+
+
+Given a number, how would you determine if it’s a power of two?
+
+
+How would you simulate a queue using stacks?
+
+
+Given a stream of numbers, how would you compute the running mean?
+
+
+Given a binary tree, how would you find its maximum depth?
+
+
+Given the coordinates of two points (in n-dimensional space) in two lists, how would you calculate the Euclidean distance?
+
+
+How would you sort a list of numbers without using built-in sort functions?
+
+
+How would you check if one string is a rotation of another (e.g., "abcd" → "cdab")?
+
+
+How can I check if a string of parentheses is balanced (e.g., "((()()))")?
+
+
+How can I check if a string of parentheses has the same count of open and closed parentheses with only one integer variable? (need not be a valid parentheses)
+
+
+Given two strings, how would you find the longest common prefix?
+
+
+
+
+### STEM
+
+
+Explain the process of photosynthesis.
+
+
+Describe Newton’s first law. 
+
+
+Describe Newton’s second law. 
+
+
+Describe Newton’s third law. 
+
+
+Explain in simple terms why you see lightning before you hear thunder.
+
+
+What is the primary function of red blood cells in the human body?
+
+
+What is the difference between a renewable and a non-renewable energy source? Give one example of each.
+
+
+How does a QR code work to store information?
+
+
+What are the basic components needed for a simple electrical circuit to light up a bulb?
+
+
+What are the three main states of matter? Give an example of a substance found in each state.
+
+
+What is the main gas that humans breathe in from the air, and what main gas do they breathe out?
+
+
+Why is the sky blue on a clear day?
+
+
+What is the name of the process by which plants make their own food using sunlight?
+
+
+What causes a rainbow to appear in the sky, often after a rain shower?
+
+
+If you drop a feather (light) and a metal cube(heavy) in a vacuum chamber, which one will hit the ground first?
+
+
+What is the geometric interpretation of the dot product of two vectors?
+
+
+What is the high-level definition of RSA in cryptography?
+
+
+What is the difference between supervised and unsupervised machine learning?
+
+
+Why do we see lightning before we hear thunder?
+
+
+Why does a balloon stick to the wall after rubbing it on hair?
+
+
+What is the sum of the angles in a triangle?
+
+
+Why does the Moon appear to change shape (phases)?
+
+
+How does a microwave oven heat food?
+
+
+Why do we blink our eyes?
+
+
+Why do onions make you cry when you cut them?
+
+
+How does GPS know your location?
+
+
+How does a remote control change TV channels?
+
+
+How does wireless charging work?
+
+
+Why do keyboards have bumps on the F and J keys?
+
+
+What causes a rainbow to form?
+
+
+What are the main types of light in the electromagnetic spectrum, ordered by energy?
+
+
+Why is there no sound in space?
+
+
+What is overfitting in Machine Learning, and how can we prevent it?
+
+
+What is the main idea behind random forests?
+
+
+What’s the difference between precision and recall?
+
+
+Explain what causes earthquakes.
+
+
+Consider a satellite that is in a circular orbit around the Earth. The speed of the satellite decreases. What will happen to the satellite's orbital radius and period of revolution? Please justify your answer using principles of physics.
+
+
+Describe the process and write out the balanced chemical equation for the reaction that occurs when solid calcium carbonate reacts with hydrochloric acid to form aqueous calcium chloride, carbon dioxide, and water. What type of reaction is this, and what observations might indicate that the reaction is taking place?
+
+
+Explain the process of natural selection and how it contributes to the evolution and adaptation of species.
+
+
+
+
+### Extraction
+
+
+Classify the following review of a restaurant as positive, negative, or neutral.\n"The atmosphere was cozy and the food was tasty, but the service was terribly slow and our order was incomplete."
+
+
+Analyze the sentiment of the following tweet and determine whether it is positive, negative, or neutral.\n"Just got home from the book fair. Crowded and noisy, but I found some rare titles I've been searching for!"
+
+
+Categorize the following headlines into 'Politics', 'Economy', or 'Culture'.\n"Government signs new trade agreement / Inflation reaches 30% / National theater festival opens in Qeshm"
+
+
+Question: Analyze the overall sentiment expressed in the following product review. Is it positive, negative, or neutral? Please provide specific words or phrases from the text that support your reasoning.\nReference Text: "The new XYZ smartphone has an amazing camera and the battery life is incredible, lasting me almost two full days. However, the user interface can be a bit confusing at times and it's much heavier than my old phone."
+
+
+Question: What is the primary purpose of the following email excerpt: to request information, to offer congratulations, to complain about a service, or to make a suggestion? Justify your answer with evidence from the text.\nReference Text: "Dear Team, I was reviewing the quarterly report and noticed a significant increase in our operational costs. I believe we should schedule a meeting to discuss potential strategies for optimizing our spending in this area."
+
+
+Question: On a scale of 1 (not at all persuasive) to 5 (very persuasive), how persuasive do you find the following argument for using reusable shopping bags? Explain your rating, citing specific elements from the text.\nReference Text: "Switching to reusable shopping bags is a small change that can have a huge positive impact on our planet. Single-use plastic bags often end up in landfills or oceans, harming wildlife and polluting our environment for centuries. Make the responsible choice today."
+
+
+Question: Classify the main theme of the following paragraph. Is it primarily about: a) The benefits of teamwork, b) The challenges of remote work, c) Effective communication strategies, d) Time management techniques? Explain your reasoning based on the text.\nReference Text: "Working from home offers flexibility, but it also requires strong discipline and clear boundaries between professional and personal life. Without the structure of an office, individuals must proactively manage their schedules to maintain productivity and avoid burnout."
+
+
+Question: Identify the primary emotion conveyed by the narrator in the following passage. Is it joy, frustration, anxiety, or relief? Provide reasons for your answer based on the language used.\nReference Text: "After hours of searching, I finally found my lost keys tucked under a pile of magazines. The wave of relief that washed over me was immense; I had been dreading the cost and hassle of replacing them all."
+
+
+Question: What is the author's apparent attitude towards the subject of artificial intelligence in the following statement? Is it optimistic, pessimistic, neutral, or cautious? Justify your interpretation with phrases from the text.\nReference Text: "While artificial intelligence presents incredible opportunities for innovation and efficiency, we must also carefully consider its ethical implications and potential societal disruptions before widespread adoption."
+
+
+Question: Based on the following text, what is the main problem the author is identifying regarding modern city living? Explain your answer using information from the text.\nReference Text: "The constant noise, the relentless pace, and the lack of green spaces in many urban environments can contribute significantly to stress and a diminished sense of well-being for residents."
+
+
+Question: Does the following text primarily aim to provide instructions, describe an experience, or present an opinion? Justify your conclusion based on the content.\nReference Text: "To assemble the bookshelf, first identify all the components listed in the manual. Then, attach the side panels to the base using the provided screws, ensuring they are aligned correctly before tightening."
+
+
+Question: Identify one advantage and one disadvantage of the proposed solution mentioned in the following text. Explain your reasoning for each.\nReference Text: "Implementing a four-day work week could boost employee morale and reduce burnout. However, it might also lead to longer workdays for some and potential scheduling conflicts for customer-facing roles."
+
+
+Question: What is the overall tone of the following announcement regarding a community event? Is it formal, informal, urgent, or celebratory? Provide reasons for your answer.\nReference Text: "Hey everyone! Don't forget our annual community picnic this Saturday at Elm Park! There'll be games, food, and fun for all ages. See you there!"
+
+
+Question: Is the author's overall sentiment towards the book reviewed in the following excerpt positive, negative, or mixed? Justify your answer by referencing different aspects mentioned.\nReference Text: "The author's writing style is undeniably beautiful, with vivid descriptions that bring the setting to life. Unfortunately, the plot develops at a glacial pace, and the characters remain frustratingly one-dimensional."
+
+
+Question: What is the main purpose of the following text: a) to explain a scientific concept, b) to advertise a new product, c) to narrate a fictional story, d) to offer financial advice? Explain your choice.\nReference Text: "Photosynthesis is the process used by plants, algae, and certain bacteria to convert light energy into chemical energy, through a process that uses sunlight, water, and carbon dioxide."
+
+
+Question: What primary quality does the author highlight about the subject in the following description? Is it their intelligence, their kindness, their ambition, or their creativity? Provide textual evidence for your answer.\nReference Text: "She always had a knack for seeing problems from a unique angle, often devising ingenious solutions that no one else had considered. Her workshop was a treasure trove of imaginative inventions."
+
+
+Question: Based on the description, what would you infer is the intended audience for the following text? Is it experts in a field, children, general consumers, or business professionals? Explain your reasoning.\nReference Text: "The Model X5000 boasts a quad-core processor, 16GB of RAM, and a high-resolution retina display, making it ideal for power users who require seamless multitasking and superior graphics performance."
+
+
+Question: What is the author's main sentiment regarding the rise of social media, as expressed in the following passage? Justify your analysis with phrases from the text.\nReference Text: "While social media connects us in unprecedented ways, it also presents challenges, including the spread of misinformation and the potential for increased social comparison and anxiety. Its impact is clearly a double-edged sword."
+
+
+Question: What is the overall tone of the following customer service response? Is it empathetic, dismissive, defensive, or apologetic? Provide reasons for your answer.\nReference Text: "We understand your frustration with the delay in your order. We are currently experiencing higher than usual volumes but assure you that your package will be shipped as soon as possible. We appreciate your patience."
+
+
+Question: According to the following critique, what are the main strengths of the new software application? Explain your answer using the reviewer's points.\nReference Text: "The latest update to the application introduces a much cleaner user interface and significantly faster processing speeds. Tasks that used to take minutes can now be completed in seconds, which is a huge improvement."
+
+
+Question: Based on this text, what is the perceived importance of regular physical activity for overall health? Is it considered minor, moderate, or highly significant? Explain your reasoning.\nReference Text: "Engaging in regular physical activity is fundamental for maintaining cardiovascular health, managing weight, boosting mood, and reducing the risk of several chronic diseases. It's a cornerstone of a healthy lifestyle."
+
+
+Question: Identify one potential benefit and one potential drawback of the practice described in the following text. Justify your answer with evidence from the text.\nReference Text: "Mindfulness meditation, which involves focusing on the present moment without judgment, can reduce stress and improve concentration. However, for some individuals, sitting still and attempting to quiet the mind can initially feel uncomfortable or even heighten anxiety if not approached with gentle guidance."
+
+
+Question: According to this text, what are the key characteristics of a good leader? List them and provide reasoning based on the text.\nReference Text: "Effective leadership involves not only clear vision and decisive action but also the ability to inspire and motivate a team, listen empathetically to diverse perspectives, and adapt to changing circumstances with resilience.
+
+
+Evaluate the following movie reviews on a scale of 1 to 5, with 1 being very negative, 3 being neutral, and 5 being very positive:\n1. This movie, released on Nov. 18, 2019, was phenomenal. The cinematography, the acting, the plot - everything was top-notch.\n2. Never before have I been so disappointed with a movie. The plot was predictable, and the characters were one-dimensional. In my opinion, this movie is the worst one to have been released in 2022.\n3. The movie was okay. There were some parts I  enjoyed, but there were also parts that felt lackluster. This is a movie that was released in February 2018 and seems to be quite ordinary.\nReturn the answer as a JSON array of integers.
+
+
+Extract the following information from the presented texts: The name of the book, the author, the main character, and the year of publication. Output it in JSON format.\na) In the realm of wizarding literature, a true standout is the work of J.K. Rowling. One of her books that left an indelible mark is 'Harry Potter and the Philosopher's Stone'. This iconic tale, published in 1997, tells the story of Harry, a young orphan who discovers his magical abilities on his 11th birthday. Soon, he finds himself at the Hogwarts School of Witchcraft and Wizardry, a place teeming with magic and adventure, located somewhere in Scotland.\nb) The magic of Middle-earth has entranced readers worldwide, thanks to the brilliance of J.R.R. Tolkien. In one of his seminal works, 'The Lord of the Rings: The Fellowship of the Ring', published in 1954, we meet Frodo Baggins, a brave hobbit tasked with the perilous quest of destroying the One Ring. The epic journey takes him from the peaceful Shire to the tumultuous regions of Middle-earth.
+
+
+Given the following data, identify the company with the highest profit in 2021 and provide its CEO's name:\na) Company X, with CEO Amy Williams, reported $30 billion in revenue and a $3 billion profit in 2021.\nb) Company Y, led by CEO Mark Thompson, posted a $60 billion revenue and a $6 billion profit in the same year.\nc) Company Z, under CEO Sarah Johnson, announced a $20 billion revenue and a $7 billion profit in 2021.\nd) Company W, managed by CEO James Smith, revealed a $300 billion revenue with a $21 billion profit in 2021.\ne) Company V, with CEO Lisa Brown, reported a $200 billion revenue and a $25 billion profit in 2021.\nf) Company U, under CEO John White, posted a $180 billion revenue and a $20 billion profit in the same year.
+
+
+Please read the paragraph below and count how many times the words \"Amazon\" and \"river\" appear. Please present the results in the format of \"word, number of appearances\" with each word on a separate line. Sort the lines in order of the number of appearances.\nThe Amazon, a mesmerizing expanse of nature's wonders, is home to the legendary Amazon River. Flowing through awe-inspiring landscapes like the Amazon rainforest, the river weaves its way through Brazil, Colombia, and Peru, giving life to countless creatures. From the mighty jaguars prowling the Amazon jungle to the vibrant macaws soaring above the canopy, this remarkable region teems with biodiversity. Deep within the river's currents, magnificent pink river dolphins gracefully glide alongside piranhas and electric eels. Along the riverbanks, you'll find bustling cities like Manaus, where the urban meets the wild, and Iquitos, a gateway to the heart of the Amazon rainforest. As you venture further, the Amazon River reveals hidden gems like the captivating Anavilhanas Archipelago, a mosaic of islands brimming with rare species. Embark on an adventure, explore the enchanting Amazon River, and immerse yourself in a world teeming with life and untamed beauty.
+
+
+Identify the named entities (people, organizations, locations) mentioned in the given news article. Please generate a JSON dictionary that lists the named entities in three separate groups based on their entity types. The key is the type of entity, and the value is a list of strings.\n\nYesterday, Adamson Emerson, the CEO of Faraday, and Dieter Zetsche, the CEO of Daimler AG, announced plans to build a new Gigafactory in Berlin. The facility will be a joint venture between Faraday and Daimler, producing electric vehicles and battery packs for both companies, creating thousands of job opportunities in the region. Emerson and Zetsche stated that the strategic location of Berlin, coupled with its skilled workforce and strong infrastructure, makes it an ideal choice for expansion. The new Gigafactory aims to meet the growing demand for electric vehicles in Europe and contribute to a sustainable future. Volkswagen CEO Herbert Diess welcomed the news, saying greater collaboration will benefit the auto industry's transition to e-mobility.
+
+
+
+
+###
