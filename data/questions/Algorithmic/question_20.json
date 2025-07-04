@@ -1,4 +1,4 @@
 {
-  "original_question": "Given a stream of numbers, how would you compute the running mean?",
-  "translated_question": "با داشتن جریانی از اعداد، چگونه میانگین متحرک را محاسبه می‌کنید؟"
+  "original_question": "Given a stream of numbers, how would you compute the running mean,without saving numbers?",
+  "translated_question": "با داشتن جریانی از اعداد، چگونه میانگین آنها را بدون ذخیره کدن اعداد محاسبه کنیم؟"
 }
