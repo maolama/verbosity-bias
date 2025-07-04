@@ -1,4 +1,4 @@
 {
   "original_question": "Given a list of emails, explain a strategy for removing all duplicate entries from a list of email addresses, ensuring each unique email address remains only once.",
-  "translated_question": "یک لیست از آدرس‌های ایمیل در اختیار دارید. استراتژی‌ای را توضیح دهید که با استفاده از آن، تمام آدرس‌های ایمیل تکراری از این لیست حذف شده و تنها آدرس‌های منحصر به فرد باقی بمانند."
+  "translated_question": "یک لیست از آدرس‌های ایمیل در اختیار دارید. االگوریتمی را ارائه دهید که با استفاده از آن، تمام آدرس‌های ایمیل تکراری از این لیست حذف شده و تنها آدرس‌های منحصر به فرد باقی بمانند."
 }
