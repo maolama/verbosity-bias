@@ -1,4 +1,4 @@
 {
   "original_question": "How can I check if a string of parentheses has the same count of open and closed parentheses with only one integer variable? (need not be a valid parentheses)",
-  "translated_question": "چطور می‌توانم بررسی کنم که یک رشته پرانتز تعداد پرانتزهای باز و بسته یکسانی دارد، آن هم فقط با یک متغیر صحیح؟ (لازم نیست پرانتزها معتبر باشند)"
+  "translated_question": "چطور می‌توانم بررسی کنم که یک رشته پرانتز تعداد پرانتزهای باز و بسته یکسانی دارد، آن هم فقط با استفاده از یک متغیر صحیح؟ (لازم نیست پرانتزها معتبر باشند)"
 }

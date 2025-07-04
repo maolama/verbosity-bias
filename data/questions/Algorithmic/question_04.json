@@ -1,4 +1,4 @@
 {
-  "original_question": "Given a list of names, propose an algorithm to find out if a name is repeated in the list.( If any duplicate items exist.)",
-  "translated_question": "با داشتن فهرستی از اسامی، الگوریتمی پیشنهاد دهید تا مشخص شود آیا نامی در این فهرست تکرار شده است (در صورت وجود هرگونه مورد تکراری)."
+  "original_question": "Given a list of strings, propose an algorithm to find out if a name is repeated in the list.( If any duplicate items exist.)",
+  "translated_question": "با داشتن لیستی از رشته\u200Cها، الگوریتمی پیشنهاد دهید تا مشخص شود آیا رشته\u200Cای در این لیست تکرار شده است یا خیر.(آیا آیتم تکراری در لیست وجود دارد یا خیر)"
 }
