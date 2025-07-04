@@ -7,8 +7,8 @@ from codes.utils import *
 
 
 def create_data_dir():
-    if not os.path.exists(data_path):
-        os.makedirs(data_path)
+    if not os.path.exists(questions_path):
+        os.makedirs(questions_path)
     return True
 
 
@@ -21,7 +21,7 @@ def create_questions_dir(path):
                 # extract ### part
                 title = line.replace('###', '').strip()
                 if title:
-                    folder_path = data_path + "/" + title
+                    folder_path = questions_path + "/" + title
                     if not os.path.exists(folder_path):
                         os.makedirs(folder_path)
                     print(title)
@@ -54,7 +54,7 @@ def count_questions(path):
                 qu = {"original_question": line.strip()}
                 # save qu in json
                 if title:
-                    folder_path = data_path + "/" + title
+                    folder_path = questions_path + "/" + title
                     file_path = os.path.join(folder_path, f"question_{counter:02}.json")
                     with open(file_path, 'w', encoding='utf-8') as outfile:
                         json.dump(qu, outfile, indent=2)

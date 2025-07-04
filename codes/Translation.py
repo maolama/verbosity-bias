@@ -1,12 +1,11 @@
+import json
 import os
-import google.generativeai as genai
-from codes.GlobalVars import *
-from codes.Environment import get_config
+import time
 
 import google.generativeai as genai
-from tqdm import tqdm
-import json
-import time
+
+from codes.Environment import get_config
+from codes.GlobalVars import *
 
 
 def translation_route():
@@ -25,8 +24,8 @@ def translation_route():
 
 def verify_translation_is_done():
     errors =[]
-    for folder_name in os.listdir(data_path):
-        folder_path = os.path.join(data_path, folder_name)
+    for folder_name in os.listdir(questions_path):
+        folder_path = os.path.join(questions_path, folder_name)
         # Check if it's a directory
         if os.path.isdir(folder_path):
             # Iterate through each file in the folder
@@ -67,8 +66,8 @@ def google_path(model, config):
     counter = 0
     xx = 0
     # Iterate through each folder in the data directory
-    for folder_name in os.listdir(data_path):
-        folder_path = os.path.join(data_path, folder_name)
+    for folder_name in os.listdir(questions_path):
+        folder_path = os.path.join(questions_path, folder_name)
         xx = 0
         # Check if it's a directory
         if os.path.isdir(folder_path):
