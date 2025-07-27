@@ -1,11 +1,8 @@
-from codes.init import init
 from codes import Environment
-from codes import Translation
-import google.generativeai as genai
+from codes.ResponseGeneration import ResponseGeneration
 
 from codes.Environment import get_config
-from codes.GlobalVars import *
-
+import os
 
 # create main function
 if __name__ == '__main__':
@@ -13,16 +10,18 @@ if __name__ == '__main__':
     print(Environment.init())
     #### init(question_path)
     # Translation.translation_route()
-    print("google")
-    CONFIG = get_config()
-    genai.configure(api_key=CONFIG[TR_API_KEY])
-    model = genai.GenerativeModel(CONFIG[TR_MODEL])
-    print(model)
+    config = get_config()
+    print(config)
+    gen = ResponseGeneration(config=config)
+    print(gen)
 
-    prompt = (
-        "How can I open a chrome (or any visual browser) on google colab and then connect to it via my local host?"
-    )
+    input_dir = "data/questions"
+    output_dir = "data/output"
 
-    response = model.generate_content(prompt)
-    print(response.text)
-
+    gen.batch_generate_response(input_dir, output_dir, model_name="gemma3")
+    # all_filenames = [f for f in os.listdir(input_dir) if f.endswith('.json')]
+    # gen.batch_generate_response(
+    #     input_dir="data/questions/Reasoning/",
+    #     output_dir="data/results/Reasoning/Reasoning_gemma3/",
+    #     question_type="استدلال"
+    # )
