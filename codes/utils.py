@@ -1,6 +1,9 @@
 from termcolor import *
 import os
 from dotenv import load_dotenv
+import re
+import json
+
 
 def log(prompt, color="white"):
     cprint(prompt, color=color, force_color=True)
@@ -9,40 +12,19 @@ def log(prompt, color="white"):
 def log_error(prompt, color="red"):
     log(prompt, color)
 
-#
-# def load_env_vars():
-#     # Load .env file first
-#     load_dotenv()
-#
-#     # Define your environment schema
-#     REQUIRED_ENV_VARS = [
-#         "API_KEY",
-#     ]
-#
-#     OPTIONAL_ENV_VARS_WITH_DEFAULTS = {
-#         "DEBUG": "false",
-#         "TIMEOUT": "10",  # seconds
-#     }
-#
-#     def load_and_validate_env():
-#         # Load required variables
-#         for var in REQUIRED_ENV_VARS:
-#             value = os.getenv(var)
-#             if not value:
-#                 raise EnvironmentError(f"Missing required environment variable: {var}")
-#             os.environ[var] = value  # Ensure it's present in os.environ
-#
-#         # Load optional variables with defaults
-#         for var, default in OPTIONAL_ENV_VARS_WITH_DEFAULTS.items():
-#             if os.getenv(var) is None:
-#                 os.environ[var] = default
-#
-#         # Optional: log loaded vars for debug (excluding secrets)
-#         print("Environment variables loaded successfully.")
-#
-#     # Call it once at app startup
-#     load_and_validate_env()
-#     pass
-#
-#
-#
+
+def extract_json_from_text(text):
+    # This regex attempts to find a JSON object or array
+    # It looks for the first '{' or '[' and then tries to match
+    # until the corresponding closing '}' or ']'
+    # This is a basic approach and might fail for complex or malformed JSON
+    match = re.search(r'({.*}|\[.*\])', text, re.DOTALL)
+    if match:
+        json_part = match.group(0)
+        try:
+            return json_part
+        except json.JSONDecodeError:
+            # If the initial regex capture isn't perfect JSON,
+            # you might need more sophisticated parsing or error handling.
+            return None
+    return None
