@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 import re
 import json
+import textwrap
 
 
 def log(prompt, color="white"):
@@ -28,3 +29,8 @@ def extract_json_from_text(text):
             # you might need more sophisticated parsing or error handling.
             return None
     return None
+
+
+def pretty_print(s, width=140):
+    return textwrap.fill(s, width=width, replace_whitespace=False)
+    pass
