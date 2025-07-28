@@ -86,14 +86,14 @@ You should compare the answers in terms of helpfulness, relevance, accuracy, and
 After providing your explanation, output your final verdict by strictly following this format: [[A]] if assistant A is better, [[B]] if assistant B is better, and [[C]] for a tie.
 
 [User Question]
-<QUESTION>
+{QUESTION}
 
 [The Start of Assistant A's Answer]
-<ANSWER_A>
+{ANSWER_A}
 [The End of Assistant A's Answer]
 
 [The Start of Assistant B's Answer]
-<ANSWER_B>
+{ANSWER_B}
 [The End of Assistant B's Answer]
 """,
 
@@ -105,14 +105,14 @@ After providing your explanation, output your final verdict by strictly followin
 و [[C]] اگر هر دو پاسخ در یک سطح هستند.
 
 [پرسش کاربر]
-<QUESTION>
+{QUESTION}
 
 [شروع پاسخ دستیار A]
-<ANSWER_A>
+{ANSWER_A}
 [پایان پاسخ دستیار A]
 
 [شروع پاسخ دستیار B]
-<ANSWER_B>
+{ANSWER_B}
 [پایان پاسخ دستیار B]
 """
 }
