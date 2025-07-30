@@ -46,19 +46,35 @@ class ResponseGeneration:
         return res[:-1]
         pass
 
-    def batch_generate_response(self, input_bsae_dir, output_base_dir, model_name, temperature=0.7):
+    def batch_generate_response(self, input_bsae_dir,
+                                output_base_dir,
+                                model_name,
+                                temperature=0.7,
+                                dir_limit=1000,
+                                file_limit=1000
+                                ):
         all_filenames = [f for f in os.listdir(input_bsae_dir)]
+        counter = 0
         for file_name in all_filenames:
+            if counter >= dir_limit:
+                break
             self.batch_generate_response_util(
                 input_dir=f"{input_bsae_dir}/{file_name}/",
                 output_dir=f"{output_base_dir}/{model_name}/{file_name}/",
                 question_type=file_name,
-                temperature=temperature
+                temperature=temperature,
+                question_limit=file_limit
             )
-
+            counter += 1
         pass
 
-    def batch_generate_response_util(self, input_dir, output_dir, question_type, temperature=0.7):
+    def batch_generate_response_util(self,
+                                     input_dir,
+                                     output_dir,
+                                     question_type,
+                                     temperature=0.7,
+                                     question_limit=1000
+                                     ):
         print(f"Start processing {question_type}")
 
         # Ensure output directory exists
@@ -76,8 +92,8 @@ class ResponseGeneration:
 
         # Process in batches of 3
         for batch_files in tqdm(batched(all_filenames, 2)):
-            # if counter >= 3:
-            #     break
+            if counter >= question_limit:
+                break
             output_path = os.path.join(output_dir, batch_files[-1])
             if os.path.exists(output_path):
                 print(f"{output_path} already exists")

@@ -3,7 +3,19 @@ from codes.ResponseGeneration import ResponseGeneration
 from codes.Evaluator import Evaluator
 
 from codes.Environment import get_config
+
+from time import perf_counter
+from contextlib import contextmanager
 import os
+
+
+@contextmanager
+def elapsed_time(label="Elapsed"):
+    start = perf_counter()
+    yield
+    end = perf_counter()
+    print(f"{label}: {(end - start) * 1000:.2f} ms")
+
 
 # create main function
 if __name__ == '__main__':
@@ -20,18 +32,20 @@ if __name__ == '__main__':
     answer_dir = "data/responses"
     results_dir = "data/results"
     gen = ResponseGeneration(config=config)
-    gen.batch_generate_response(input_dir, answer_dir, model_name="gemma3")
+    # with elapsed_time("My code block"):
+    #     gen.batch_generate_response(input_dir,
+    #                                 answer_dir,
+    #                                 model_name="claude3-7",
+    #                                 dir_limit=1000,
+    #                                 file_limit=1
+    #                                 )
 
-    eval_gemma = Evaluator(config=config, model="google/gemma-3-27b-it:free")
-    # eval_gemma.experiments("data/questions/Algorithmic/question_09.json",
-    #                        "data/responses/gemma3/Algorithmic/question_09.json",
-    #                        "question_09.json",
-    #                        "res")
-
-    eval_gemma.batch_experiments(input_dir,
-                                 answer_dir+"/gemma3",
-                                 results_dir,
-                                 model_name="gemma3",
-                                 dir_limit=1000,
-                                 file_limit=1
-                                 )
+    eval_gemma = Evaluator(config=config, model="anthropic/claude-3.7-sonnet")
+    with elapsed_time("My code block"):
+        eval_gemma.batch_experiments(input_dir,
+                                     answer_dir + "/claude3-7",
+                                     results_dir,
+                                     model_name="claude3-7",
+                                     dir_limit=1000,
+                                     file_limit=2
+                                     )
