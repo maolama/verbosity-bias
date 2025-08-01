@@ -6,8 +6,8 @@ import json
 import textwrap
 
 
-def log(prompt, color="white"):
-    cprint(prompt, color=color, force_color=True)
+def log(prompt, color="white", on_color=None, end="\n"):
+    cprint(prompt, color=color, on_color=on_color, force_color=True , end=end)
 
 
 def log_error(prompt, color="red"):
