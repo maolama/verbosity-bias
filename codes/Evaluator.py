@@ -17,7 +17,15 @@ class Evaluator:
             base_url=config[RG_API_URL],
             api_key=config[RG_API_KEY],
         )
+        self.total_input_token = 0
+        self.total_output_token = 0
         pass
+
+    @staticmethod
+    def word_count(text):
+        dict_str = str(text)
+        # Count number of words
+        return len(dict_str.split())
 
     def evaluation_util(self,
                         question,
@@ -34,13 +42,17 @@ class Evaluator:
             "role": "user",
             "content": prompt1
         }
+        self.total_input_token += self.word_count(message1)
 
-        completion1 = self.evaluator_client.chat.completions.create(
+        completion = self.evaluator_client.chat.completions.create(
             model=self.model,
             temperature=temperature,
             messages=[message1]
         )
-        return completion1
+
+        raw_mesasge = completion.choices[0].message.content
+        self.total_output_token += len(raw_mesasge.strip().split())
+        return completion
         pass
 
     @staticmethod
@@ -231,6 +243,30 @@ class Evaluator:
             counter += 1
         pass
 
+    def batch_experiments_list(self,
+                               question_bsae_dir,
+                               answer_base_dir,
+                               output_base_dir,
+                               model_name,
+                               list_dir: list,
+                               temperature=0.7,
+                               file_limit=1000):
+        all_filenames = [f for f in os.listdir(question_bsae_dir)]
+        counter = 0
+        for ind, file_name in enumerate(all_filenames):
+            if file_name in list_dir:
+                self.batch_experiments_util(
+                    question_dir=f"{question_bsae_dir}/{file_name}/",
+                    answer_dir=f"{answer_base_dir}/{file_name}/",
+                    output_dir=f"{output_base_dir}/{model_name}/{file_name}/",
+                    question_type=file_name,
+                    temperature=temperature,
+                    question_limit=file_limit
+                )
+            counter += 1
+        return self.total_input_token , self.total_output_token
+        pass
+
     def batch_experiments_util(self,
                                question_dir,
                                answer_dir,
@@ -257,6 +293,7 @@ class Evaluator:
 
             if os.path.exists(output_path):
                 print(f"{output_path} already exists")
+                counter += 1
                 continue
 
             results = self.experiments(question_file,
