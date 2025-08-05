@@ -33,9 +33,9 @@ if __name__ == '__main__':
     # Translation.translation_route()
 
     # Response generation
-    input_dir = "data/questions"
-    answer_dir = "data/responses"
-    results_dir = "data/evaluation"
+    input_dir = "./data/questions"
+    answer_dir = "./data/responses"
+    results_dir = "./data/evaluation"
     gen = ResponseGeneration(config=config)
     timer = {}
     with elapsed_time("My code block", timer):
@@ -47,10 +47,10 @@ if __name__ == '__main__':
                                                                      temperature=0.7,
                                                                      file_limit=1000
                                                                      )
-    os.makedirs("logs/", exist_ok=True)
-    with open("logs/response_generation.txt", "w", encoding='UTF-8') as f:
-        Q = str(total_input) + "|" + str(total_output) + "|" + str(timer['elapsed'])
-        json.dump(Q, f, ensure_ascii=False, indent=4)
+    # os.makedirs("logs/", exist_ok=True)
+    # with open("logs/response_generation.txt", "w", encoding='UTF-8') as f:
+    #     Q = str(total_input) + "|" + str(total_output) + "|" + str(timer['elapsed'])
+    #     json.dump(Q, f, ensure_ascii=False, indent=4)
 
     evaluators = {
         'deepseek-r1': 'deepseek/deepseek-r1-0528:free',
@@ -64,8 +64,8 @@ if __name__ == '__main__':
             total_input, total_output = evaluator.batch_experiments_list(question_bsae_dir=input_dir,
                                                                          answer_base_dir=answer_dir + "/claude3-7",
                                                                          output_base_dir=results_dir,
-                                                                         list_dir=['Algorithmic', 'Math',
-                                                                                   'Creative-Writing'],
+                                                                         list_dir=['Algorithmic' ,'Math',
+                                                                               'Creative-Writing'],
                                                                          model_name=name,
                                                                          temperature=0.7,
                                                                          file_limit=1000

@@ -43,6 +43,7 @@ class ResponseGeneration:
             temperature=temperature,
             messages=[message]
         )
+        
         return completion
 
         pass
@@ -64,6 +65,7 @@ class ResponseGeneration:
                                 file_limit: int = 1000
                                 ):
         all_filenames = [f for f in os.listdir(input_bsae_dir)]
+        all_filenames.sort()
         counter = 0
         for file_name in all_filenames:
             if counter >= dir_limit:
@@ -87,6 +89,7 @@ class ResponseGeneration:
                                 file_limit: int = 1000
                                 ):
         all_filenames = [f for f in os.listdir(input_bsae_dir)]
+        all_filenames.sort()
         counter = 0
         for file_name in all_filenames:
             if file_name in list_dir:
@@ -98,7 +101,7 @@ class ResponseGeneration:
                     temperature=temperature,
                     question_limit=file_limit
                 )
-            counter += 1
+                counter += 1
         return self.total_input_tokens , self.total_output_tokens
         pass
 
@@ -116,6 +119,7 @@ class ResponseGeneration:
 
         # Get all filenames ending with .json
         all_filenames = [f for f in os.listdir(input_dir) if f.endswith('.json')]
+        all_filenames.sort()
         counter = 0
 
         # Helper function to group items in chunks of n
@@ -149,6 +153,7 @@ class ResponseGeneration:
                                                 default_gen1_prompt=BATCH_RESPONSE_GENERATION_PROMPT,
                                                 default_gen2_prompt=BATCH_RESPONSE_GENERATION_PROMPT2)
             raw_response = completion.choices[0].message.content
+            print(raw_response)
             self.total_output_tokens += len(raw_response.strip().split())
             response = extract_json_from_text(raw_response)
             response = json.loads(response)
