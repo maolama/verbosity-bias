@@ -252,6 +252,7 @@ class Evaluator:
                                temperature=0.7,
                                file_limit=1000):
         all_filenames = [f for f in os.listdir(question_bsae_dir)]
+        all_filenames.sort()
         counter = 0
         for ind, file_name in enumerate(all_filenames):
             if file_name in list_dir:
@@ -281,6 +282,7 @@ class Evaluator:
 
         # Get all filenames ending with .json
         all_filenames = [f for f in os.listdir(question_dir) if f.endswith('.json')]
+        all_filenames.sort()
         counter = 0
         for ind, file in tqdm(enumerate(all_filenames)):
             if counter >= question_limit:
