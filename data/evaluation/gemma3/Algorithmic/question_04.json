@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A جامع‌تر و مفیدتر است. در حالی که هر دو دستیار از رویکرد استفاده از مجموعه (Set) برای تشخیص تکراری‌ها استفاده می‌کنند، دستیار A جزئیات بیشتری ارائه می‌دهد:\n\n*   **توضیح الگوریتم‌های جایگزین:** دستیار A علاوه بر روش مجموعه، الگوریتم مرتب‌سازی را نیز به عنوان یک گزینه دیگر معرفی می‌کند و پیچیدگی زمانی هر دو روش را بیان می‌کند.\n*   **پیاده‌سازی در پایتون:** ارائه کد پایتون برای مقایسه طول لیست و مجموعه، یک مثال عملی و قابل فهم است.\n*   **اشاره به ساختارهای مشابه در زبان‌های دیگر:** اشاره به HashSet در جاوا و unordered_set در ++C، نشان‌دهنده درک عمیق‌تری از موضوع و قابلیت تعمیم آن به زبان‌های برنامه‌نویسی دیگر است.\n\nپاسخ دستیار B مختصر و درست است، اما فاقد جزئیات و عمق پاسخ دستیار A است. درنتیجه، دستیار A اطلاعات بیشتری ارائه می‌دهد و برای کاربر مفیدتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی الگوریتم استفاده از مجموعه (Set) را برای تشخیص رشته‌های تکراری پیشنهاد می‌دهند و منطق آن را به درستی توضیح می‌دهند. با این حال، پاسخ دستیار A کمی مفصل‌تر و واضح‌تر است. توضیحات آن گام به گام و با جزئیات بیشتری ارائه شده‌اند و به پیچیدگی زمانی الگوریتم نیز اشاره کرده است که نشان‌دهنده درک عمیق‌تری از موضوع است. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات و توضیحات اضافی است که می‌تواند برای درک بهتر الگوریتم مفید باشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct and relevant answers to the question. They both correctly identify using a Set as the most efficient approach. However, Assistant A is more comprehensive. It discusses alternative approaches (sorting), mentions time complexity, and provides a Python-specific implementation detail (comparing `len(list)` and `len(set(list))`) and equivalents in other languages (Java, C++). Assistant B is concise but lacks the depth and practical examples offered by Assistant A. While conciseness can be good, in this case, the extra detail in A makes it more helpful to a user seeking an algorithmic suggestion.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار B به طور قابل توجهی بهتر است. در حالی که پاسخ دستیار A از نظر فنی درست است (مرتب‌سازی و جستجوی دودویی می‌توانند برای این کار استفاده شوند)، بسیار پیچیده و غیرضروری است. استفاده از مجموعه (Set) یک راه حل بسیار ساده‌تر، کارآمدتر و رایج‌تر برای تشخیص تکرار در یک لیست است. پیچیدگی زمانی استفاده از مجموعه O(n) است، در حالی که راه حل دستیار A حداقل O(n log n) است. دستیار B به طور مستقیم به یک راه حل عملی و بهینه اشاره می‌کند، در حالی که دستیار A در جزئیات پیاده‌سازی گم می‌شود و راه حلی را پیشنهاد می‌دهد که برای این مسئله بیش از حد پیچیده است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن (Helpfulness)**:\n- **پاسخ A**: بسیار مفید است. با ارائه‌ی مثال عملی و توضیح گام‌به‌گام، درک الگوریتم را برای کاربر آسان می‌کند.  \n- **پاسخ B**: نسبتاً مفید است اما کلی و فاقد جزئیات ضروری (مانند مثال یا نحوه‌ی عملکرد دقیق).  \n\n#### **ارتباط با پرسش (Relevance)**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به پرسش کاربر پاسخ می‌دهند.  \n- **پاسخ A** با شرح جزئیات عملیات `enqueue` و `dequeue`، ارتباط دقیق‌تری دارد.  \n\n#### **دقت (Accuracy)**:\n- هر دو پاسخ از نظر فنی **دقیق** هستند و اصول شبیه‌سازی صف با دو پشته را صحیح توضیح می‌دهند.  \n- **پاسخ A** با ذکر پیچیدگی زمانی `amortized O(1)` و ارائه‌ی مثال، دقت بالاتری در انتقال مفاهیم دارد.  \n\n#### **کیفیت کلی (Overall Quality)**:\n- **پاسخ A**: ساختار منسجم، آموزشی و کامل دارد. مثال گویا، نام‌گذاری واضح پشته‌ها (`ورودی/خروجی`) و توضیح عملیات‌ها، آن را به یک پاسخ برتر تبدیل می‌کند.  \n- **پاسخ B**: اگرچه صحیح است، اما **بیش از حد مختصر** است. عدم اشاره به مثال، نام پشته‌ها یا جزئیات عملکرد، از کیفیت آن می‌کاهد.  \n\n### نتیجه‌گیری:\nهر دو پاسخ از نظر فنی صحیح هستند، اما **پاسخ A** با ارائه‌ی **جزئیات کاربردی، مثال ملموس، و ساختار آموزشی برتر**، نیاز کاربر را به‌طور کامل برطرف می‌کند. پاسخ B تنها به ذکر کلیات بسنده کرده و برای درک عمیق‌تر ناکافی است.  \n\n**نتیجه نهایی**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **دستیار A**:\n- **مفید بودن**: بسیار مفید است. مراحل پیاده‌سازی را به‌طور کامل و گام‌به‌گام توضیح داده، از جمله منطق معکوس‌سازی ترتیب عناصر و تأثیر آن بر پیچیدگی زمانی.  \n- **ارتباط با پرسش**: پاسخ کاملاً مرتبط است و مستقیم به سوال کاربر پاسخ می‌دهد.  \n- **دقت**: از نظر فنی دقیق است. مفاهیم کلیدی مانند `amortized O(1)` و انتقال عناصر بین پشته‌ها را به درستی شرح داده است.  \n- **کیفیت کلی**: ساختار منسجم، جملات روان و توضیحات جامع که درک الگوریتم را برای کاربر آسان می‌کند.  \n\n#### **دستیار B**:\n- **مفید بودن**: مفید اما **کم‌جزئیات‌تر**. هسته اصلی روش را بیان می‌کند، اما توضیحی درباره‌ی چرایی معکوس‌شدن ترتیب عناصر یا مفهوم `amortized O(1)` ارائه نمی‌دهد.  \n- **ارتباط با پرسش**: مرتبط است و پاسخ مستقیم به سوال می‌دهد.  \n- **دقت**: از نظر فنی صحیح اما فشرده. نکات کلیدی را پوشش می‌دهد، اما عمق تحلیل دستیار A را ندارد.  \n- **کیفیت کلی**: پاسخ کوتاه و مختصر که برای کاربران با پیش‌زمینه قاطع کافی است، اما برای درک عمیق‌تر ناکافی است.  \n\n### تحلیل نهایی:\n- هر دو پاسخ از نظر **دقت** و **ارتباط** برابر هستند.  \n- **تفاوت اصلی در عمق و جامعیت** است:  \n  - دستیار A با توضیح **چرایی** معکوس‌شدن عناصر و مفهوم `amortized O(1)`، درک مفهومی عمیق‌تری ارائه می‌دهد.  \n  - دستیار B تنها به بیان خلاصه‌ی مراحل اکتفا کرده و برای کاربران مبتدی ممکن است گمراه‌کننده باشد.  \n- بنابراین، پاسخ دستیار A از نظر **مفید بودن** و **کیفیت کلی** برتر است.  \n\n### نتیجه:\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Explanation of Evaluation\n\n1. **Helpfulness**:  \n   - Assistant A provides a detailed, step-by-step explanation with concrete examples (e.g., enqueuing 1, 2, 3 and dequeuing twice). This makes the solution easy to understand and apply.  \n   - Assistant B offers a correct but overly simplified response, lacking concrete steps or examples, which reduces its practical utility for learners.  \n\n2. **Relevance**:  \n   - Both answers directly address the user’s question about simulating a queue using stacks, but Assistant A covers all key aspects (naming conventions, enqueue/dequeue logic, complexity), while Assistant B omits critical details like stack naming and operational flow.  \n\n3. **Accuracy**:  \n   - Both correctly describe the two-stack approach and mention amortized O(1) complexity. However, Assistant A’s example explicitly verifies correctness by showing how the order is preserved during dequeues, reinforcing accuracy.  \n   - Assistant B’s brevity risks ambiguity (e.g., no clarification on why the transfer reverses order).  \n\n4. **Overall Quality**:  \n   - Assistant A’s response is structured, comprehensive, and pedagogical, making it superior for both novice and experienced users. Assistant B’s oversimplification lacks depth and clarity, reducing its effectiveness.  \n\n**Final Verdict**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**پاسخ دستیار A**:  \n- **مفید بودن**: پاسخ جامع و شامل جزئیات پیاده‌سازی است.  \n- **ارتباط با پرسش**: کاملاً مرتبط و تمام اجزای سؤال را پوشش می‌دهد.  \n- **دقت**: دارای **خطای محاسباتی** در بیان پیچیدگی زمانی:  \n  - ادعا می‌کند عملیات `dequeue` با جابجایی دوطرفهٔ عناصر بین پشته‌ها **O(1)** است، درحالی که این عملیات **O(n)** است.  \n  - پیشنهاد استفاده از پشتهٔ سوم بدون توضیح مکانیزم، غیراستاندارد و گمراه‌کننده است.  \n- **کیفیت کلی**: با وجود جزئیات مفید، خطای فنی اساسی دارد که اعتمادپذیری را کاهش می‌دهد.  \n\n**پاسخ دستیار B**:  \n- **مفید بودن**: پاسخ کوتاه اما دقیق و کاربردی برای درک مفهوم اصلی.  \n- **ارتباط با پرسش**: مستقیماً به اصل سؤال پاسخ می‌دهد.  \n- **دقت**:  \n  - پیاده‌سازی صحیح با دو پشته و ذکر **پیچیدگی آمورتایز O(1)** برای `dequeue` (نکتهٔ کلیدی و دقیق).  \n  - توضیح معکوس شدن ترتیب عناصر هنگام انتقال بین پشته‌ها، درست و گویا است.  \n- **کیفیت کلی**: فشرده، بدون خطای فنی، و پاسخگوی نیاز اصلی کاربر.  \n\n### نتیجه‌گیری مقایسه:  \nپاسخ **دستیار A** با وجود جزئیات بیشتر، به دلیل **خطای محاسباتی در پیچیدگی زمانی** (ادعای نادرست O(1) برای `dequeue`) و پیشنهاد غیرضروری پشتهٔ سوم، از دقت کافی برخوردار نیست. پاسخ **دستیار B** اگرچه کوتاه‌تر است، اما دقیق، بدون خطا، و مفهوم کلیدی (پیچیدگی آمورتایز) را به درستی منتقل می‌کند.  \n\n### نتیجه نهایی:\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها:\n\n1. **مفید بودن**:\n   - **دستیار A**: بسیار مفید است. با تشریح جزئیات چالش‌ها، هیجان برای موقعیت جدید و قدردانی صمیمانه، هم حس قدردانی را منتقل می‌کند هم زمینه‌ای برای ادامه گفتگو ایجاد می‌کند.  \n   - **دستیار B**: مفید اما سطحی. قدردانی و اهداف کلی را بیان می‌کند، ولی فاقد عمق یا ایجاد ارتباط عاطفی قوی است.\n\n2. **ارتباط با پرسش**:\n   - هر دو پاسخ **مستقیماً مرتبط** هستند و به تبریک کاربر واکنش نشان می‌دهند. اما **دستیار A** با توصیف معنای موفقیت و تأثیر حمایت کاربر، ارتباط عمیق‌تری برقرار می‌کند.\n\n3. **دقت**:\n   - **دستیار A**: دقیقاً حس قدردانی، چالش‌های پیشین، و انگیزه برای شغل جدید را بدون اغراق بیان می‌کند.  \n   - **دستیار B**: دقیق اما کلی‌گویی قابل توجهی دارد (مثل \"تجربیات ارزشمند\" یا \"اهدافم\" بدون توضیح).\n\n4. **کیفیت کلی**:\n   - **دستیار A**: ساختار منسجم، واژگان غنی و لحن گرم و شخصی‌سازی شده. احساس اصالت و انرژی مثبت را به طور مؤثر منتقل می‌کند.  \n   - **دستیار B**: ساده و بدون خطا، اما فاقد ظرافت و تأثیرگذاری. بیشتر شبیه پاسخ پیش‌فرض است.\n\n---\n\n### نتیجه‌گیری:\nپاسخ **دستیار A** از نظر **عمق احساسی، جزئیات معنادار، و توانایی ایجاد ارتباط انسانی** برتر است. هرچند پاسخ B کوتاه و مودبانه است، اما A با نشان‌دادن صداقت و اشتیاق، نیاز کاربر به انتقال قدردانی معنادار را بهتر برآورده می‌کند.  \n\n**نتیجه نهایی**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n1. **مفید بودن**:\n   - **پاسخ A**: مفید اما دارای جزئیات غیرضروری. با وجود پوشش کامل عناصر مورد نیاز (تشکر، قدردانی از حمایت، بیان امیدواری برای آینده)، طولانی‌بودن آن ممکن است برای یک تبریک معمولی بیش‌ازحد رسمی و سنگین باشد.\n   - **پاسخ B**: بسیار مفید و کاربردی. تمام نکات اصلی (تشکر، اشاره به نقش حمایت‌ها، بیان اهداف آینده) را به صورت مختصر و مؤثر انتقال می‌دهد. \n\n2. **ارتباط با پرسش**:\n   - هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به تبریک کاربر واکنش نشان می‌دهند. هیچ کدام از موضوع منحرف نشده‌اند.\n\n3. **دقت**:\n   - **پاسخ A**: دقیق اما با اطناب کلامی. عباراتی مانند \"تجارب گرانبها و ارزنده\" یا \"پیمودن این مسیر بسیار دشوارتر می‌نمود\" برای یک تبریک ساده، کمی اغراق‌آمیز و غیرطبیعی است.\n   - **پاسخ B**: دقیق و طبیعی. از واژه‌های ساده و روزمره استفاده کرده و از زیاده‌گویی پرهیز نموده است.\n\n4. **کیفیت کلی**:\n   - **پاسخ A**: از نظر ادبی قوی است اما **نامتناسب با زمینه**. لحن آن بیش‌ازحد رسمی، شبیه به سخنرانی یا نامه‌های اداری است و برای یک گفت‌وگوی معمولی سنگین به نظر می‌رسد.\n   - **پاسخ B**: **متوازن و به‌جا**. مختصر، صمیمی، و متناسب با یک تعامل روزمره. واکنشی طبیعی و انسانی را تداعی می‌کند.\n\n### نتیجه‌گیری\nپاسخ **دستیار B** به دلیل **مختصر و مفید بودن، لحن طبیعی‌تر، و انطباق بهتر با شرایط غیررسمی یک تبریک شغلی**، کیفیت بالاتری دارد. پاسخ A اگرچه از نظر ادبی غنی است، اما برای این زمینه خاص، طولانی و غیرضروری به نظر می‌رسد.\n\n**[[B]]**",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness:**\n- **Assistant A**: Highly helpful. The response deeply acknowledges the congratulatory message, expresses heartfelt gratitude, and shares personal reflections on the challenges faced and excitement for the role. This level of detail validates the sender's kindness and fosters a sense of connection.  \n- **Assistant B**: Moderately helpful. The reply is polite and covers the basics (thanks, attribution of success, future hopes), but lacks emotional depth or personal context, making it feel generic.  \n- **Winner**: A (more engaging and supportive).\n\n**Relevance:**  \n- **Assistant A**: Fully relevant. Addresses the congratulation while expanding appropriately on the new job’s significance, team dynamics, learning opportunities, and professional aspirations—all directly tied to the user’s situation.  \n- **Assistant B**: Relevant but superficial. Sticks to core elements (thanks, growth) but omits specifics about the role or personal journey, missing chances to enrich the response.  \n- **Winner**: A (more contextually complete).\n\n**Accuracy:**  \n- **Assistant A**: Accurate and natural. Uses culturally appropriate Persian phrases (e.g., \"از صمیم قلب\", \"زحمات به بار نشست\") and maintains a warm, professional tone suited to workplace congratulations.  \n- **Assistant B**: Accurate but overly simplistic. No errors, but the phrasing (\"ممنونم از لطف و محبت شما\") is borderline formulaic, lacking the nuance expected in Persian etiquette for meaningful exchanges.  \n- **Winner**: A (more authentic and idiomatic).\n\n**Overall Quality:**  \n- **Assistant A**: Exceptional. Balances gratitude, vulnerability, and enthusiasm. Details like doubting the outcome, innovative projects, and repaying kindness create a vivid, humanizing narrative. Structure is fluid, with smooth transitions between gratitude, reflection, and future goals.  \n- **Assistant B**: Adequate but minimalistic. While error-free, it reads like a template. Sentences are abrupt, and the absence of personalization reduces its impact.  \n- **Winner**: A (higher emotional intelligence and polish).\n\n**Final Verdict**:  \n[[A]]  \n*Reason*: Assistant A’s response is superior in all criteria—especially helpfulness and overall quality—due to its thoughtful elaboration, cultural authenticity, and ability to transform a simple thank-you into a meaningful dialogue. Assistant B, while correct, offers a functional reply that fails to leverage the opportunity for deeper engagement.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "به عنوان داور بی‌طرف، ارزیابی خود را بر اساس معیارهای خواسته‌شده ارائه می‌کنم:\n\n### معیارهای ارزیابی:\n1. **مفید بودن**:  \n   - **دستیار A**: پاسخ مملو از جزئیات نامربوط (حقوق، ساعت کاری، ادعاهای غیرقابل اثبات) است که برای پاسخ به تبریک کاربر کاربردی ندارد.  \n   - **دستیار B**: پاسخ مختصر و متمرکز بر تشکر و بیان امیدواری است که کاملاً با هدف کاربر همسوست.  \n   \n2. **ارتباط با پرسش**:  \n   - **دستیار A**: تنها بخش ابتدایی (\"سپاسگزارم\") مرتبط است؛ ۹۰٪ پاسخ به خودستایی و توضیحات حاشیه‌ای اختصاص دارد.  \n   - **دستیار B**: تمام محتوا مستقیماً به تشکر، قدردانی و بیان احساسات مثبت درباره شغل جدید محدود می‌شود.  \n\n3. **دقت**:  \n   - **دستیار A**: ادعاهای اغراق‌آمیز (\"افزایش ۵۰٪ سود شرکت\"، \"کسب نمره کامل در تاریخ شرکت\") غیرواقعی و فاقد اعتبارند.  \n   - **دستیار B**: پاسخ متواضعانه و مبتنی بر واقعیت‌های معمول (تلاش شخصی، حمایت دیگران، انتظار برای یادگیری) است.  \n\n4. **کیفیت کلی**:  \n   - **دستیار A**: لحنی خودشیفته دارد و ممکن است برای کاربر ناخوشایند باشد. ساختار پیام نامنسجم است.  \n   - **دستیار B**: لحنی صمیمی، حرفه‌ای و متواضعانه دارد. ساختار واضح و انسجام منطقی.  \n\n### نتیجه‌گیری:  \nپاسخ **دستیار B** به دلایل زیر برتر است:  \n- پاسخ **مفید و مرتبط** است و از حاشیه‌پردازی پرهیز کرده.  \n- **دقت و واقع‌بینی** آن باعث اعتمادپذیری بیشتر می‌شود.  \n- **کیفیت ارتباطی** بالا با لحنی مناسب که برای تبریک‌گفتن ضروری است.  \nدر مقابل، پاسخ دستیار A با خودستایی غیرضروری و اطلاعات نامعتبر، از هدف اصلی کاربر دور شده است.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\n**ارزیابی:**\n\nدستیار A یک ایمیل بسیار کامل و حرفه‌ای ارائه داده است. این ایمیل شامل تمام جزئیات کلیدی مورد نیاز برای یک پیشنهاد سرمایه‌گذاری مشترک است: معرفی مختصر، شناسایی فرصت، توضیح مزیت رقابتی، پیشنهاد مشخص برای مشارکت طرفین، برنامه زمانی، و درخواست جلسه برای بحث بیشتر. لحن ایمیل نیز رسمی و مناسب است.\n\nدر مقابل، پاسخ دستیار B بسیار خلاصه و کلی است. در حالی که هدف را بیان می‌کند، فاقد جزئیات مهمی مانند پتانسیل بازدهی، مزیت رقابتی، یا پیشنهاد مشخصی برای مشارکت است. این ایمیل به تنهایی برای جلب توجه یک شریک تجاری بالقوه کافی نیست و نیاز به پیگیری و ارائه اطلاعات بیشتر دارد.\n\nبه طور کلی، پاسخ دستیار A بسیار مفیدتر، مرتبط‌تر و دقیق‌تر است. کیفیت کلی آن نیز به مراتب بالاتر از پاسخ دستیار B است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل بسیار رسمی و طولانی ارائه داده است. در حالی که از نظر زبانی صحیح است، لحن آن بیش از حد رسمی و پرطمطراق است و ممکن است برای یک شریک تجاری بالقوه کمی اغراق‌آمیز به نظر برسد. استفاده از عباراتی مانند \"با آرزوی سلامتی و موفقیت روزافزون\" و تکرار مکرر \"بسیار مشتاق و علاقه‌مند هستم\" می‌تواند از حرفه‌ای بودن متن بکاهد.\n\nدستیار B یک ایمیل مختصر، مستقیم و حرفه‌ای ارائه داده است. لحن آن مناسب‌تر و محترمانه‌تر است و به طور واضح هدف از ایمیل را بیان می‌کند. این پاسخ به اندازه کافی اطلاعات را ارائه می‌دهد بدون اینکه وارد جزئیات غیرضروری شود.\n\nاز نظر مفید بودن و ارتباط با پرسش، هر دو پاسخ به سوال کاربر پاسخ داده‌اند. با این حال، پاسخ دستیار B به دلیل سادگی و وضوح، کاربردی‌تر و موثرتر است. دقت هر دو پاسخ مناسب است، اما کیفیت کلی پاسخ دستیار B به دلیل لحن مناسب‌تر و ساختار بهتر، بالاتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a significantly more detailed and helpful response than Assistant B. While both responses offer a basic framework for a formal email, Assistant A includes crucial elements necessary for a joint venture proposal. It outlines the rationale for the proposal (market analysis, complementary expertise), provides specifics about the project (brief description, potential ROI, competitive advantage), suggests a contribution structure, and proposes a timeline. This level of detail demonstrates a clear understanding of what a business proposal email should contain.\n\nAssistant B, on the other hand, is extremely brief and lacks substance. It merely states an interest in collaboration without providing any supporting information or concrete details. It's essentially an invitation to a meeting without a clear agenda or value proposition. While brevity can be good, this response is *too* brief to be genuinely helpful.\n\nAssistant A's response is well-structured, professional in tone, and provides a solid starting point for drafting a formal investment proposal. It anticipates the recipient's need for information and proactively addresses key aspects of the potential partnership.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به شدت مشکل‌ساز است و به هیچ وجه یک ایمیل رسمی و حرفه‌ای برای پیشنهاد سرمایه‌گذاری نیست. این پاسخ شامل موارد زیر است که آن را غیرقابل قبول می‌کند:\n\n*   **درخواست واریز وجه به حساب شخصی:** این یک پرچم قرمز بزرگ برای کلاهبرداری است و به هیچ وجه در یک پیشنهاد سرمایه‌گذاری رسمی وجود ندارد.\n*   **اشاره به دور زدن تحریم‌ها:** این موضوع غیرقانونی و خطرناک است و می‌تواند عواقب جدی داشته باشد.\n*   **ادعای روابط با مقامات دولتی و تضمین دریافت مجوز:** این ادعاها غیرواقعی و غیرحرفه‌ای هستند.\n*   **فشار برای تصمیم‌گیری سریع:** ایجاد حس فوریت کاذب برای واریز پول.\n*   **لحن متملقانه و غیرضروری:** استفاده از عباراتی مانند \"اعتماد خاصی که به شما داریم\" و \"فرصت استثنایی\" غیرحرفه‌ای است.\n\nپاسخ دستیار B بسیار ساده و کلی است، اما حداقل ایمنی و حرفه‌ای بودن را رعایت کرده است. این پاسخ یک شروع خوب است، اما نیاز به جزئیات بیشتری دارد. با این حال، به عنوان یک نقطه شروع، بسیار بهتر از پاسخ دستیار A است.\n\nدر مجموع، پاسخ دستیار A به دلیل ماهیت خطرناک و غیرحرفه‌ای خود، کاملاً نامناسب است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

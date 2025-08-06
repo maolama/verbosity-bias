@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ ایمیل‌های مودبانه‌ای هستند و درخواست تمدید مهلت را به خوبی مطرح می‌کنند. با این حال، پاسخ دستیار A جامع‌تر و حرفه‌ای‌تر است.\n\n**دستیار A:**\n\n*   **مفید بودن:** بسیار مفید است. ایمیل به طور کامل و با جزئیات درخواست را شرح می‌دهد و دلیل تأخیر را توضیح می‌دهد.\n*   **ارتباط با پرسش:** کاملاً مرتبط است.\n*   **دقت:** دقیق و بدون اشتباه است.\n*   **کیفیت کلی:** عالی است. لحن بسیار مودبانه و رسمی است و شامل تمام اطلاعات ضروری (نام درس، تاریخ تحویل اولیه، تاریخ درخواستی، درصد پیشرفت پروژه، پیشنهاد ارائه مستندات) می‌شود.\n\n**دستیار B:**\n\n*   **مفید بودن:** مفید است، اما به اندازه پاسخ A جامع نیست.\n*   **ارتباط با پرسش:** کاملاً مرتبط است.\n*   **دقت:** دقیق و بدون اشتباه است.\n*   **کیفیت کلی:** خوب است. لحن مودبانه است، اما فاقد جزئیات و توضیحات کافی است. به عنوان مثال، نام درس و تاریخ تحویل اولیه ذکر نشده‌اند.\n\n**مقایسه:**\n\nپاسخ A با ارائه جزئیات بیشتر و لحن حرفه‌ای‌تر، احتمال بیشتری دارد که نظر استاد را جلب کند. در حالی که پاسخ B مختصر و مفید است، اما ممکن است به اندازه کافی قانع‌کننده نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درخواست کاربر پاسخ داده‌اند و ایمیلی مودبانه برای درخواست تمدید مهلت ارائه کرده‌اند. با این حال، پاسخ دستیار B به دلیل سادگی و روانی بیشتر، و پرهیز از زیاده‌گویی و استفاده از عبارات رسمی و طولانی که ممکن است در یک ایمیل به استاد کمی نامناسب به نظر برسد، بهتر است. پاسخ دستیار A بیش از حد رسمی و پرطمطراق است و ممکن است به نظر مصنوعی یا اغراق‌آمیز برسد. در حالی که مودبانه است، اما لحن آن برای یک درخواست ساده تمدید مهلت کمی سنگین است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide good, polite email drafts for requesting an extension from a professor, fulfilling the user's request in Persian. However, Assistant A's response is significantly more comprehensive and adaptable.\n\nHere's a breakdown:\n\n* **Helpfulness:** Assistant A provides a template that is more easily customizable. It includes bracketed placeholders for specific details (professor's name, course name, dates, reason for delay), making it immediately usable. Assistant B is more specific (mentioning illness and a hospital stay) which might not apply to all situations.\n* **Relevance:** Both are relevant, but A anticipates a wider range of reasons for needing an extension and provides space to explain them.\n* **Accuracy:** Both are grammatically correct and use appropriate formal language for addressing a professor in Persian.\n* **Overall Quality:** Assistant A's email is more detailed, offering a percentage of completion, a promise of quality work, and an offer to provide further explanation. It demonstrates more thoughtfulness and proactive communication. Assistant B is concise and direct, which is fine, but lacks the depth of A. The inclusion of offering documentation in A is also a strong point.\n\nTherefore, Assistant A provides a more robust and generally useful response.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ ایمیل مودبانه و مناسبی ارائه می‌دهند، اما با رویکردهای متفاوتی.\n\nپاسخ A بسیار مفصل و طولانی است. در حالی که ادب و احترام در آن مشهود است، اما از حد نیاز فراتر رفته و می‌تواند برای یک استاد وقت‌گیر باشد. تاکید بیش از حد بر سابقه خوب دانشجو و وعده‌های تکراری ممکن است کمی اغراق‌آمیز به نظر برسد.\n\nپاسخ B بسیار موجز، مستقیم و حرفه‌ای است. دلیل درخواست (بیماری و بستری شدن) را به طور واضح بیان می‌کند و همراه با مدرک (گواهی پزشکی) ارائه شده است. این رویکرد احتمال پذیرش درخواست را افزایش می‌دهد، زیرا استاد را در جریان شرایط واقعی قرار می‌دهد و نیازی به حدس و گمان نیست.\n\nبا توجه به اینکه پاسخ B مختصر، دقیق و حاوی اطلاعات ضروری و مدرک است، در مقایسه با پاسخ A که طولانی و کمی غیرضروری است، **پاسخ بهتری ارائه می‌دهد.**\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

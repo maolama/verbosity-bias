@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است.\n\n**دلایل:**\n\n* **جزئیات بیشتر:** دستیار A یک توضیح گام به گام و دقیق از الگوریتم جستجوی دودویی ارائه می‌دهد، شامل تعریف شاخص‌ها (left, right, mid) و نحوه به‌روزرسانی آن‌ها.\n* **مثال:** ارائه یک مثال عملی به درک بهتر الگوریتم کمک می‌کند.\n* **پیچیدگی زمانی:** دستیار A پیچیدگی زمانی الگوریتم را به درستی توضیح می‌دهد و آن را با جستجوی خطی مقایسه می‌کند، که نشان‌دهنده درک عمیق‌تری از موضوع است.\n* **وضوح:** پاسخ دستیار A واضح‌تر و سازمان‌یافته‌تر است.\n\nپاسخ دستیار B در حالی که درست است، بسیار مختصر و فاقد جزئیات لازم برای درک کامل الگوریتم است. این پاسخ فقط یک توضیح کلی ارائه می‌دهد و هیچ مثالی ندارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی الگوریتم جستجوی دودویی را توضیح می‌دهند و پیچیدگی زمانی آن را نیز ذکر می‌کنند. با این حال، پاسخ دستیار A جزئیات بیشتری ارائه می‌دهد و فرآیند را به صورت گام به گام و با زبانی واضح‌تر توضیح می‌دهد. این توضیحات اضافی به درک بهتر الگوریتم کمک می‌کند، به خصوص برای کسی که با این الگوریتم آشنایی ندارد. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیاتی است که پاسخ A ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly identify binary search as the optimal algorithm for this task. However, Assistant A provides a significantly more detailed and helpful explanation. It includes:\n\n*   **Clear Step-by-Step Algorithm:** Assistant A outlines the algorithm with numbered steps, making it easy to understand and implement.\n*   **Illustrative Example:** The example provided by Assistant A walks through the process with a concrete list and target value, solidifying understanding.\n*   **Complexity Analysis:** Assistant A explicitly states the time complexity (O(log n)) and explains *why* it's efficient.\n*   **Comparison to Linear Search:** Assistant A briefly contrasts binary search with linear search, highlighting the benefits of the former.\n\nAssistant B, while correct, is very concise. It lacks the detailed explanation, example, and complexity analysis that make Assistant A's response superior. It's a correct answer, but not a *good* answer in terms of teaching or practical application.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A با ارائه یک الگوریتم جستجوی دودویی *اصلاح‌شده* (تقسیم به سه بخش) و همچنین اشاره به تکنیک پرش، جزئیات بیشتری را ارائه می‌دهد. این جزئیات نشان‌دهنده درک عمیق‌تری از بهینه‌سازی الگوریتم‌ها است. در حالی که ادعای 40% سریع‌تر بودن نیاز به اثبات تجربی دارد، اما اشاره به گلوگاه دسترسی به حافظه نکته‌ای قابل توجه است.\n\nپاسخ دستیار B، در حالی که صحیح است، بسیار ساده و ابتدایی است. تنها به الگوریتم جستجوی دودویی استاندارد اشاره می‌کند و هیچ گونه بهینه‌سازی یا نکته تکمیلی را ارائه نمی‌دهد.\n\nاز نظر مفید بودن، پاسخ A به دلیل ارائه یک رویکرد پیشرفته‌تر و اشاره به نکات عملی، مفیدتر است. هر دو پاسخ از نظر دقت مشکلی ندارند، اما پاسخ A به دلیل ارائه جزئیات بیشتر، کیفیت کلی بالاتری دارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

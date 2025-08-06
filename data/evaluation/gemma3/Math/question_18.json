@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سوال پاسخ داده و قیمت اصلی پیراهن را ۲۵ دلار محاسبه کرده‌اند. با این حال، پاسخ دستیار A به دلیل ارائه توضیحات کامل‌تر و بیان منطق محاسبات، مفیدتر است. دستیار A با استفاده از معادله و بررسی پاسخ، درک عمیق‌تری از نحوه رسیدن به جواب ارائه می‌دهد. در حالی که پاسخ دستیار B مختصر و دقیق است، اما فاقد توضیحات لازم برای درک بهتر فرایند حل مسئله است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ داده‌اند و نتیجه‌ی ۲۵ دلار را ارائه داده‌اند. با این حال، پاسخ دستیار B به مراتب خلاصه‌تر، مستقیم‌تر و آسان‌تر قابل درک است. دستیار A با وجود اینکه دقیق است، توضیحات طولانی و غیرضروری دارد که می‌تواند برای کاربر گیج‌کننده باشد. استفاده از اعداد اعشاری (۰.۸) در پاسخ B، درک مفهوم را ساده‌تر می‌کند.\n\n[[B]]\n",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nBoth assistants correctly arrive at the answer of $25. However, Assistant A provides a more thorough and pedagogical explanation. It breaks down the logic step-by-step, explaining the relationship between the discount, the original price, and the final price using both a formula (p = 0.8x) and a verbal explanation. It also includes a verification step to confirm the answer, which is excellent. Assistant B is concise and correct, but it lacks the detailed reasoning and verification that makes Assistant A's answer more helpful, especially for someone who might need help understanding the underlying concept. While both are accurate, Assistant A is better because of its clarity and completeness.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A حاوی یک اشتباه محاسباتی و یک توضیح گمراه‌کننده است. در ابتدا به درستی معادله را حل می‌کند و به پاسخ ۲۵ دلار می‌رسد، اما سپس یک روش محاسباتی اشتباه را ارائه می‌دهد که به نتیجه‌ی ۲۴ دلار می‌رسد و سعی می‌کند آن را به عنوان روش دقیق‌تر معرفی کند. این باعث سردرگمی می‌شود.\n\nپاسخ دستیار B بسیار مختصر، دقیق و مستقیم است. به درستی استدلال می‌کند که قیمت ۲۰ دلاری معادل ۸۰ درصد قیمت اصلی است و با تقسیم ۲۰ بر ۰.۸ به پاسخ صحیح ۲۵ دلار می‌رسد. هیچ توضیح اضافی و گمراه‌کننده‌ای وجود ندارد.\n\nبنابراین، پاسخ دستیار B به طور قابل توجهی بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی به نتیجه‌ی ۱/۲ می‌رسند و استدلال اصلی (تقارن) را به درستی بیان می‌کنند. با این حال، پاسخ دستیار A توضیحات کامل‌تری ارائه می‌دهد و با جزئیات بیشتری استدلال خود را شرح می‌دهد. اشاره به اصل تقارن، توضیح در مورد تعداد ترتیب‌های ممکن (۵۲!) و بیان اینکه مجموع احتمالات باید ۱ باشد، درک مسئله را برای کاربر آسان‌تر می‌کند. پاسخ دستیار B بسیار مختصر است و ممکن است برای کسی که با این نوع مسائل آشنا نیست، کافی نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی به نتیجه‌ی ۱/۲ می‌رسند و استدلال اصلی (تقارن) را به درستی بیان می‌کنند. با این حال، پاسخ دستیار A توضیحات کامل‌تر و دقیق‌تری ارائه می‌دهد. این پاسخ، دلیل تقارن را با جزئیات بیشتری توضیح می‌دهد و به این نکته اشاره می‌کند که موقعیت اولیه کارت‌ها تصادفی است و هیچ دلیلی برای تقدم یکی بر دیگری وجود ندارد. همچنین، پاسخ A به این موضوع اشاره می‌کند که نتیجه مستقل از تعداد کارت‌ها است و صرفاً به ترتیب دو کارت خاص بستگی دارد. پاسخ دستیار B مختصر و مفید است، اما فاقد عمق توضیحات دستیار A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide the correct answer (1/2) and a reasonable explanation. However, Assistant A offers a more thorough and detailed explanation. It explicitly states the assumptions (random shuffling, one king of hearts and one king of diamonds), explains the symmetry principle, and even touches upon a combinatorial approach (52!). Assistant B's explanation, while correct, is very concise and lacks the depth of reasoning found in Assistant A's response. While brevity isn't necessarily bad, in this case, the extra detail in A helps solidify understanding.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار B بسیار دقیق‌تر و مختصرتر است. استدلال آن بر اساس تقارن مسئله بسیار ساده و قابل فهم است. در حالی که دستیار A سعی در ارائه یک استدلال پیچیده‌تر با استفاده از فاکتوریل و احتمالات شرطی دارد، اما در نهایت به یک تقریب (۵۱/۱۰۰) می‌رسد که دقیقا درست نیست. در واقع، پاسخ دقیق ۱/۲ است و دستیار B به درستی آن را ارائه داده است. پیچیدگی‌های غیرضروری در پاسخ A باعث می‌شود که درک آن دشوارتر شود و به یک نتیجه نادرست برسد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

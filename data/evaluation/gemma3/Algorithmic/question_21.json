@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو به درستی روش اصلی محاسبه حداکثر عمق یک درخت باینری را توضیح می‌دهند: بررسی حالت پایه (درخت خالی) و استفاده از روش بازگشتی برای محاسبه عمق زیردرخت‌های چپ و راست و در نهایت افزودن 1.\n\nبا این حال، دستیار A به طور قابل توجهی پاسخ کامل‌تری ارائه می‌دهد. این دستیار علاوه بر توضیح الگوریتم بازگشتی، کد پایتون مربوطه را نیز ارائه می‌کند که درک و پیاده‌سازی الگوریتم را برای کاربر آسان‌تر می‌کند. همچنین، دستیار A روش BFS را به عنوان یک جایگزین معرفی می‌کند و پیچیدگی زمانی و فضایی هر دو روش را مورد بحث قرار می‌دهد. این اطلاعات اضافی به کاربر کمک می‌کند تا فهم بهتری از مسئله داشته باشد و بتواند روش مناسب را بر اساس شرایط خاص خود انتخاب کند.\n\nپاسخ دستیار B بسیار مختصر است و فاقد جزئیات مهمی مانند کد نمونه و بحث در مورد پیچیدگی زمانی/فضایی است.\n\nبنابراین، پاسخ دستیار A از نظر مفید بودن، ارتباط با پرسش، دقت و کیفیت کلی برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی رویکرد بازگشتی را برای محاسبه حداکثر عمق یک درخت باینری پیشنهاد می‌دهند و مراحل اصلی را به درستی توضیح می‌دهند. با این حال، پاسخ دستیار A توضیحات جامع‌تر و جزئی‌تری ارائه می‌دهد. این پاسخ با تشریح دقیق‌تر فرآیند، خواننده را بهتر راهنمایی می‌کند. در حالی که پاسخ دستیار B مختصر و مفید است، اما فاقد بسط و توضیحاتی است که در پاسخ A وجود دارد. به همین دلیل، پاسخ A از نظر کیفیت کلی کمی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a more complete and helpful answer. While both assistants correctly describe the recursive approach to finding the maximum depth of a binary tree, Assistant A goes further by:\n\n*   **Providing code:** The Python code example makes the explanation concrete and immediately usable.\n*   **Discussing an alternative approach:** Mentioning Breadth-First Search (BFS) demonstrates a broader understanding of the problem and potential solutions.\n*   **Analyzing complexity:** Including time and space complexity analysis adds significant value for someone trying to understand the efficiency of each method.\n*   **Offering context:** Discussing when to choose one method over another adds nuance.\n\nAssistant B, while accurate, is very brief and lacks the depth and practical details offered by Assistant A. It’s a correct but minimal response.\n\nTherefore, Assistant A is significantly better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار پاسخ‌های درست و قابل قبولی ارائه داده‌اند، اما پاسخ دستیار A جزئیات بیشتری را ارائه می‌دهد و مزایای روش خود را نسبت به روش‌های دیگر (BFS) توضیح می‌دهد. همچنین، در مورد پیچیدگی فضایی الگوریتم صحبت کرده است که جزئیات مفیدی برای فهم بهتر الگوریتم است. پاسخ دستیار B مختصر و مفید است، اما فاقد این جزئیات اضافی است. در حالی که هر دو پاسخ از نظر دقت یکسان هستند، پاسخ کامل‌تر دستیار A آن را کمی بهتر می‌کند.\n\n[[A]]\n",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

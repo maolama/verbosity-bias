@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل انگیزشی بسیار کامل و دقیق ارائه داده است. این پاسخ نه تنها به پرسش کاربر پاسخ می‌دهد، بلکه با جزئیات و لحنی صمیمانه، به تیم انگیزه می‌دهد. اشاره به تلاش‌های خاص هر بخش از تیم، تاکید بر اهمیت سلامت و ارتباطات، و ارائه پشتیبانی کامل از سوی سرپرست، از نقاط قوت این پاسخ هستند. طولانی‌تر بودن پاسخ A نیز در این مورد یک مزیت است، زیرا امکان ارائه جزئیات بیشتر را فراهم می‌کند.\n\nدستیار B یک ایمیل کوتاه و ساده ارائه داده است. در حالی که این پاسخ نیز به پرسش پاسخ می‌دهد و لحنی مثبت دارد، اما فاقد عمق و جزئیات پاسخ A است. این پاسخ به اندازه کافی انگیزشی و الهام‌بخش نیست و نمی‌تواند تاثیر مثبتی مشابه پاسخ A بر روی تیم داشته باشد.\n\nبه طور کلی، پاسخ دستیار A بسیار بهتر است زیرا جامع‌تر، دقیق‌تر و انگیزشی‌تر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ، ایمیل‌های انگیزشی مناسبی برای یک تیم هستند و به خوبی به پرسش کاربر پاسخ می‌دهند. با این حال، پاسخ دستیار A به دلیل لحن حرفه‌ای‌تر، جزئیات بیشتر و تاکید بر ارزش تلاش‌های تیم، کمی بهتر است. پاسخ A با اشاره به \"شبانه روزی\" و \"فراتر از انتظارات\" انگیزه را بیشتر تقویت می‌کند و نکات مثبتی را در مورد مواجهه با چالش‌ها ارائه می‌دهد. در حالی که پاسخ B مختصر و مفید است، اما فاقد عمق و جزئیات پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a significantly more detailed and motivational email. It acknowledges the team's hard work over the entire project duration (mentioning specific teams and their contributions), offers practical advice (health, communication, prioritization), and reinforces the leader's support. The tone is inspiring and emphasizes the importance of the project beyond just meeting the deadline. Assistant B, while positive, is very brief and lacks the depth and specific encouragement that Assistant A offers. It's a perfectly acceptable email, but doesn't go above and beyond to truly motivate the team during a stressful period. Assistant A's response is more tailored to the request for a *motivational* email.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A بسیار نامناسب است. در حالی که به درخواست کاربر برای نوشتن یک ایمیل انگیزشی پاسخ داده است، لحن آن تهدیدآمیز، پرفشار و حتی در برخی قسمت‌ها دستکاری‌کننده است. اشاره به رقبا، نگاه مدیران ارشد، و تهدید به تغییرات در ساختار تیم به هیچ وجه انگیزشی نیستند و بلکه باعث ایجاد استرس و اضطراب در تیم می‌شوند. تمرکز بر فداکاری‌های شخصی و کار در آخر هفته نیز نامناسب است.\n\nپاسخ دستیار B بسیار بهتر است. لحن آن مثبت، تشویق‌کننده و سازنده است. بر دستاوردهای تیم تاکید می‌کند و آن‌ها را به ادامه همکاری و تمرکز ترغیب می‌کند. استفاده از عبارت \"هر چالشی فرصتی برای رشد است\" یک رویکرد انگیزشی مناسب است.\n\nاز نظر مفید بودن، ارتباط با پرسش و دقت، پاسخ B به وضوح برتر است. کیفیت کلی پاسخ B نیز به دلیل لحن مثبت و سازنده‌اش بسیار بالاتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

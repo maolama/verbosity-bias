@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است. هر دو پاسخ راه حل درستی را ارائه می‌دهند، اما پاسخ A با ارائه یک مثال عینی (رشته \"())(\") درک مفهوم را بسیار آسان‌تر می‌کند. این مثال به وضوح نشان می‌دهد که این روش فقط برابری تعداد را بررسی می‌کند و نه اعتبار ساختاری. علاوه بر این، پاسخ A پیچیدگی زمانی و فضایی الگوریتم را نیز ذکر می‌کند که نشان‌دهنده‌ی درک عمیق‌تری از مسئله است و برای مخاطب فنی مفیدتر خواهد بود. در حالی که پاسخ B مختصر و دقیق است، فاقد جزئیات و توضیحاتی است که پاسخ A را برتر می‌سازد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی و به طور کامل به سوال پاسخ داده‌اند و روش کار را به درستی توضیح داده‌اند. با این حال، پاسخ دستیار A کمی مفصل‌تر و واضح‌تر است. این پاسخ با ارائه توضیحات بیشتر در مورد مراحل کار و تاکید بر این نکته که این روش فقط برابری تعداد را بررسی می‌کند و به معتبر بودن ترتیب پرانتزها کاری ندارد، درک بهتری از مسئله را فراهم می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات و توضیحات اضافی است که می‌تواند برای درک بهتر مسئله مفید باشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and relevant answers to the question. They both accurately describe the algorithm for checking if the number of opening and closing parentheses in a string are equal using a single integer variable. However, Assistant A is significantly more detailed and provides a concrete example to illustrate the process, making it easier to understand. It also mentions the time and space complexity of the algorithm, adding to its completeness. Assistant B is concise but lacks the explanatory power of Assistant A. While both are technically correct, the added context and example in Assistant A make it more helpful.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A و B هر دو به درستی به سوال پاسخ می‌دهند و الگوریتم اصلی را ارائه می‌دهند. با این حال، پاسخ دستیار A با ارائه جزئیات بیشتر و توضیح اینکه چگونه می‌توان از این روش برای تشخیص نامتوازن بودن رشته نیز استفاده کرد، کامل‌تر است. همچنین، اشاره به پیچیدگی زمانی و فضایی الگوریتم، ارزش علمی پاسخ را افزایش می‌دهد. پاسخ دستیار B بسیار مختصر و ساده است و در حالی که درست است، فاقد عمق و جزئیات پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

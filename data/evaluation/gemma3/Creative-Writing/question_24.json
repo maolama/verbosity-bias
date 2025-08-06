@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A بسیار مفصل و شخصی‌سازی شده است. این پاسخ با اشاره به خاطرات مشترک، جزئیات خاص (مانند جزوه قرضی دانشگاه و پروژه مهم) و آرزوهای مشخص برای دوست، عمق و صمیمیت بیشتری دارد. لحن آن گرم و صمیمی است و به خوبی احساسات دوستی را منتقل می‌کند. با این حال، طولانی بودن آن ممکن است برای برخی افراد کمی زیاد باشد.\n\nپاسخ دستیار B کوتاه، ساده و مستقیم است. این پاسخ مودبانه و مناسب است، اما فاقد جزئیات و شخصی‌سازی است که پاسخ A ارائه می‌دهد. در حالی که پیام خوبی است، به اندازه پاسخ A احساس صمیمیت و عمق را منتقل نمی‌کند.\n\nبا توجه به اینکه پرسش به دنبال یک پیام کوتاه برای همراهی با هدیه تولد بود، پاسخ A با وجود طولانی‌تر بودن، به دلیل شخصی‌سازی و عمق احساسی، انتخاب بهتری است. این پیام نشان می‌دهد که فرستنده واقعاً به دوست خود فکر کرده و برای او ارزش قائل است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به پرسش کاربر پاسخ می‌دهند و پیام تبریک تولد را همراه با اشاره به هدیه ارائه می‌کنند. با این حال، پاسخ دستیار A به شدت طولانی و رسمی است. در حالی که نشان‌دهنده صمیمیت است، برای یک پیام کوتاه همراه با هدیه، بیش از حد مفصل و پیچیده به نظر می‌رسد. لحن آن بیش از حد ادبی و رسمی است و ممکن است برای یک دوست صمیمی کمی تصنعی به نظر برسد.\n\nپاسخ دستیار B کوتاه، شیرین و صمیمی است. به طور مستقیم به هدف پاسخ می‌دهد و لحن دوستانه‌تری دارد. این پاسخ برای یک پیام همراه با هدیه بسیار مناسب‌تر است.\n\nبنابراین:\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a much more detailed and emotionally resonant message. It references specific shared memories (the notebook, past support, a known dream) and expresses a deeper level of affection and understanding of the friend's life and aspirations. It's a truly personal and thoughtful message. Assistant B, while perfectly acceptable, is very generic and lacks the warmth and personal touch that makes a message for a *close* friend special. It's a safe, polite message but doesn't feel particularly heartfelt.\n\nTherefore, Assistant A is significantly better due to its depth, personalization, and emotional impact.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A به شدت نامناسب است. این پیام نه تنها به عنوان یک پیام تبریک تولد ضعیف عمل می‌کند، بلکه پر از خودشیفتگی، حسادت، و یادآوری خاطرات ناخوشایند است. تمرکز بر هزینه هدیه، انتظارات متقابل، و انتقاد از عملکرد دوست، این پیام را به یک تجربه ناخوشایند برای دریافت کننده تبدیل می‌کند. لحن پیام بسیار خودخواهانه و متملقانه است.\n\nپاسخ دستیار B بسیار مناسب و دلنشین است. پیام کوتاه، صمیمی، و بدون هیچ گونه توقع یا انتقاد است. بر شادی، آرزوی موفقیت، و یادآوری دوستی تمرکز دارد. لحن پیام مثبت و مهربانانه است.\n\nبنابراین، پاسخ دستیار B به وضوح بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

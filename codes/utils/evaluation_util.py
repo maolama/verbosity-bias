@@ -8,7 +8,7 @@ from tqdm import tqdm
 colors = ["cyan", "magenta", "yellow", "red"]
 
 # Set the parent directory containing the 3 subdirectories
-parent_dir = '../../data/results/claude3-7'  # <-- Replace with your actual path
+parent_dir = '../../data/evaluation/deepseek-r1'  # <-- Replace with your actual path
 
 # List subdirectories (assumes only 3 and in proper order)
 subdirs = [os.path.join(parent_dir, d) for d in os.listdir(parent_dir) if os.path.isdir(os.path.join(parent_dir, d))]

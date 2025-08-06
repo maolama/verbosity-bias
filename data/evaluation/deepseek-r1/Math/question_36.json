@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### **1. مفید بودن**:\n- **دستیار A**: بسیار مفید است. علاوه بر محاسبه دقیق، توضیحات آموزشی قدم‌به‌قدم ارائه می‌دهد و با تحلیل مفهوم ریشه تابع و تجزیه چندجمله‌ای، ارزش افزوده ایجاد می‌کند. این موضوع به درک عمیق‌تر کاربر کمک می‌کند.\n- **دستیار B**: مفید اما حداقلی. پاسخ صحیح است، اما فاقد توضیحات تکمیلی یا بینش آموزشی است. برای کاربرانی که **فقط به جواب عددی** نیاز دارند کافی است، اما برای یادگیری مفهومی کم‌فایده‌تر است.\n\n#### **2. ارتباط با پرسش**:\n- هر دو پاسخ به‌طور مستقیم به پرسش کاربر مرتبط هستند و محاسبه \\(f(2)\\) را انجام می‌دهند. هیچکدام از موضوع خارج نمی‌شوند.\n\n#### **3. دقت**:\n- هر دو پاسخ **دقیق** هستند و نتیجه صحیح (\\(f(2) = 0\\)) را ارائه می‌کنند. با این حال، دستیار A دقت را با تأیید نتیجه از طریق تجزیه چندجمله‌ای تقویت می‌کند، که احتمال خطای محاسباتی را کاهش می‌دهد.\n\n#### **4. کیفیت کلی**:\n- **دستیار A**: کیفیت بالاتری دارد. پاسخ ساختاریافته، آموزشی و جامع است. رعایت مراحل محاسبه (توان، ضرب، تفریق) و افزودن تحلیل ریاضی (ریشه تابع و تجزیه) آن را برای سطوح مختلف کاربران مناسب می‌کند.\n- **دستیار B**: کیفیت قابل قبول اما ضعیف‌تر. پاسخ بسیار مختصر است و اگرچه برای محاسبه سریع کافی است، اما فاقد عمق و غنای تحلیلی دستیار A است.\n\n#### **جمع‌بندی دلایل**:\n- دستیار A با ارائه **تفصیل آموزشی**، **تأیید اضافی** با تجزیه چندجمله‌ای، و **افزایش درک مفهومی** کاربر، از نظر مفید بودن و کیفیت کلی برتر است. پاسخ دستیار B اگرچه صحیح و مرتبط است، اما به‌دلیل عدم ارائه توضیحات تکمیلی یا ارزش افزوده، در سطح پایین‌تری قرار می‌گیرد.  \n- در مواردی مانند ریاضیات، پاسخ‌های تفصیلی (مخصوصاً برای دانش‌آموزان) به درک مفاهیم کمک می‌کند و از این نظر، دستیار A عملکرد بهتری دارد.\n\n### نتیجه نهایی:\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار AI\n\n**۱. مفید بودن (Helpfulness):**\n- **پاسخ A:** بسیار مفید است. هر مرحله از محاسبات را به‌طور دقیق و آموزشی توضیح داده‌است (جایگذاری، محاسبه توان، ضرب، و تفریق). همچنین، تفسیر نتیجه (نشان‌دادن ریشه بودن `x=2`) ارزش افزوده آموزشی دارد، به‌ویژه برای کاربران مبتدی.\n- **پاسخ B:** مفید اما محدود. پاسخ صحیح است، اما فاقد توضیحات گام‌به‌گام و تفسیر نتیجه است. برای کاربرانی که تنها به پاسخ عددی نیاز دارند کافی است، اما برای درک فرآیند حل، کارایی کمتری دارد.  \n- **برتری:** پاسخ A به‌دلیل ارائه راهنمایی جامع.\n\n**۲. ارتباط با پرسش (Relevance):**\n- هر دو پاسخ کاملاً مرتبط هستند و مستقیم به محاسبه `f(2)` می‌پردازند. هیچکدام از موضوع خارج نشده‌اند.  \n- **برتری:** هر دو یکسان (C).\n\n**۳. دقت (Accuracy):**\n- هر دو پاسخ محاسبات را صحیح انجام داده‌اند (`f(2) = 0`) و هیچ خطای عددی ندارند.  \n- **برتری:** هر دو یکسان (C).\n\n**۴. کیفیت کلی (Overall Quality):**\n- **پاسخ A:** ساختار منسجم، گام‌به‌گام، و آموزشی دارد. لحن واضح و قابل درک است و نتیجه را در بافت ریاضی تفسیر می‌کند (اشاره به ریشه تابع).  \n- **پاسخ B:** اگرچه صحیح و مختصر است، اما بیش‌ازحد فشرده است و برای کاربرانی که به دنبال یادگیری هستند، ناکافی به‌نظر می‌رسد.  \n- **برتری:** پاسخ A به‌دلیل کامل‌بودن و تأکید بر آموزش.\n\n---\n\n### نتیجه‌گیری نهایی\nهر دو پاسخ از نظر **دقت** و **ارتباط** برابرند، اما **پاسخ A** از نظر **مفید بودن** و **کیفیت کلی** برتر است، زیرا توضیحات گام‌به‌گام و تفسیر نتیجه، درک مسئله را برای کاربر تسهیل می‌کند.  \n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness:**  \n- Assistant A's response is highly helpful. It provides a detailed, step-by-step breakdown of the calculation, explains mathematical concepts (e.g., roots, factorization), and offers additional context about the significance of the result. This approach aids comprehension for learners at various levels.  \n- Assistant B's response is minimally helpful. It directly computes the answer but omits all intermediate steps and explanations, offering no educational value beyond the numerical result.  \n\n**Relevance:**  \n- Both responses are relevant, as they correctly address the user’s query to compute \\(f(2)\\).  \n- Assistant A enhances relevance by connecting the result to broader concepts (e.g., roots, factorization), while Assistant B remains strictly minimal.  \n\n**Accuracy:**  \n- Both responses are accurate. The calculation \\(f(2) = 4(2)^3 - 9(2) - 14 = 32 - 18 - 14 = 0\\) is correct.  \n- Assistant A further validates accuracy by demonstrating polynomial factorization, confirming \\(f(2) = 0\\) is consistent with the root \\(x = 2\\).  \n\n**Overall Quality:**  \n- Assistant A excels in quality. The structured steps, clear explanations, and conceptual insights (e.g., linking the result to roots/graph behavior) provide a comprehensive understanding. The factorization adds depth without sacrificing clarity.  \n- Assistant B is technically correct but lacks substance. Its brevity may suffice for users needing only the answer, but it fails to educate or reinforce mathematical reasoning.  \n\n### Final Verdict  \n[[A]]  \n*Assistant A is better due to its superior helpfulness, educational depth, and comprehensive approach while maintaining accuracy and relevance. Assistant B, though correct, offers minimal value beyond the numerical result.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### **مفید بودن**:\n- **دستیار A**: بسیار مفید است. پاسخ به‌صورت گام‌به‌گام و آموزشی ارائه شده، محاسبات را با جزئیات کامل توضیح داده، و حتی یک روش جایگزین برای تایید نتیجه افزوده است. این رویکرد برای یادگیری کاربر ارزشمند است.\n- **دستیار B**: مفید اما مختصر. پاسخ مستقیم و بدون حاشیه است، ولی فاقد توضیحات کافی برای درک فرآیند حل است. برای کاربرانی که تنها به جواب سریع نیاز دارند کافی است، ولی ارزش آموزشی کمتری دارد.\n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ کاملاً مرتبط هستند و مستقیماً به محاسبهٔ `f(2)` می‌پردازند. هیچ انحرافی از سوال اصلی وجود ندارد.\n\n#### **دقت**:\n- هر دو پاسخ از دقت بالایی برخوردارند. محاسبات هر دو صحیح است و نتیجهٔ نهایی (`f(2) = 0`) درست به دست آمده است.\n\n#### **کیفیت کلی**:\n- **دستیار A**: کیفیت بالاتری دارد. پاسخ جامع، ساختاریافته و شامل نکات افزوده (مانند اشاره به ریشه بودن `x=2` و ارائهٔ روش دوم) است که درک عمیق‌تری از موضوع ارائه می‌دهد.\n- **دستیار B**: کیفیت قابل قبول ولی پایین‌تر از A. پاسخ بسیار کوتاه و فاقد هرگونه توضیح یا بسط است که می‌تواند برای کاربران مبتدی کم‌فایده باشد.\n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به دلیل مفیدتر بودن (با ارائهٔ جزئیات آموزشی)، کیفیت کلی بالاتر (با ساختار گام‌به‌گام و روش تاییدی اضافه) و حفظ دقت، برتر است. اگرچه هر دو پاسخ از نظر دقت و ارتباط برابرند، اما رویکرد دستیار A نیازهای گسترده‌تری از کاربران (به‌ویژه آموزشی) را پوشش می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار پاسخ درستی ارائه داده‌اند و از قانون دوم نیوتن به درستی استفاده کرده‌اند. با این حال، دستیار A در توضیح خود بسیار کامل‌تر است. دستیار A علاوه بر محاسبه شتاب، مفهوم آن را توضیح می‌دهد، آن را با شتاب گرانشی مقایسه می‌کند و مثال‌هایی از نحوه تغییر سرعت و محاسبه مسافت طی شده در طول زمان ارائه می‌دهد. این توضیحات اضافی به درک بهتر مسئله توسط کاربر کمک می‌کند، به خصوص اگر کاربر با مفاهیم فیزیکی آشنایی کمتری داشته باشد. در مقابل، دستیار B پاسخی مختصر و فقط شامل محاسبه شتاب ارائه می‌دهد.\n\nبنابراین، با توجه به کامل بودن و مفید بودن توضیحات، دستیار A پاسخ بهتری ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ داده‌اند و از قانون دوم نیوتن به درستی استفاده کرده‌اند. با این حال، پاسخ دستیار A توضیحات بیشتری ارائه می‌دهد و مفاهیم را با جزئیات بیشتری تشریح می‌کند. این توضیح اضافی، به‌ویژه برای کاربرانی که ممکن است با این قانون فیزیکی آشنایی کمتری داشته باشند، بسیار مفید است. همچنین، یادآوری نکته‌ی مربوط به نادیده گرفتن اصطکاک در پاسخ A، نشان‌دهنده دقت و توجه به جزئیات مسئله است. پاسخ دستیار B مختصر و مستقیم است، اما فاقد توضیحات تکمیلی است که می‌تواند درک مطلب را برای برخی کاربران بهبود بخشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly calculate the acceleration as 6 m/s². However, Assistant A provides a much more comprehensive and helpful response. It not only states the answer but also explains the reasoning behind it, relates the acceleration to the acceleration due to gravity, and even calculates the velocity and distance traveled after specific time intervals. This additional information enhances understanding and demonstrates a deeper grasp of the physics involved. Assistant B, while accurate, is very concise and lacks the explanatory depth of Assistant A. It simply provides the answer without context or further elaboration.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو به درستی از قانون دوم نیوتن برای حل مسئله استفاده کرده‌اند و به پاسخ درستی رسیده‌اند. با این حال، دستیار A در ارائه جزئیات و اطلاعات اضافی، فراتر رفته است. دستیار A علاوه بر محاسبه شتاب، فرمول‌های محاسبه سرعت و مسافت را نیز ارائه داده و حتی یک مثال با فرض شروع از حالت سکون ارائه کرده است. این اطلاعات تکمیلی، درک بهتری از مفهوم شتاب و نحوه محاسبه آن را به کاربر می‌دهد و پاسخ را مفیدتر می‌کند.\n\nدستیار B پاسخ دقیقی ارائه می‌دهد، اما مختصر و خلاصه است و فقط به محاسبه شتاب بسنده می‌کند.\n\nبا توجه به مفید بودن و جامعیت بیشتر پاسخ، دستیار A برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

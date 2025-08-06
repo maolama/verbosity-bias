@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به سوال پاسخ داده‌اند و محاسبات آن‌ها دقیق است. با این حال، دستیار A پاسخ کامل‌تری ارائه می‌دهد. دستیار A علاوه بر ارائه پاسخ، توضیحاتی در مورد مفهوم سرعت متوسط، رابطه بین مسافت و زمان و کاربردهای این مفاهیم در فیزیک و زندگی روزمره ارائه می‌دهد. این توضیحات باعث می‌شود پاسخ دستیار A برای کاربر آموزنده‌تر و مفیدتر باشد. دستیار B پاسخ مختصر و دقیقی ارائه می‌دهد، اما فاقد توضیحات تکمیلی است که می‌تواند درک کاربر را عمیق‌تر کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به سوال پاسخ داده‌اند و محاسبات آن‌ها دقیق است. با این حال، دستیار A در ارائه توضیحات، کامل‌تر و واضح‌تر عمل کرده است. دستیار A با توضیح گام به گام محاسبات و ارائه توضیحات اضافی در مورد رابطه بین مسافت، زمان و سرعت، درک بهتری از مسئله را برای کاربر فراهم می‌کند. در حالی که پاسخ دستیار B مختصر و مفید است، اما فاقد توضیحات کافی برای درک بهتر فرآیند حل مسئله است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nBoth assistants provide correct answers and calculations. However, Assistant A goes significantly further in explaining the *why* behind the calculations and provides additional context regarding the relationship between distance, speed, and time. It elaborates on the principle of direct proportionality and mentions real-world applications. Assistant B delivers a correct, concise answer but lacks any explanatory depth. While conciseness can be valuable, in this case, the extra explanation in Assistant A makes it more helpful for someone trying to understand the underlying concepts.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nدستیار A در ابتدا به درستی سرعت متوسط را محاسبه می‌کند. اما سپس وارد فرضیات غیرضروری و اشتباه می‌شود. فرض اینکه سرعت در مسیر طولانی‌تر افزایش می‌یابد، در سوال مطرح نشده و محاسبات اضافی را وارد می‌کند. در حالی که دستیار B به طور مستقیم و دقیق به هر دو بخش سوال پاسخ می‌دهد و محاسبات را به درستی انجام می‌دهد. دستیار B خلاصه‌تر و متمرکزتر است و از ارائه اطلاعات اضافی و گمراه‌کننده خودداری می‌کند.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

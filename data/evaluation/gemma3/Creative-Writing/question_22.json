@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی از پاسخ دستیار B بهتر است. در حالی که هر دو پاسخ به درخواست کاربر پاسخ می‌دهند و صمیمی هستند، پاسخ A بسیار دقیق‌تر و کامل‌تر است.\n\nدلایل:\n\n*   **جزئیات و غنای متن:** پاسخ A جزئیات بیشتری در مورد دورهمی ارائه می‌دهد (شام سبک، بازی‌های دسته‌جمعی، موسیقی زنده، امکان شب‌ماندن). این جزئیات به ایجاد حس صمیمیت و نشان دادن تلاش میزبان کمک می‌کند.\n*   **لحن گرم‌تر و شخصی‌تر:** لحن پاسخ A بسیار گرم‌تر و شخصی‌تر است. استفاده از عباراتی مانند \"خانه‌ی کوچیک و پر از عشقمون\" و اشاره به سامان و آوردن ساز، حس صمیمیت را تقویت می‌کند.\n*   **توجه به جزئیات مهم:** پاسخ A به نکات مهمی مانند رژیم غذایی و حساسیت‌های غذایی توجه کرده و درخواست اطلاع‌رسانی قبلی را مطرح می‌کند. این نشان‌دهنده‌ی توجه به نیازهای مهمانان است.\n*   **درخواست پاسخ‌گویی:** درخواست از مهمانان برای اعلام حضور تا چهارشنبه، برنامه‌ریزی را آسان‌تر می‌کند.\n*   **طول مناسب:** پاسخ A طولانی‌تر است، اما این طول به دلیل افزودن جزئیات مفید و حفظ لحن صمیمی، مشکلی ایجاد نمی‌کند. در مقابل، پاسخ B بسیار کوتاه و کلی است.\n\nدر نتیجه، پاسخ A یک دعوت‌نامه کامل‌تر، گرم‌تر و شخصی‌تر است که به طور موثرتری حس صمیمیت و استقبال را منتقل می‌کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به خوبی به درخواست کاربر عمل کرده‌اند و متن دعوتی صمیمی و گرم ارائه داده‌اند. با این حال، پاسخ دستیار A کمی بیش از حد رسمی و طولانی است. لحن آن برای یک دورهمی دوستانه، کمی سنگین به نظر می‌رسد و از نظر استفاده از عباراتی مانند \"قدوم مبارکتان\" و \"منزل کوچک و ساده‌مان را منور فرمایید\" در تضاد با صمیمیت مورد نظر است. در حالی که پاسخ دستیار B کوتاه‌تر، ساده‌تر و به طور واضح صمیمی‌تر است و به هدف درخواست کاربر نزدیک‌تر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a significantly more detailed and warm invitation. It includes specific details like the date (15th of Aban), time (8 PM), and mentions a light dinner, games, and even live music. It also thoughtfully considers dietary restrictions and offers accommodation for overnight stays. The tone is very personal and inviting, using phrases like \"خانه کوچیک و پر از عشقمون\" and expressing genuine excitement for the gathering.\n\nAssistant B, while polite and friendly, is very brief and lacks the personal touch and details that make an invitation feel truly warm and welcoming. It's functional but doesn't go the extra mile to create a sense of anticipation or excitement. It's a perfectly acceptable invitation, but doesn't fulfill the request for a *warm and intimate* invitation as well as Assistant A does.\n\nTherefore, Assistant A is much better at fulfilling the user's request.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی مفصل‌تر و رسمی‌تر است. در حالی که درخواست صمیمیت و گرما را درک کرده، پاسخ آن به شدت از این خواسته فاصله گرفته و به یک دعوت‌نامه رسمی و پر از جزئیات (سالگرد ازدواج، لباس رسمی، آوردن غذا، موسیقی زنده، عکاس و...) تبدیل شده که برای یک دورهمی دوستانه \"کوچک\" بسیار زیاد است. درخواست برای آوردن غذا و اعلام تعداد مهمانان به تشریفات، کاملاً با حال و هوای صمیمی که کاربر خواسته، در تضاد است.\n\nپاسخ دستیار B به خوبی به درخواست کاربر پاسخ داده است. لحن صمیمی و گرمی دارد، کوتاه و مفید است و بر سادگی و صمیمیت دورهمی تاکید می‌کند. درخواست آوردن چیزی را رد کرده و بر حضور خود دوستان تاکید دارد.\n\nبا توجه به درخواستی که کاربر مطرح کرده (دورهمی کوچک و صمیمی با دوستان نزدیک)، پاسخ دستیار B به مراتب مناسب‌تر و مرتبط‌تر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

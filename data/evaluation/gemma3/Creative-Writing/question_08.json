@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ دستور پخت قورمه سبزی را ارائه می‌دهند و از این نظر مرتبط هستند. با این حال، پاسخ دستیار A جزئیات بیشتری را ارائه می‌دهد. به طور خاص، اشاره به خیساندن لوبیا از شب قبل، نحوه سوراخ کردن لیموعمانی‌ها و اشاره به اینکه خورش با گذشت زمان بهتر می‌شود، نکات مفیدی هستند که در پاسخ دستیار B وجود ندارند. در حالی که هر دو پاسخ درست هستند، پاسخ A به دلیل جامعیت و ارائه جزئیات بیشتر، برای کسی که قبلاً قورمه سبزی درست نکرده است، مفیدتر خواهد بود. پاسخ B بیش از حد مختصر است و ممکن است برای یک آشپز مبتدی کافی نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ‌های خوبی ارائه داده‌اند و دستور پخت قورمه سبزی را به درستی شرح داده‌اند. با این حال، پاسخ دستیار A کمی دقیق‌تر و کامل‌تر است. دستیار A در توضیح مراحل، جزئیات بیشتری ارائه می‌دهد (مانند اشاره به خیساندن لوبیا و سرخ کردن سبزی‌ها) و لحن آن کمی صمیمی‌تر و راهنماگونه‌تر است. در حالی که پاسخ دستیار B مختصر و مفید است، اما فاقد برخی از جزئیات مهمی است که می‌تواند به کاربر در تهیه غذا کمک کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide a recipe for *Ghormeh Sabzi*, a popular Iranian stew, in response to the user's request for a simple Iranian recipe. However, Assistant A is significantly more detailed and helpful.\n\nAssistant A includes crucial details like soaking the red kidney beans overnight, specifying how to prepare the dried limes (piercing them with a fork), and mentioning serving suggestions (with *kate* or *chelo* rice). It also adds a cultural note about the stew improving with time (\"جا می‌افتد\"). The instructions are more thorough and easier to follow for someone unfamiliar with the dish.\n\nAssistant B, while accurate, is very concise to the point of being incomplete. It lacks the nuances and helpful tips that make Assistant A's response superior. It assumes a level of cooking knowledge that the user might not have.\n\nTherefore, Assistant A provides a much more complete and user-friendly recipe.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nهر دو دستیار هوش مصنوعی دستور پخت قورمه سبزی را ارائه داده‌اند که یک غذای ایرانی محبوب است. با این حال، پاسخ دستیار A جزئیات بیشتری دارد و دستورالعمل‌های واضح‌تری ارائه می‌دهد. به عنوان مثال، دستیار A مقدار مواد اولیه را مشخص کرده و مراحل پخت را به صورت گام به گام توضیح داده است. همچنین، اشاره به زمان پخت (۱ ساعت) و نحوه سرو (با ماکارونی یا نان) مفید است. در مقابل، پاسخ دستیار B بسیار مختصر است و جزئیات کافی را ارائه نمی‌دهد. به عنوان مثال، مقدار مواد اولیه مشخص نیست و زمان پخت به صورت تقریبی (۲-۳ ساعت) ذکر شده است. همچنین، استفاده از لیموعمانی به جای لیموترش تازه در دستور پخت سنتی قورمه سبزی، کمی غیرمعمول است.\n\nبنابراین، با توجه به جزئیات بیشتر، دستورالعمل‌های واضح‌تر و دقت بالاتر، پاسخ دستیار A بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

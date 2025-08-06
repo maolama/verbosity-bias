@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی پاسخ را محاسبه کرده‌اند (۴ متر بر مجذور ثانیه). با این حال، دستیار A پاسخ کامل‌تری ارائه می‌دهد. علاوه بر محاسبه‌ی شتاب، توضیح مفصلی از فرمول استفاده شده، مقایسه‌ی شتاب با شتاب گرانش زمین و مثال‌هایی از شتاب خودروهای مختلف ارائه می‌دهد. همچنین، محاسبات مربوط به مسافت طی شده و فرمول‌های مرتبط را نیز ذکر می‌کند که نشان‌دهنده‌ی درک عمیق‌تر از موضوع است. دستیار B پاسخ مختصر و دقیقی ارائه می‌دهد، اما فاقد جزئیات و توضیحات اضافی است که می‌تواند برای کاربر مفید باشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سوال پاسخ داده‌اند و پاسخ نهایی آن‌ها هم صحیح است. با این حال، دستیار A در توضیح خود دقیق‌تر و کامل‌تر عمل کرده است. دستیار A با توضیح مفهوم شتاب متوسط و گام به گام پیش رفتن در حل مسئله، درک بهتری را برای کاربر فراهم می‌کند. در حالی که دستیار B پاسخ مختصر و دقیقی ارائه می‌دهد، اما فاقد توضیحات کافی برای درک بهتر مفهوم و روش حل است. بنابراین، دستیار A با وجود اینکه طولانی‌تر است، به دلیل توضیح کامل‌تر و مفیدتر، برتری دارد.\n\n[[A]]\n",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly calculate the average acceleration as 4 m/s². However, Assistant A provides a more comprehensive and helpful response. It not only gives the correct answer but also:\n\n*   **Explains the formula used:** Clearly states `a = Δv/Δt` and defines the variables.\n*   **Provides context:** Relates the calculated acceleration to 'g' (acceleration due to gravity) and gives examples of typical accelerations for race cars and regular cars. This helps the user understand the magnitude of the acceleration.\n*   **Offers additional calculations:** Shows how to calculate the distance traveled and mentions another relevant formula (`v² = v₀² + 2ax`).\n\nAssistant B, while accurate, is very concise and lacks the explanatory depth of Assistant A. It simply states the calculation and the answer. While brevity can be good, in this case, the extra information provided by A significantly enhances the user's understanding.\n\nTherefore, Assistant A is the better response.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی پاسخ را محاسبه کرده‌اند، اما دستیار A پاسخ کامل‌تر و بهتری ارائه داده است. دستیار A نه تنها پاسخ نهایی را ارائه می‌دهد، بلکه فرمول مورد استفاده را توضیح می‌دهد، مراحل محاسبه را به وضوح نشان می‌دهد و حتی با استفاده از فرمول دیگری صحت پاسخ را بررسی می‌کند. این توضیحات اضافی به درک بهتر مفهوم شتاب و نحوه محاسبه آن کمک می‌کند. در مقابل، دستیار B پاسخ مختصر و دقیقی ارائه می‌دهد، اما فاقد توضیحات و بررسی‌های اضافی است که در دستیار A وجود دارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A به طور قابل توجهی پاسخ کامل‌تری ارائه می‌دهد. این پاسخ شامل سه روش مختلف برای یافتن عناصر مشترک است، همراه با توضیحاتی در مورد پیچیدگی زمانی هر روش و کدهای پایتون برای پیاده‌سازی آنها. همچنین، نکات مهمی در مورد اهمیت ترتیب و تکرار عناصر و کارایی روش‌ها برای لیست‌های بزرگ ارائه می‌دهد.\n\nدستیار B اطلاعات کلی را ارائه می‌دهد، اما فاقد جزئیات و کد نمونه است. در حالی که اشاره به روش‌های مشابهی دارد، عمق و وضوح پاسخ دستیار A را ندارد.\n\nبه طور کلی، پاسخ دستیار A بسیار مفیدتر و آموزنده‌تر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به پرسش کاربر پاسخ می‌دهند و راهکارهای اصلی برای یافتن عناصر مشترک بین دو لیست را به درستی ارائه می‌کنند. با این حال، پاسخ دستیار A با ارائه توضیحاتی بیشتر و جزئی‌تر در مورد هر روش، به خصوص در مورد کارایی روش استفاده از `set`، مفیدتر است. دستیار A به این نکته اشاره می‌کند که جستجو در `set` سریع‌تر است و این به درک بهتر دلیل انتخاب این روش کمک می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد این سطح از توضیح و عمق است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nAssistant A provides a much more comprehensive and useful answer than Assistant B. Here's a breakdown:\n\n* **Helpfulness:** A gives *three* methods with code examples in Python, detailing the time complexity of each. This allows the user to choose the best method based on their specific needs (list size, importance of order, etc.). B only *mentions* methods without any code or detail.\n* **Relevance:** Both answers are relevant, but A is more so because it provides concrete implementations.\n* **Accuracy:** Both are accurate in their descriptions of the methods.\n* **Overall Quality:** A is significantly better. It's a complete, practical guide to finding common elements between lists, while B is a very high-level overview that doesn't offer much beyond stating the possibilities. The \"نکته مهم\" (important note) at the end of A is also a helpful addition.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی جامع‌تر و دقیق‌تر از پاسخ دستیار B است. دستیار A دو روش اصلی را با جزئیات توضیح می‌دهد (مرتب‌سازی و ادغام، و هش‌مپ) و پیچیدگی زمانی هر روش را نیز ذکر می‌کند. همچنین به بهینه‌سازی حافظه و حفظ ترتیب عناصر مشترک نیز اشاره می‌کند. این سطح از جزئیات برای یک پاسخ کامل و مفید بسیار مهم است.\n\nپاسخ دستیار B در حالی که درست است، بسیار ساده و کلی است. تنها دو روش را به طور مختصر معرفی می‌کند و هیچ اشاره‌ای به پیچیدگی زمانی یا ملاحظات مربوط به حافظه نمی‌کند. تبدیل لیست به مجموعه (set) روش خوبی است، اما توضیحی در مورد مزایا و معایب آن ارائه نمی‌دهد.\n\nبه طور کلی، پاسخ دستیار A اطلاعات بسیار بیشتری را ارائه می‌دهد و به درک عمیق‌تری از مسئله و راه‌حل‌های آن کمک می‌کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

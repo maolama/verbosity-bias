@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n1. **مفید بودن**:  \n   - **دستیار A**: پاسخ بسیار مفید است. علاوه بر محاسبه شتاب، اطلاعات تکمیلی مانند مقایسه با شتاب گرانش، تغییرات سرعت در زمان‌های مختلف، و محاسبه مسافت طی‌شده را ارائه می‌دهد. این موارد به درک بهتر مفهوم شتاب و کاربردهای عملی آن کمک می‌کند.  \n   - **دستیار B**: پاسخ مفید اما محدود است. تنها به محاسبه پایه‌ای شتاب بسنده کرده و هیچ توضیح اضافه‌ای ارائه نمی‌دهد.  \n\n2. **ارتباط با پرسش**:  \n   - هر دو پاسخ مستقیم به پرسش کاربر (محاسبه شتاب) پاسخ داده‌اند و کاملاً مرتبط هستند.  \n   - دستیار A با افزودن جزئیات کاربردی (مانند سرعت و مسافت)، ارتباط عمیق‌تری با کاربردهای فیزیکی مسئله برقرار می‌کند.\n\n3. **دقت**:  \n   - هر دو پاسخ از **قانون دوم نیوتن (F = ma)** به‌درستی استفاده کرده‌اند.  \n   - محاسبه شتاب (a = 30/5 = 6 m/s²) در هر دو دقیق است.  \n   - مقایسه شتاب با گرانش (0.61g) و محاسبات سرعت/مسافت در پاسخ A نیز صحیح است.\n\n4. **کیفیت کلی**:  \n   - **دستیار A**: ساختار منسجم، آموزشی و جامع دارد. با توضیح مفاهیم فیزیکی مرتبط (مانند تبدیل واحدها به g و کاربرد فرمول‌های حرکت)، پاسخ را به‌یادماندنی و کاربردی می‌کند.  \n   - **دستیار B**: اگرچه دقیق و مختصر است، اما فاقد عمق آموزشی است. برای کاربرانی که به دنبال درک عمیق‌تر هستند، کافی نیست.\n\n---\n\n### نتیجه‌گیری نهایی\nهر دو پاسخ از نظر دقت و ارتباط با پرسش برابر هستند، اما **دستیار A** با ارائه‌ی توضیحات تکمیلی، مقایسه‌های کاربردی و محاسبات گسترده‌تر، پاسخ بسیار مفیدتر و باکیفیت‌تری ارائه کرده است. این رویکرد به ویژه برای یادگیری مفهومی فیزیک ارزشمند است.  \n\n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "به عنوان داور بی‌طرف، ارزیابی پاسخ‌ها بر اساس معیارهای خواسته شده به شرح زیر است:\n\n### تحلیل پاسخ A:\n- **مفید بودن**: بسیار مفید. توضیحات آموزشی کامل شامل بیان قانون دوم نیوتن، استخراج فرمول (a = F/m)، جایگذاری مقادیر و محاسبه گام‌به‌گام ارائه شده است.\n- **ارتباط**: کاملاً مرتبط و مستقیم به پرسش. توجه به نادیده گرفتن اصطکاک و تفسیر فیزیکی نتیجه (صرف تمام نیرو برای شتاب) نشان‌دهنده درک عمیق سؤال است.\n- **دقت**: پاسخ از نظر علمی کاملاً دقیق است. محاسبه شتاب (6 m/s²) بدون خطا انجام شده و واحدها صحیح ذکر شده‌اند.\n- **کیفیت کلی**: پاسخ ساختارمند، آموزنده و دارای ارزش افزوده آموزشی. زبان علمی شفاف و روان است.\n\n### تحلیل پاسخ B:\n- **مفید بودن**: مفید اما فاقد جزئیات آموزشی. پاسخ به اصل محاسبه بسنده کرده و توضیحی برای چرایی روش ارائه نمی‌دهد.\n- **ارتباط**: مرتبط اما ناقص. علیرغم ذکر فرمول و محاسبه صحیح، به نکته کلیدی \"نادیده گرفتن اصطکاک\" که در سؤال آمده اشاره‌ای نشده است.\n- **دقت**: از نظر محاسباتی دقیق (6 m/s²) ولی عدم توجیه فیزیکی نتیجه، عمق پاسخ را کاهش داده است.\n- **کیفیت کلی**: پاسخ صحیح اما فشرده و مکانیکی. برای کاربرانی که پایه ضعیفی دارند کافی نیست.\n\n### نتیجه‌گیری:\nپاسخ A با ارائه **توضیحات مفهومی جامع**، **توجه به شرایط مسئله (عدم اصطکاک)** و **ساختار آموزشی گام‌به‌گام**، از نظر مفید بودن، دقت و کیفیت کلی برتر است. پاسخ B هرچند صحیح، به دلیل خلاصه‌گویی و نادیده گرفتن جنبه‌های تفسیری سؤال، کارایی کمتری دارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness**:  \n- **Assistant A** provides a comprehensive explanation beyond the core calculation. It includes additional context (comparison to gravity, velocity over time, distance calculation) which enhances understanding, making it more helpful for learners.  \n- **Assistant B** gives only the direct solution without elaboration, which is sufficient but less instructive for deeper comprehension.  \n**Winner: A**  \n\n**Relevance**:  \n- Both answers correctly address the user’s query about acceleration. **Assistant B**’s response is tightly focused on the question. **Assistant A** remains relevant but includes supplementary details not explicitly requested.  \n**Winner: B** (by a narrow margin for strict relevance).  \n\n**Accuracy**:  \n- Both accurately apply Newton’s second law (\\(a = F/m\\)) and compute \\(30/5 = 6  \\text{m/s}^2\\). No errors in the core physics.  \n**Winner: Tie**  \n\n**Overall Quality**:  \n- **Assistant A** excels in educational value, transforming a simple calculation into a mini-lesson on kinematics. However, the extra details, while useful, slightly exceed the query’s scope.  \n- **Assistant B** is precise and efficient, ideal for users seeking a quick answer. It lacks depth but is error-free and concise.  \n- **Tiebreaker**: For most users, **Assistant A**’s added insights (velocity/time progression, distance formula) offer greater practical utility without sacrificing correctness.  \n\n### Final Verdict  \n[[A]]  \n\n**Reasoning**: Though both answers are accurate, **Assistant A**’s response is superior in *helpfulness* and *overall quality* due to its instructive approach. It clarifies implications of the result (e.g., speed increase over time, comparison to gravity), which enriches understanding—especially valuable for educational contexts. **Assistant B**, while correct and concise, misses an opportunity to enhance user comprehension.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**دلایل ارزیابی:**\n\n1. **دقت (Accuracy):**\n   - **دستیار A:** محاسبه شتاب را **اشتباه** انجام داده است (`30/5 = 6.5`). این خطای محاسباتی منجر به نتایج نادرست در محاسبات بعدی (سرعت و مسافت) شده است.\n   - **دستیار B:** محاسبه شتاب را **صحیح** انجام داده است (`a = 30/5 = 6 m/s²`). پاسخ دقیق و بدون خطا است.\n\n2. **ارتباط با پرسش (Relevance):**\n   - **دستیار A:** با افزودن محاسبات سرعت و مسافت (با وجود اشتباه)، بخشی از پاسخ خارج از محدوده سؤال اصلی کاربر بود.\n   - **دستیار B:** کاملاً بر محاسبه شتاب متمرکز بود و اطلاعات اضافی ارائه نکرد که به سؤال مرتبط نباشد.\n\n3. **مفید بودن (Helpfulness):**\n   - **دستیار A:** اگرچه تلاش کرد با ارائه اطلاعات اضافی (محاسبه سرعت و مسافت) مفیدتر باشد، اما خطای محاسباتی، کل پاسخ را بی‌اعتبار کرد.\n   - **دستیار B:** پاسخ مختصر و صحیحی داد که مستقیماً نیاز کاربر را برآورده می‌کند.\n\n4. **کیفیت کلی (Overall Quality):**\n   - **دستیار A:** وجود خطای محاسباتی اساسی و انحراف از تمرکز سؤال، کیفیت را کاهش می‌دهد.\n   - **دستیار B:** پاسخ واضح، دقیق و کاملاً مرتبط، کیفیت بالاتری دارد.\n\n### نتیجه نهایی:\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی به سوال پاسخ داده‌اند و نتیجه‌ی ۴.۵ پوند را به دست آورده‌اند. با این حال، پاسخ دستیار A با ارائه توضیحات بیشتر در مورد محاسبه سود، حاشیه سود و اشاره به هزینه‌های دیگر در دنیای واقعی کسب و کار، پاسخ کامل‌تری ارائه می‌دهد. این توضیحات اضافی، درک بهتری از مفهوم سود و زیان را برای کاربر فراهم می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات و توضیحات تکمیلی است که پاسخ A ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سوال پاسخ داده‌اند و پاسخ‌های دقیقی ارائه کرده‌اند. هر دو پاسخ شامل مراحل محاسبه و نتیجه نهایی هستند.\n\nبا این حال، پاسخ دستیار A کمی مفصل‌تر است و توضیح بیشتری در مورد نحوه رسیدن به جواب ارائه می‌دهد. این توضیحات اضافی می‌تواند برای کاربرانی که نیاز به درک کامل‌تر فرایند محاسبه دارند، مفید باشد. پاسخ دستیار B مختصر و مستقیم است و مستقیماً به نتیجه می‌رسد.\n\nبا توجه به اینکه سوال ساده است و نیاز به توضیح پیچیده‌ای ندارد، پاسخ مختصر دستیار B نیز کاملاً کافی و موثر است. اما با در نظر گرفتن ارائه توضیحات بیشتر در پاسخ دستیار A، آن را کمی مفیدتر ارزیابی می‌کنم.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly calculate the profit. However, Assistant A provides a more comprehensive and insightful answer. It not only calculates the profit but also explains the concept of gross profit, mentions other real-world business costs that would affect *net* profit, and even calculates the profit margin as a percentage. This extra context makes Assistant A's response more helpful and demonstrates a deeper understanding of the underlying business principles. Assistant B is correct and concise, but lacks the added value of explanation and context.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nدستیار A یک پاسخ دقیق و کامل ارائه داده است. محاسبات درست هستند و به درستی توضیح داده شده‌اند. همچنین دستیار A به نکته مهمی مانند مالیات بر ارزش افزوده اشاره کرده و آن را در محاسبه گنجانده است که نشان دهنده دقت و توجه به جزئیات بیشتر است. با این حال، اشاره به مالیات بر ارزش افزوده در این مسئله ممکن است غیر ضروری باشد، چرا که در سوال به آن اشاره نشده بود.\n\nدستیار B هم پاسخ دقیقی ارائه داده است و محاسبات آن نیز درست هستند. با این حال، پاسخ آن کوتاه‌تر و ساده‌تر است و به نکته‌ی مالیات اشاره‌ای نکرده است.\n\nبا توجه به اینکه دستیار A به جزئیات بیشتری پرداخته و سعی کرده پاسخ کاملی ارائه دهد، اما اضافه کردن مالیات بر ارزش افزوده بدون ذکر در سوال کمی اضافی به نظر می‌رسد، و دستیار B پاسخ دقیقی را به صورت مستقیم ارائه کرده است، می‌توان گفت که هر دو پاسخ در یک سطح هستند.\n\n[[C]]",
                 "extracted_answer": "C"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         }
     }
 }

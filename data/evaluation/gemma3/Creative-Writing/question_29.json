@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو یک پیش‌نویس مناسب برای یک نامه شکایت ارائه داده‌اند. با این حال، دستیار A به طور قابل توجهی کامل‌تر و دقیق‌تر است.\n\n* **مفید بودن و ارتباط با پرسش:** هر دو پاسخ به سؤال کاربر پاسخ می‌دهند و یک نامه شکایت را ارائه می‌کنند.\n* **دقت:** هر دو پاسخ قالب نامه را به درستی رعایت می‌کنند.\n* **کیفیت کلی:** دستیار A با ذکر جزئیات بیشتر مانند تاریخ شروع مشکل، توضیح دقیق مشکل (دمای پایین)، اشاره به شرایط خاص (حساسیت تنفسی فرزند)، و استناد به مواد قانونی (ماده ۴ قرارداد اجاره و قانون روابط موجر و مستاجر) و تعیین مهلت زمانی برای رسیدگی، یک نامه قوی‌تر و مؤثرتر ارائه می‌دهد. این جزئیات به صاحبخانه نشان می‌دهد که مستأجر به حقوق خود آگاه است و جدی است و می‌تواند از پیگیری قانونی استفاده کند. پاسخ دستیار B بسیار مختصر است و فاقد این جزئیات مهم است.\n\nبه همین دلیل، پاسخ دستیار A از نظر کیفیت کلی به مراتب بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A و B هر دو به درستی به درخواست کاربر پاسخ داده‌اند و یک نامه شکایت رسمی در مورد سیستم گرمایشی خراب ارائه کرده‌اند. با این حال، پاسخ دستیار A به طور قابل توجهی کامل‌تر و حرفه‌ای‌تر است.\n\n**مفید بودن و ارتباط با پرسش:** هر دو پاسخ مرتبط با پرسش هستند و هدف را برآورده می‌کنند.\n\n**دقت:** هر دو پاسخ از نظر اطلاعاتی دقیق هستند و فرمت نامه را به درستی رعایت می‌کنند.\n\n**کیفیت کلی:** پاسخ دستیار A به دلیل لحن رسمی‌تر، جزئیات بیشتر (اشاره به تماس‌های متعدد و نگرانی شدید)، و استفاده از عبارات قوی‌تر و متقاعدکننده‌تر، کیفیت بالاتری دارد. این نامه به احتمال زیاد تأثیر بیشتری بر صاحبخانه خواهد گذاشت. پاسخ دستیار B مختصر و مفید است، اما فاقد عمق و جزئیات لازم برای یک شکایت رسمی موثر است.\n\nبنابراین:\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a significantly more comprehensive and effective complaint letter. Here's a breakdown:\n\n* **Helpfulness & Relevance:** A is far more helpful. It doesn't just state the problem; it details the severity (temperature below 15°C), the impact (child with respiratory issues), and *specifically references the relevant clauses in the rental agreement and the landlord-tenant law*. This strengthens the complaint considerably. B is very basic and lacks this crucial legal grounding.\n* **Accuracy:** Both are accurate in their basic structure of a complaint letter, but A's inclusion of legal references demonstrates a deeper understanding of the situation and how to effectively address it.\n* **Overall Quality:** A is a professionally written, detailed, and persuasive complaint. It sets a clear expectation for action and outlines potential consequences (legal action) if the issue isn't resolved. B is polite but weak and lacks the necessary detail to be truly effective. It relies solely on politeness without backing it up with justification or legal standing.\n\nAssistant A provides a much stronger and more likely-to-be-effective letter.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A یک نامه شکایت بسیار جامع و قوی نوشته است. این پاسخ نه تنها مشکل را شرح می‌دهد، بلکه با ارجاع به قوانین مدنی، بخشنامه وزارت راه و شهرسازی و قانون نظام مهندسی، پشتوانه قانونی محکمی برای شکایت ارائه می‌کند. اشاره به تماس‌های قبلی و عدم پاسخگویی، همچنین بیان عواقب احتمالی (کاهش هزینه اجاره و پیگیری قانونی) و اشاره به آسیب دیدن فرزند مستاجر، نامه را بسیار جدی و موثر می‌کند. لحن نامه رسمی و محترمانه است.\n\nدستیار B یک نامه ساده و مختصر نوشته است. در حالی که نامه به خودی خود درست است و مشکل را بیان می‌کند، فاقد جزئیات و پشتوانه قانونی است که در پاسخ A وجود دارد. این نامه ممکن است برای صاحبخانه‌ای که مایل به همکاری است کافی باشد، اما در صورت نیاز به پیگیری جدی، قدرت کافی را ندارد.\n\nبه طور کلی، پاسخ A بسیار مفیدتر، دقیق‌تر و حرفه‌ای‌تر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

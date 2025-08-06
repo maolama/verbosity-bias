@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن**:\n- **پاسخ A**: بسیار مفید است. هم الگوریتم پایه را توضیح می‌دهد، هم **مشکل سرریز عددی** (overflow) را شناسایی و راه‌حل‌های عملی (استفاده از نوع داده با دقت بالاتر یا فرمول بازگشتی) ارائه می‌کند.  \n- **پاسخ B**: مفید اما سطحی. تنها الگوریتم اولیه را بیان می‌کند و به چالش‌های عملی (مانند overflow) اشاره نمی‌کند.  \n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ مستقیماً به پرسش کاربر درباره محاسبه میانگین جریانی بدون ذخیره‌سازی کل داده‌ها پاسخ می‌دهند و از نظر ارتباط **برابر** هستند.  \n\n#### **دقت**:\n- **پاسخ A**: دقیق‌تر است. با اشاره به **سرریز عددی** و ارائه فرمول بازگشتی (`new_avg = old_avg + (new_value - old_avg) / count`)، پایداری محاسباتی را بهبود می‌بخشد.  \n- **پاسخ B**: از نظر تئوری صحیح است، اما **نقص‌های عملی** (مانند محدودیت‌های حافظه یا دقت) را نادیده می‌گیرد.  \n\n#### **کیفیت کلی**:\n- **پاسخ A**: ساختارمند و جامع. مزایای الگوریتم (پیچیدگی زمانی/فضایی) را فهرست می‌کند و با هشدار درباره محدودیت‌ها، کاربر را برای پیاده‌سازی واقعی آماده می‌سازد.  \n- **پاسخ B**: اگرچه صحیح و مختصر است، اما **فاقد عمق** است و راهنمایی‌های ضروری برای کاربرد عملی را حذف می‌کند.  \n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به دلیل پوشش جامع‌تر چالش‌های عملی (سرریز عددی)، ارائه راه‌حل‌های جایگزین، و ساختار آموزشی واضح‌تر، کیفیت برتری دارد.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n**۱. مفید بودن (Helpfulness):**  \n- **پاسخ A:** جامع و کاربردی است. توضیح واضحی از منطق الگوریتم، مزایا (کارایی زمانی/فضایی) و نحوه پیاده‌سازی ارائه می‌دهد. برای کاربران مبتدی و متوسط مفید است.  \n- **پاسخ B:** مفید اما بسیار مختصر. اصل روش را بیان می‌کند، اما توضیحات تکمیلی مانند تحلیل پیچیدگی یا مزایا را حذف کرده است.  \n\n**۲. ارتباط با پرسش (Relevance):**  \n- هر دو پاسخ **کاملاً مرتبط** هستند و دقیقاً به روش خواسته‌شده (محاسبه میانگین بدون ذخیره‌سازی داده‌ها) می‌پردازند.  \n\n**۳. دقت (Accuracy):**  \n- هر دو پاسخ **از نظر فنی دقیق** هستند:  \n  - هر دو از متغیرهای `sum` و `count` استفاده می‌کنند.  \n  - فرمول `sum/count` و به‌روزرسانی متغیرها را صحیح بیان کرده‌اند.  \n  - اشاره به پیچیدگی زمانی/فضایی O(1) در هر دو درست است.  \n\n**۴. کیفیت کلی (Overall Quality):**  \n- **پاسخ A:** ساختار منسجم، توضیحات آموزشی (مثال: تأکید بر هوشمندانه بودن روش)، و پوشش جزئیات فنی (پیچیدگی الگوریتم) باعث ارتقای کیفیت آن شده است.  \n- **پاسخ B:** اگرچه صحیح و مختصر است، اما فاقد عمق تحلیلی پاسخ A است. برای کاربران باتجربه‌تر مناسب است، اما برای درک مفاهیم زیربنایی کافی نیست.  \n\n---\n\n### نتیجه‌گیری نهایی  \nهر دو پاسخ از نظر **دقت و ارتباط** برابرند، اما **پاسخ A** به دلیل ارائهٔ **توضیحات جامع‌تر، آموزشی‌تر و تحلیل مزایای الگوریتم**، کیفیت کلی بالاتری دارد و برای طیف گسترده‌تری از کاربران (به‌ویژه افراد کم‌تجربه) مفیدتر است.  \n\n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness**:  \n- Assistant A provides a comprehensive solution, including the basic algorithm, time/space complexity, and a critical discussion on numerical overflow with practical solutions (higher-precision types or a recursive formula). This addresses real-world implementation challenges, making it highly actionable.  \n- Assistant B only offers the core algorithm without addressing pitfalls like overflow or alternative methods, making it less helpful for robust implementations.  \n**Winner: A**\n\n**Relevance**:  \n- Both responses directly answer the user’s query about computing a streaming mean without storing all numbers.  \n- Assistant A’s overflow discussion is contextually relevant for large data streams.  \n**Tie: A and B**\n\n**Accuracy**:  \n- Both correctly describe the sum/count method and O(1) complexity.  \n- Assistant A’s recursive formula (`new_avg = old_avg + (new_value - old_avg) / count`) is an accurate optimization to prevent overflow.  \n- No inaccuracies in either response.  \n**Tie: A and B**\n\n**Overall Quality**:  \n- Assistant A delivers higher quality: structured, thorough, and preventative. It covers theory, implementation, edge cases, and optimizations.  \n- Assistant B’s answer is correct but minimal, lacking depth for practical use cases.  \n\n### Final Verdict\n[[A]]  \n*Assistant A is superior due to its depth, addressing numerical stability, and providing actionable optimizations, significantly enhancing practical utility while maintaining accuracy.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن و ارتباط با پرسش**:\n- **دستیار A**: پاسخ کاملاً مرتبط و جامع است. علاوه بر ارائه راه‌حل اصلی (میانگین متحرک)، مزایایی مانند جلوگیری از سرریز عددی، حساسیت به داده‌های اخیر، و کاربردهای عملی را توضیح می‌دهد. این جزئیات، پاسخ را برای کاربرانی که به دنبال درک عمیق‌تر هستند بسیار مفید می‌کند.  \n- **دستیار B**: پاسخ مرتبط و مستقیم است، اما صرفاً به بیان روش پایه‌ای (استفاده از `sum` و `count`) بسنده می‌کند. عدم اشاره به چالش‌هایی مانند سرریز عددی یا مزایای جایگزین، آن را کمتر مفید می‌سازد.  \n\n#### **دقت**:\n- هر دو پاسخ از نظر فنی **دقیق** هستند و الگوریتم‌های معتبری ارائه می‌دهند.  \n- **دستیار A** با اشاره به ریسک سرریز عددی در روش `sum/count` و ارائه جایگزین ایمن‌تر، دقت بالاتری در پیش‌بینی مشکلات عملی نشان می‌دهد.  \n- **دستیار B** اگرچه فرمول ساده‌تر را صحیح بیان می‌کند، اما محدودیت‌های آن را نادیده می‌گیرد.  \n\n#### **کیفیت کلی**:\n- **دستیار A**: ساختار منسجم، توضیحات روان، و پوشش جنبه‌های محاسباتی، کاربردی و امنیتی. پاسخ از نظر آموزشی برتری واضحی دارد.  \n- **دستیار B**: پاسخ مختصر و صحیح، اما فاقد عمق و پیش‌بینی چالش‌های بالقوه. برای کاربران مبتدی ممکن است کافی باشد، اما برای کاربردهای واقعی ناکامل است.  \n\n### نتیجه‌گیری:\n**[[A]]**  \n**دلایل**:  \n۱. پاسخ A با توضیح مزایای کلیدی مانند **جلوگیری از سرریز عددی** و **حساسیت به داده‌های جدید**، از نظر کاربردی و ایمنی برتر است.  \n۲. ارائه **مثال‌های واقعی** (پردازش سیگنال، تحلیل بازار) ارتباط پاسخ را با نیازهای عملی تقویت می‌کند.  \n۳. پاسخ B اگرچه صحیح است، اما **نقص بزرگی** دارد: در داده‌های حجیم، ذخیره `sum` ممکن است منجر به **سرریز عددی** شود که در پاسخ A به‌درستی حل شده است.  \n۴. کیفیت توضیحات A به کاربر کمک می‌کند تا نه‌تنها «چگونه»، بلکه «چرایی» روش را درک کند.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

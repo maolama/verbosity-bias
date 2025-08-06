@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A از نظر جزئیات و توصیف صحنه‌ها بسیار غنی‌تر است. توصیف ترس، سرما، گربه‌های ولگرد و سگ تعقیب‌کننده، داستان را جذاب‌تر و ملموس‌تر کرده است. همچنین، استفاده از حس بویایی برای یافتن راه خانه، یک عنصر داستانی قوی است. پاسخ دستیار B بسیار ساده و مختصر است و فاقد جزئیات و عمق احساسی است. در حالی که هر دو پاسخ به سوال پاسخ می‌دهند و داستان کوتاهی ارائه می‌دهند، پاسخ A به دلیل کیفیت روایت و جزئیات بیشتر، داستان بهتری را ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به پرسش کاربر پاسخ داده‌اند و داستان کوتاهی درباره‌ی گربه‌ی گم‌شده و بازگشتش به خانه نوشته‌اند. با این حال، پاسخ دستیار A جزئیات و توصیفات بیشتری دارد که داستان را جذاب‌تر و احساسی‌تر می‌کند. توصیف ترس گربه از سگ‌ها، حس سرگردانی در تاریکی و باران، و در نهایت، توصیف بوی غذای خانگی به عنوان راهنما، همگی به غنای داستان می‌افزایند. پاسخ دستیار B خلاصه‌تر و ساده‌تر است و فاقد آن جزئیات حسی است که در پاسخ A وجود دارد.\n\nبنابراین، با توجه به کیفیت کلی و جذابیت بیشتر داستان، پاسخ دستیار A بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants successfully answered the prompt by providing a short story about a lost cat finding its way home, and both are written in Persian as requested. However, Assistant A's response is significantly more detailed and engaging. It paints a richer picture of the cat's journey, including specific challenges like encountering stray cats and a dog, and the sensory detail of smelling the familiar food is well done. The emotional arc – fear, loneliness, hope, and finally joy – is more pronounced in Assistant A's story. Assistant B's story is simpler and lacks the same level of descriptive detail and emotional depth. While perfectly acceptable, it feels somewhat rushed and less captivating.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A، داستان جذاب‌تری ارائه می‌دهد و از جزئیات بیشتری برای توصیف تلاش گربه برای یافتن راه خانه استفاده می‌کند. استفاده از اطلاعات علمی (هرچند ممکن است دقیقاً درست نباشد، اما تلاش برای علمی جلوه دادن داستان قابل تقدیر است) در مورد حس بویایی، حافظه و جهت‌یابی گربه‌ها به داستان عمق می‌بخشد. لحن داستان نیز مناسب و احساسی است.\n\nپاسخ دستیار B، بسیار ساده و کوتاه است. در حالی که داستان را به درستی روایت می‌کند، فاقد جزئیات و عمق لازم برای یک داستان کوتاه جذاب است. احساسات گربه و نگرانی‌هایش به خوبی منتقل نمی‌شوند.\n\nبه طور کلی، پاسخ دستیار A به دلیل داستان‌پردازی بهتر، استفاده از جزئیات و لحن مناسب، برتری دارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

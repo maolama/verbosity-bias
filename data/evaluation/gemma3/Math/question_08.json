@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ درستی ارائه داده‌اند (۶۰). با این حال، دستیار A پاسخ کامل‌تری ارائه می‌دهد. دستیار A علاوه بر ارائه پاسخ، توضیح مفصلی از روش محاسبه ک.م.م با استفاده از تجزیه به عوامل اول و همچنین روش استفاده از رابطه بین ک.م.م و ب.م.م ارائه می‌دهد. همچنین، پاسخ خود را با تقسیم ۶۰ بر هر یک از اعداد ۱۲، ۱۵ و ۲۰ راستی‌آزمایی می‌کند. دستیار B پاسخ مختصر و درستی ارائه می‌دهد، اما فاقد جزئیات و توضیحات اضافی است که درک فرآیند حل مسئله را برای کاربر آسان‌تر می‌کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی ک.م.م اعداد ۱۲، ۱۵ و ۲۰ را محاسبه کرده و به نتیجه ۶۰ رسیده‌اند. با این حال، پاسخ دستیار A در توضیح مراحل رسیدن به جواب، کامل‌تر و دقیق‌تر است. دستیار A به طور واضح توضیح می‌دهد که چرا باید بیشترین توان هر عامل اول را انتخاب کرد و مراحل ضرب را نیز نشان می‌دهد. در حالی که پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات کافی برای درک کامل فرآیند است. به همین دلیل، پاسخ دستیار A برای کاربرانی که به دنبال یادگیری نحوه محاسبه ک.م.م هستند، مفیدتر خواهد بود.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly identify the least common multiple (LCM) of 12, 15, and 20 as 60. However, Assistant A provides a much more comprehensive and detailed explanation. It not only shows the prime factorization method but also explains the relationship between LCM and greatest common divisor (GCD), and even includes a verification step. Assistant B is correct and concise, but lacks the depth and pedagogical approach of Assistant A. While conciseness can be valuable, in this case, the extra explanation in A is helpful for understanding *how* the answer is derived.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار پاسخ درستی ارائه داده‌اند (ک.م.م اعداد ۱۲، ۱۵ و ۲۰ برابر ۶۰ است). با این حال، دستیار A پاسخ کامل‌تر و دقیق‌تری ارائه می‌دهد. دستیار A علاوه بر ارائه پاسخ، روش محاسبه را به طور کامل توضیح می‌دهد و حتی یک روش جایگزین برای محاسبه را نیز نشان می‌دهد و در نهایت با یک بررسی ساده، صحت پاسخ را تأیید می‌کند. این سطح از جزئیات و اطمینان‌بخشی در پاسخ، آن را مفیدتر می‌کند. دستیار B پاسخ مختصر و درستی ارائه می‌دهد، اما فاقد توضیح و جزئیات کافی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

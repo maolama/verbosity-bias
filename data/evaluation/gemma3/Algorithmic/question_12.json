@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است.\n\n**دلایل:**\n\n* **جزئیات و عمق:** دستیار A روش‌های مختلف را با جزئیات بیشتری توضیح می‌دهد، از جمله پیچیدگی زمانی هر روش و حتی مثال کد (پایتون). این به کاربر درک بهتری از مزایا و معایب هر روش می‌دهد.\n* **توضیح الگوریتم‌ها:** دستیار A الگوریتم‌ها را به طور واضح توضیح می‌دهد (مانند Quicksort، Mergesort، Min-Heap، الگوریتم انتخاب) و نحوه اعمال آنها را برای حل مسئله شرح می‌دهد.\n* **در نظر گرفتن موارد خاص:** دستیار A به نکته مهمی در مورد وجود عناصر تکراری اشاره می‌کند و نیاز به تعریف دقیق‌تر \"دومین کوچکترین\" را مطرح می‌کند. این نشان‌دهنده تفکر انتقادی و جامع‌نگری است.\n* **سازماندهی:** پاسخ دستیار A به خوبی سازماندهی شده و از شماره‌گذاری برای لیست کردن روش‌ها استفاده می‌کند که خوانایی را افزایش می‌دهد.\n\nدر مقابل، پاسخ دستیار B بسیار مختصر و کلی است. در حالی که روش‌های اصلی را ذکر می‌کند، هیچ جزئیاتی در مورد نحوه کار آنها، پیچیدگی زمانی یا موارد خاص ارائه نمی‌دهد. این پاسخ برای کاربرانی که به دنبال درک عمیق‌تری از مسئله و راه‌حل‌های آن هستند، کافی نیست.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به پرسش پاسخ داده‌اند و روش‌های مختلفی را برای یافتن دومین کوچک‌ترین عنصر در یک لیست از اعداد صحیح ارائه کرده‌اند. با این حال، پاسخ دستیار A جزئیات بیشتری را ارائه می‌دهد و توضیحاتی کامل‌تر در مورد هر روش دارد. این باعث می‌شود که درک و پیاده‌سازی روش‌ها برای کاربر آسان‌تر باشد. در مقابل، پاسخ دستیار B خلاصه‌تر است و از نظر توضیحات کمی ضعیف‌تر عمل می‌کند.\n\nبنابراین:\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct approaches to finding the second smallest element in a list of integers. However, Assistant A is significantly more detailed and helpful. It explains multiple algorithms (sorting, double iteration, single iteration, min-heap, selection algorithm) with their time complexities. It also points out an important edge case – handling duplicate elements – which is crucial for a robust solution. Assistant B provides a summary of methods but lacks the depth of explanation and the important consideration of duplicate values. The code example in A is also a plus.\n\nTherefore, Assistant A is much more informative and useful.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی جامع‌تر و دقیق‌تر از پاسخ دستیار B است. در حالی که هر دو پاسخ روش‌هایی را برای یافتن دومین کوچکترین عنصر ارائه می‌دهند، پاسخ A به جزئیات بیشتری در مورد الگوریتم‌ها (مانند درخت دودویی متوازن، Quick Select، Fibonacci Heap) و پیچیدگی زمانی آنها می‌پردازد. این سطح از جزئیات برای درک کامل مسئله و انتخاب روش مناسب بسیار مفید است. همچنین، پاسخ A به محدودیت‌های برخی روش‌ها (مانند مشکل اعداد تکراری در روش ساده) اشاره می‌کند.\n\nپاسخ دستیار B ساده‌تر است، اما فاقد عمق و دقت پاسخ A است. روش‌های ارائه شده در پاسخ B کلی هستند و توضیحات کافی در مورد نحوه پیاده‌سازی یا پیچیدگی زمانی آنها ارائه نمی‌شود.\n\nبه طور کلی، پاسخ A اطلاعات بسیار بیشتری را ارائه می‌دهد و برای یک کاربر که به دنبال درک عمیق‌تری از مسئله است، مفیدتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

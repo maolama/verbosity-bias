@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ می‌دهند و محاسبات دقیقی دارند. با این حال، پاسخ دستیار A فراتر از ارائه پاسخ ساده می‌رود و توضیحاتی اضافی در مورد کاربرد این محاسبات در نانوایی و مدیریت موجودی ارائه می‌دهد. این توضیحات، پاسخ را مفیدتر و آموزنده‌تر می‌کند. اگرچه این توضیحات برای حل مسئله ضروری نیستند، اما نشان‌دهنده درک عمیق‌تر دستیار A از زمینه مسئله است. پاسخ دستیار B مختصر و مفید است، اما فاقد این عمق و زمینه است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به سوال پاسخ داده‌اند و نتیجه‌ی نهایی (۴۰۰ گرم) را به درستی محاسبه کرده‌اند. با این حال، دستیار A در توضیح خود بسیار مفصل‌تر و گام به گام عمل کرده است. این رویکرد می‌تواند برای کاربرانی که نیاز به درک کامل فرآیند حل مسئله دارند، مفید باشد. دستیار B پاسخ مختصر و دقیقی ارائه داده که برای کاربرانی که فقط به نتیجه نیاز دارند، کافی است.\n\nبا توجه به اینکه سوال ساده است و نیازی به توضیح طولانی نیست، پاسخ دستیار B از نظر اختصار و کارایی کمی بهتر است. با این حال، تفاوت چندانی بین دو پاسخ وجود ندارد و هر دو قابل قبول هستند.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct answers to the question. However, Assistant A goes above and beyond by providing additional, though not strictly necessary, calculations and contextual information. It explains how many more cakes can be made with the remaining flour and the total number of cakes possible with the initial amount of flour. It also adds a paragraph discussing the practical applications of such calculations in baking and inventory management. While this extra information isn't *required* to answer the question, it demonstrates a more thorough understanding and a helpful, explanatory approach. Assistant B is concise and accurate, but lacks the added value of Assistant A's explanation.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ داده‌اند و محاسبات آن‌ها صحیح است. با این حال، پاسخ دستیار A در ارائه جزئیات بیشتر و در نظر گرفتن ملاحظات عملی (مانند اتلاف آرد در حین پخت) بهتر است. این نکته، پاسخ A را مفیدتر و واقع‌بینانه‌تر می‌کند. در حالی که پاسخ B مختصر و دقیق است، اما فاقد این سطح از عمق و درک موقعیت است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

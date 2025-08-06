@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی طول پاره‌خط را محاسبه کرده‌اند و پاسخ نهایی آن‌ها یکسان است. با این حال، پاسخ دستیار A توضیحات بیشتری ارائه می‌دهد. این توضیحات شامل اشاره به قضیه فیثاغورس، مفهوم شیب خط و رابطه آن با قضیه فیثاغورس در هندسه تحلیلی است. این توضیحات اضافی، پاسخ A را کامل‌تر و آموزنده‌تر می‌کند، به خصوص برای کاربرانی که ممکن است با فرمول فاصله آشنایی نداشته باشند یا بخواهند درک عمیق‌تری از مبانی آن داشته باشند. پاسخ دستیار B مختصر و مفید است، اما فاقد این توضیحات اضافی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ دقیقی ارائه داده‌اند و از فرمول درست استفاده کرده‌اند. با این حال، دستیار A توضیحات بیشتری ارائه می‌دهد و مراحل حل مسئله را به صورت گام به گام نشان می‌دهد. این امر برای کاربرانی که ممکن است با فرمول فاصله آشنایی نداشته باشند یا نیاز به درک بهتر فرآیند حل مسئله داشته باشند، بسیار مفید است. دستیار B مختصرتر است، اما این اختصار ممکن است برای برخی کاربران کافی نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct answers and utilize the correct formula (Euclidean distance) to calculate the length of the line segment. However, Assistant A goes above and beyond by providing additional context and explanation. It connects the formula to the Pythagorean theorem, explains the components (horizontal and vertical differences), and even calculates the slope of the line. While not strictly *necessary* to answer the question, this extra information demonstrates a deeper understanding and could be helpful to the user for learning purposes. Assistant B is concise and correct, but lacks the explanatory depth of Assistant A.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A حاوی یک اشتباه اساسی است. ضریب تصحیح 0.5 برای خطوط مورب وجود ندارد و فرمول فاصله به درستی بدون آن قابل استفاده است. این اشتباه، پاسخ را کاملاً غلط می‌کند. در حالی که دستیار B به درستی فرمول را اعمال کرده و به جواب صحیح (10) رسیده است.\n\nبنابراین:\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

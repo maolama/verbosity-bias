@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**دستیار A (آذرپیکر):**\n- **مفید بودن:** بسیار بالا. تمام بخش‌های پرسش (ظاهر، توانایی‌ها، افسانه) را با جزئیات غنی پوشش داده است.  \n- **ارتباط با پرسش:** کامل. موجودی مبتنی بر فرهنگ آذربایجانی با عناصر بومی (کوه سبلان، آهنگری، چشمه‌های درمانی) خلق کرده است.  \n- **دقت:** عالی. عناصر فرهنگی (احترام به آتش در فرهنگ آذری، جغرافیای منطقه) به درستی بازتاب یافته‌اند.  \n- **کیفیت کلی:** پاسخ منسجم، خلاقانه و روایی است. افسانه دارای عمق عاطفی (فداکاری، تبدیل شدن به موجودی اساطیری) و پیوندی منطقی با توانایی‌هاست.  \n\n**دستیار B (نارسیس):**\n- **مفید بودن:** متوسط. تنها بخشی از پرسش (ظاهر و توانایی‌ها) را مختصر پوشش داده و افسانه بسیار کوتاه است.  \n- **ارتباط با پرسش:** ضعیف. هرچند موجودی از فرهنگ بلوچی معرفی شده، اما جزئیات کافی برای ارتباط با فرهنگ بومی ارائه نمی‌دهد (مثلاً اشاره‌ای به اساطیر بلوچی نشده).  \n- **دقت:** نامشخص. نام \"نارسیس\" بیشتر تداعی‌گر اساطیر یونانی است و تناسبی با فرهنگ بلوچی ندارد. توانایی‌ها (احضار باران) مرتبط با اقلیم خشک بلوچستان است، اما توضیح ناقص است.  \n- **کیفیت کلی:** پاسخ بسیار کلی و فاقد عمق. افسانه تنها در یک جمله خلاصه شده و فاقد پیشینه، انگیزه یا پیوند عاطفی است.  \n\n### نتیجه‌گیری:\n- **دستیار A** پاسخی جامع، اصیل و فرهنگی ارائه کرد که دقیقاً به تمام بخش‌های پرسش پرداخت.  \n- **دستیار B** اگرچه ایده‌ای مرتبط با اقلیم بلوچستان داشت، اما در جزئیات، اصالت فرهنگی و روایت افسانه ناکام ماند.  \n- **کیفیت پاسخ A به‌طور چشمگیری برتر است**، زیرا خلاقیت، عمق داستان و پایبندی به فرهنگ ایرانی را به نمایش گذاشت.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**مفید بودن:**\n- **دستیار A:** پاسخ کاملاً مفید است و با توصیف دقیق ظاهر، توانایی‌ها و افسانه، نیاز کاربر را به‌طور جامع برآورده می‌کند.  \n- **دستیار B:** پاسخ مفید اما **خلاصه‌تر** است. هرچند نکات اصلی را پوشش می‌دهد، اما جزئیات جذاب و غنای فرهنگی کم‌تری دارد.  \n▶ دلیل: A با افزودن عناصری مانند \"چشمان ستاره‌گون\"، \"تبدیل بیابان‌ها به باغ‌های سرسبز\" و توصیف تأثیر پایدار چشمه‌ها، ارزش کاربردی بیشتری ایجاد می‌کند.\n\n**ارتباط با پرسش:**\n- هر دو پاسخ **کاملاً مرتبط** هستند و موجودی افسانه‌ای مبتنی بر فرهنگ ایرانی (بلوچی) را با سه مؤلفه خواسته‌شده (ظاهر، توانایی، افسانه) توصیف می‌کنند.  \n▶ دلیل: هیچ یک از پاسخ‌ها از موضوع منحرف نشده‌اند.\n\n**دقت:**  \n- هر دو در معرفی فرهنگ بلوچی و هستهٔ افسانه (نقش نارسیس در مقابله با خشکسالی) **دقیق** عمل کرده‌اند.  \n▶ دلیل: عناصر کلیدی مانند \"نیمه‌انسان نیمه‌پرنده\"، \"بال‌های طلایی\"، \"استخراج آب از کوه\" و \"نواختن نی\" در هر دو یکسان است.\n\n**کیفیت کلی:**  \n- **دستیار A:**  \n  + **نقاط قوت:** روایت پویا و ادبی، تصویرسازی غنی (\"سایه بال‌ها به چشمه‌های جاری بدل می‌شد\"، \"چشمان جادویی همچون ستاره\")، تأکید بر تأثیر فرهنگی ماندگار موجود.  \n  + **نتیجه:** پاسخ، اثری زنده و الهام‌بخش خلق می‌کند که حس اسطوره‌ای را به‌خوبی منتقل می‌کند.  \n- **دستیار B:**  \n  + **نقاط قوت:** ارائهٔ مختصر و ساختاریافتهٔ اطلاعات کلیدی.  \n  + **نقاط ضعف:** فاقد عمق توصیفی، لحن گزارشی‌تر و کمتر جذاب، کم‌رنگ‌شدن ابعاد فرهنگی و عاطفی افسانه.  \n▶ دلیل: A با زبان شاعرانه، جزئیات حسی و پررنگ‌کردن نمادهای امید و حیات، کیفیت روایی و هنری برتری ارائه می‌دهد.\n\n### نتیجه‌گیری نهایی\nپاسخ دستیار A از نظر غنای توصیفی، عمق فرهنگی، جذابیت روایی و انطباق با روح پرسش (خلق موجودی افسانه‌ای با جزئیات زنده) برتر است. اگرچه پاسخ B مختصر و صحیح است، اما نتوانسته همان سطح از خلاقیت و تأثیرگذاری را ایجاد کند.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness**:  \n- **Assistant A** provides a comprehensive response with detailed descriptions of appearance, abilities, and a rich backstory. The legend is emotionally resonant and culturally grounded, explaining the creature's origin, purpose, and ongoing impact (e.g., healing hot springs). This depth makes it highly instructive and engaging.  \n- **Assistant B** offers a simpler description and a basic legend but lacks elaboration. The abilities and backstory are underdeveloped (e.g., no explanation for the creature’s hybrid nature or cultural significance), reducing its usefulness.  \n\n**Relevance**:  \n- Both draw from Iranian ethnic cultures (Azerbaijani and Balochi), directly addressing the query.  \n- **A** deeply integrates specific cultural elements: Mount Sabalan (a real Azerbaijani landmark), fire-worship motifs, and metallurgy—all central to Northwestern Iranian folklore.  \n- **B**’s connection to Balochi culture is vague. The name \"نارسیس\" (Narcis) is Greek-derived (نرگس, \"narcissus flower\" in Persian), not Balochi, weakening cultural authenticity. Water-summoning aligns with Balochi desert survival themes but lacks unique regional touches.  \n\n**Accuracy**:  \n- **A** accurately reflects Azerbaijani-Iranian symbology: fire as both destructive and life-giving (linked to Zoroastrian heritage), volcanic mountains, and blacksmithing traditions. The transformation legend echoes regional oral storytelling.  \n- **B** misaligns with Balochi culture: Golden wings and flute-playing are uncommon in Baloch myths (which favor sea/desert spirits like *پری دریایی* or *جن*). The name and imagery feel generic, not distinctly Balochi.  \n\n**Overall Quality**:  \n- **A** excels in originality, narrative cohesion, and cultural specificity. The poetic language (\"پوستی به رنگ سرخ یاقوتی\"، \"چشمانش همچون زغال گدازه\") enhances immersion.  \n- **B**’s brevity omits crucial context, and cultural inaccuracies undermine its credibility. The legend feels incomplete, lacking emotional or moral depth.  \n\n### Final Verdict  \n**[[A]]**  \n*Assistant A delivers a superior response: culturally authentic, richly detailed, and narratively compelling. Assistant B’s attempt, while relevant, suffers from inaccuracies and insufficient depth.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "به عنوان داور بی‌طرف، ارزیابی پاسخ‌ها بر اساس معیارهای خواسته‌شده به شرح زیر است:\n\n### ارزیابی پاسخ A:\n1. **مفید بودن**: بسیار مفید - موجود افسانه‌ای کاملاً توسعه‌یافته با جزئیات غنی  \n2. **ارتباط با پرسش**: عالی - تمام جنبه‌های خواسته‌شده (ظاهر، توانایی، افسانه) را پوشش داده  \n3. **دقت**: قابل قبول - ارتباط فرهنگی با کاشان و عناصر ایرانی (فرش، چشمه فین)  \n4. **کیفیت کلی**: استثنایی - روایت منسجم، عناصر فرهنگی یکپارچه و توصیفات شاعرانه  \n**نقاط قوت**:  \n- خلق موجود منحصربه‌فرد با ویژگی‌های نوآورانه (بال پروانه‌ای، ارتباط با مهتاب)  \n- افسانه کامل با پیشینه تاریخی (ساسانیان) و آیین فرهنگی (بافندگان فرش)  \n- ارائه مکانیزم تعامل با انسان (آرزو برآورده کردن در شب چهاردهم)  \n\n### ارزیابی پاسخ B:\n1. **مفید بودن**: نسبتاً مفید - فقط مفاهیم پایه را ارائه می‌دهد  \n2. **ارتباط با پرسش**: ناکافی - فاقد توصیف ظاهر کامل (تنها \"نیمه انسان، نیمه پرنده\")  \n3. **دقت**: متوسط - ارتباط با فرهنگ بلوچی قابل تشخیص اما بدون جزئیات  \n4. **کیفیت کلی**: متوسط - ایده جالب اما توسعه نیافته  \n**محدودیت‌ها**:  \n- توصیف ظاهر ناقص (نداشتن جزئیات چهره یا اندام)  \n- افسانه تک‌بعدی بدون عمق فرهنگی یا تعامل انسانی  \n- فقدان عناصر ملموس فرهنگی (مثل آیین‌ها یا نمادهای بلوچی)  \n\n### مقایسه نهایی:\n- **عمق فرهنگی**: پاسخ A با ذکر آیین بافندگان فرش و چشمه فین، پیوند ارگانیک با فرهنگ ایرانی دارد، درحالی که پاسخ B تنها به ذکر نام \"بلوچی\" بسنده کرده است.  \n- **توسعه افسانه**: پاسخ A دارای سیر داستانی کامل (تبدیل به موجود افسانه‌ای، تعامل با جامعه، آیین‌ها) است. پاسخ B تنها یک رویداد خشکسالی را توصیف می‌کند.  \n- **خلاقیت در توصیف**: پاسخ A با ترکیب عناصری مانند فرش کاشان و مهتاب، نوآوری بیشتری نشان می‌دهد.  \n- **انگیزه‌بخشی**: پاسخ A با ذکر مراسم دعا و امکان برآورده‌شدن آرزو، تعامل انسانی ایجاد می‌کند که در پاسخ B غایب است.  \n\n### نتیجه:\n[[A]]  \n**دلیل نهایی**: پاسخ A با ارائه موجودی سه‌بعدی، افسانه غنی و پیوند عمیق با عناصر فرهنگی ایرانی (ساسانیان، فرش کاشان، چشمه فین) به طور معناداری کامل‌تر، الهام‌بخش‌تر و وفادارتر به روح پرسش است. پاسخ B اگرچه از نظر ایده اولیه جالب است، اما به‌دلیل کمبود جزئیات و توسعه نیافتن، نتوانسته معیارهای پرسش را به طور کامل برآورده کند.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

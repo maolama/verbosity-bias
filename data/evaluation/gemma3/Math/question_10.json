@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سؤال پاسخ داده‌اند و پاسخ نهایی آن‌ها (۹ تیله) صحیح است. با این حال، دستیار A پاسخ طولانی‌تری ارائه داده و توضیحاتی در مورد مفهوم کسر و روش‌های مختلف حل مسئله ارائه کرده است. در حالی که این توضیحات برای یادگیری مفید هستند، اما برای یک مسئله‌ی ساده‌ی ریاضی که صرفاً به دنبال پاسخ نهایی است، ممکن است بیش از حد باشد. دستیار B پاسخ مختصر و دقیقی ارائه کرده که مستقیماً به حل مسئله می‌پردازد.\n\nبا توجه به اینکه سؤال صرفاً به دنبال پاسخ نهایی بود و نه توضیح مفصل، پاسخ دستیار B از نظر اختصار و تمرکز بر حل مسئله، بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سوال پاسخ داده‌اند و پاسخ نهایی (۹ تیله) درست است. اما تفاوت در نحوه ارائه پاسخ وجود دارد.\n\nدستیار A از لحنی بسیار رسمی و طولانی استفاده کرده است. توضیح آن بیش از حد مفصل است و برای یک مسئله ساده ریاضی، نیازی به این همه توضیح جزئی نیست. در حالی که درست است، می‌تواند برای یک کاربر (به خصوص یک کودک) گیج کننده باشد.\n\nدستیار B پاسخ را به صورت مستقیم، مختصر و مفید ارائه داده است. توضیحات کافی را ارائه می‌دهد بدون اینکه در جزئیات غیرضروری غرق شود.\n\nبنابراین، دستیار B به دلیل ارائه پاسخی واضح‌تر و مختصرتر، عملکرد بهتری دارد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants correctly solve the problem and arrive at the correct answer of 9. However, Assistant A provides a more thorough explanation. It breaks down the problem, explains the underlying concepts (fractions, subtraction), and even offers an alternative solution method using multiplication of fractions. It also adds a sentence about the educational value of such problems. Assistant B is correct and concise, but lacks the explanatory depth of Assistant A. While conciseness is good, in this case, the extra explanation in A is helpful, especially given the question seems geared towards someone learning the concepts.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار B به طور قابل توجهی بهتر است. در حالی که هر دو پاسخ به درستی به پاسخ نهایی می‌رسند، دستیار B به طور مستقیم و مختصر به مسئله پاسخ می‌دهد. دستیار A در حالی که توضیح مفصلی ارائه می‌کند، با محاسبات غیرضروری (محاسبه‌ی سه چهارم) پیچیدگی غیرلازم ایجاد می‌کند و در نهایت به طور ضمنی اشاره به تبدیل کسر به اعشار می‌کند که برای حل این مسئله‌ی ساده ضروری نیست. پاسخ دستیار B واضح، مختصر و مستقیم است و برای مخاطب هدف (احتمالاً دانش‌آموز ابتدایی) مناسب‌تر است.\n\n[[B]]\n",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن**:\n- **دستیار A**: بسیار مفید است. سه روش اصلی (نمایش دودویی، عملیات بیتی، تقسیم مکرر) را با **توضیحات دقیق** و **مثال‌های عینی** (مثلاً عدد ۸) ارائه می‌کند. همچنین به نکات کاربردی مانند کارایی روش بیتی برای اعداد بزرگ و استفاده از لگاریتم اشاره کرده که ارزش آموزشی دارد.  \n- **دستیار B**: مفید اما **خلاصه‌تر**. روش‌های مشابه را بدون توضیح منطق پشت آنها یا مثال ارائه می‌دهد. برای کاربران آشنا با موضوع کافی است، اما برای یادگیری عمیق‌تر کمتر راهگشا است.  \n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به روش‌های تشخیص عدد توان دو می‌پردازند. هیچ انحرافی از موضوع اصلی وجود ندارد.  \n\n#### **دقت**:\n- هر دو پاسخ از **دقت فنی بالایی** برخوردارند. روش‌های ذکرشده (به‌ویژه `n & (n-1) == 0`) از نظر ریاضی و کامپیوتری صحیح هستند.  \n\n#### **کیفیت کلی**:\n- **دستیار A**:  \n  - **نقاط قوت**: ساختار منسجم، پوشش جامع روش‌ها، ارائهٔ مثال، توضیح **چرایی عملکرد روش‌ها** (مثلاً چرا `n & (n-1)` کار می‌کند)، و اشاره به بهینه‌سازی برای اعداد بزرگ.  \n  - **نقطه ضعف**: حجم پاسخ کمی طولانی‌تر است، اما این به جامعیت آن می‌افزاید.  \n- **دستیار B**:  \n  - **نقاط قوت**: مختصر و مستقیم، با ذکر روش‌های کلیدی.  \n  - **نقطه ضعف**: **فاقد عمق آموزشی** (عدم توضیح منطق روش‌ها، مثال، یا ملاحظات کارایی). برای کاربران مبتدی ممکن است گمراه‌کننده باشد (مثلاً عدم اشاره به شرط اعداد مثبت).  \n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به دلیل **جامعیت، توضیحات شفاف، و ارزش آموزشی بالاتر**، کیفیت بهتری دارد. اگرچه پاسخ دستیار B صحیح است، اما به‌دلیل خلاصه‌بودن و عدم ارائهٔ جزئیات ضروری (مانند چرایی عملکرد روش بیتی یا مثال)، برای اکثر کاربران کمتر مفید است.  \n\n**نتیجه نهایی**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### ۱. **مفید بودن (Helpfulness)**:\n- **دستیار A**: پاسخ بسیار مفید است. با ارائهٔ **مثال‌های عینی** (مانند اعداد ۱، ۲، ۴ و نمایش دودویی آن‌ها) و توضیح **سه روش مختلف** (نمایش دودویی، عملیات بیتی، تقسیم مکرر)، درک مطلب را برای کاربران با سطوح دانش مختلف آسان می‌کند.  \n- **دستیار B**: پاسخ مفید اما **کم‌جزئیات** است. اگرچه تمام روش‌های کلیدی را پوشش می‌دهد، اما عدم وجود مثال یا توضیح اضافی ممکن است برای کاربران مبتدی گمراه‌کننده باشد.  \n\n#### ۲. **ارتباط با پرسش (Relevance)**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به پرسش کاربر پاسخ می‌دهند. هیچکدام از مسیر اصلی منحرف نشده‌اند.  \n\n#### ۳. **دقت (Accuracy)**:\n- هر دو پاسخ از نظر فنی **دقیق** هستند:  \n  - ویژگی نمایش دودویی (تنها یک بیت ۱) صحیح است.  \n  - عملیات بیتی `(n & (n-1)) == 0` به‌درستی توضیح داده شده.  \n  - روش تقسیم مکرر بر ۲ نیز بدون خطاست.  \n\n#### ۴. **کیفیت کلی (Overall Quality)**:\n- **دستیار A**:  \n  - **ساختار منسجم** با توضیحات گام‌به‌گام و مثال‌های ملموس.  \n  - **پوشش کامل** تمام روش‌های رایج بدون افزودن اطلاعات غیرضروری.  \n  - **شفافیت بالا** در بیان منطق هر روش (مثلاً چرا `n & (n-1)` کار می‌کند).  \n- **دستیار B**:  \n  - پاسخ **مختصر و فشرده** است که برای کاربران آشنا با موضوع مناسب‌تر است.  \n  - با این حال، **کم‌بودن جزئیات** (مانند نداشتن مثال یا توجیه عملیات بیتی) ممکن است برای برخی کاربران ابهام ایجاد کند.  \n\n---\n\n### نتیجه‌گیری نهایی\n**دستیار A** پاسخ برتر است، زیرا با حفظ دقت، **مفیدتر و جامع‌تر** عمل کرده است. توضیحات روشن، مثال‌های کاربردی، و پوشش کامل راه‌حل‌ها بدون افزودن پیچیدگی غیرضروری، آن را برای طیف گسترده‌ای از کاربران (از مبتدی تا پیشرفته) مناسب می‌کند.  \nدر مقابل، پاسخ دستیار B اگرچه صحیح است، اما به دلیل خلاصه‌بودن، ارزش آموزشی کمتری دارد.  \n\n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Response\n\n**Helpfulness**: Assistant A's response is highly helpful. It thoroughly explains three distinct methods (binary representation, bitwise operation, and repeated division), provides concrete examples (e.g., 8 as 1000 in binary), and adds practical advice about efficiency for large numbers. The mention of logarithmic functions in programming languages further enhances utility.  \n**Relevance**: All content directly addresses the user’s question about identifying powers of two, with no extraneous information.  \n**Accuracy**: The methods are mathematically correct. The bitwise explanation (`n & (n-1) == 0`) is accurately justified, and edge cases (e.g., positive integers) are implicitly covered.  \n**Overall Quality**: Comprehensive, clear, and well-structured. It balances theory with practical implementation, making it accessible for diverse audiences.  \n\n### Evaluation of Assistant B's Response\n\n**Helpfulness**: Moderately helpful but lacks depth. It correctly lists three methods (binary, bitwise, division) but omits examples, explanations, and efficiency considerations.  \n**Relevance**: Relevant but overly concise. It addresses the core question but misses opportunities to enhance understanding.  \n**Accuracy**: The methods mentioned are accurate, but the lack of justification (e.g., why `n & (n-1)` works) could leave users uncertain.  \n**Overall Quality**: Functional but superficial. It answers the question minimally without context or scalability insights.  \n\n### Key Comparisons  \n- **Depth**: A explains the *why* and *how* (e.g., binary logic, bitwise mechanics); B only states methods.  \n- **Clarity**: A uses examples (e.g., 8 = 1000) and practical notes (e.g., efficiency for large numbers); B lacks these.  \n- **Completeness**: A covers programming-friendly approaches (logarithms); B does not.  \n- **User Experience**: A’s response is more educational and versatile.  \n\n### Final Verdict  \n[[A]] — Assistant A’s response is superior in all evaluated dimensions. It provides a richer, more actionable answer while maintaining precision and accessibility.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها:\n\n**۱. مفید بودن:**\n- **پاسخ A:** روش‌های متنوعی ارائه داده (لگاریتم، تقسیم متوالی، نمایش دودویی، مبنای ۳) که انعطاف خوبی دارد. اما روش مبنای ۳ عملی نیست و ممکن است کاربر را سردرگم کند.\n- **پاسخ B:** روی روش‌های عملی و بهینه تمرکز دارد (نمایش دودویی و عملیات بیتی `n & (n-1)`). این روش‌ها در برنامه‌نویسی کاربرد مستقیم دارند و برای کاربران مفیدترند.\n\n**۲. ارتباط با پرسش:**\n- هر دو پاسخ مستقیماً به سوال کاربر پاسخ داده‌اند و تمام روش‌های کلیدی را پوشش می‌دهند.\n\n**۳. دقت:**\n- هر دو پاسخ از نظر ریاضی و فنی دقیق هستند. اما پاسخ A در روش مبنای ۳ نیاز به توضیح بیشتری دارد (چرا مبنای ۳؟).\n\n**۴. کیفیت کلی:**\n- **پاسخ A:** جامع اما حاوی اطلاعات اضافی (روش مبنای ۳) که ارزش عملی کمی دارد و ممکن است باعث اتلاف وقت کاربر شود.\n- **پاسخ B:** مختصر، متمرکز بر روش‌های بهینه (به‌ویژه `n & (n-1)` که بهترین راه حل برنامه‌نویسی است)، و ساختار منسجم‌تری دارد.\n\n### نتیجه‌گیری:\nپاسخ **B** به‌دلیل تمرکز بر راه‌حل‌های **عملی و بهینه** (به‌ویژه تکنیک بیتی کارآمد)، **حذف اطلاعات غیرضروری** (مبنای ۳)، و ارائه‌ی **مختصر و کاربردی** برتری دارد. پاسخ A اگرچه جامع است، اما با افزودن روش غیرمتعارف مبنای ۳، تمرکز کاربر را منحرف می‌کند.\n\n**[[B]]**",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

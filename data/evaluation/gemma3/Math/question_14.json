@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به سوال پاسخ داده‌اند و پاسخ نهایی (۸۰ مایل بر ساعت) صحیح است. با این حال، دستیار A پاسخ کامل‌تری ارائه می‌دهد. دستیار A علاوه بر محاسبه سرعت، توضیح می‌دهد که سرعت متوسط چیست و چه تفاوتی با سرعت لحظه‌ای دارد. همچنین، اشاره می‌کند که سرعت متوسط لزوماً به معنای سرعت ثابت در طول مسیر نیست. این توضیحات اضافی، پاسخ دستیار A را مفیدتر و آموزنده‌تر می‌کند. دستیار B پاسخ مختصر و دقیقی ارائه می‌دهد، اما فاقد توضیحات تکمیلی است که درک عمیق‌تری از مفهوم سرعت متوسط را فراهم کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ داده‌اند و نتیجه‌ی ۸۰ مایل بر ساعت را ارائه کرده‌اند. با این حال، پاسخ دستیار A بسیار طولانی‌تر و بیش از حد توضیحی است. در حالی که هدف ارائه توضیحات واضح است، پاسخ A از کلمات و عبارات اضافی استفاده می‌کند که در نهایت ضروری نیستند. پاسخ دستیار B مختصر، واضح و مستقیم به اصل موضوع می‌پردازد. این پاسخ به طور موثر تمام اطلاعات لازم را بدون حاشیه‌پردازی ارائه می‌دهد.\n\nبنابراین:\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly calculate the average speed of the train. However, Assistant A provides a more comprehensive and helpful explanation. It breaks down the problem step-by-step, explicitly states the formula used (speed = distance/time), and clarifies the meaning of *average* speed versus instantaneous speed. It also acknowledges real-world factors that might affect the actual speed of the train. Assistant B is correct but very concise, lacking the explanatory depth of Assistant A. While conciseness can be good, in this case, the extra explanation in A makes it more useful, especially for someone who might be struggling with the concept.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی پاسخ را محاسبه کرده‌اند و نتیجه‌ی ۸۰ مایل بر ساعت را ارائه داده‌اند. اما دستیار A در ارائه پاسخ، توضیحات کامل‌تری ارائه کرده است. این توضیحات شامل نحوه‌ی محاسبه‌ی زمان سفر، تبدیل دقیقه به ساعت، و توضیح فرمول محاسبه‌ی سرعت بوده است. همچنین، دستیار A به محدودیت‌های محاسبه‌ی سرعت متوسط و تاثیر عوامل دیگر (مانند شتاب و توقف‌ها) اشاره کرده که نشان‌دهنده‌ی درک عمیق‌تری از مفهوم موضوع است. دستیار B پاسخ موجز و درستی ارائه کرده است، اما فاقد توضیحات اضافی و بررسی جوانب مختلف مسئله است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ درست هستند و به درستی مساحت مستطیل را محاسبه می‌کنند. با این حال، پاسخ دستیار A بسیار جامع‌تر است. این پاسخ علاوه بر محاسبه مساحت، توضیحاتی در مورد فرمول، مقایسه با مربع، و مثال‌های دیگر برای ابعاد مختلف با همان مساحت ارائه می‌دهد. همچنین به محاسبه محیط مستطیل نیز اشاره می‌کند و کاربردهای عملی آن را بیان می‌نماید. این موارد باعث می‌شود پاسخ دستیار A از نظر آموزشی و درک مطلب بسیار مفیدتر باشد. پاسخ دستیار B کوتاه و مستقیم است و فقط به محاسبه مساحت می‌پردازد که در حالی که درست است، فاقد عمق و جزئیات پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به سوال پاسخ داده‌اند و نتیجه‌ی نهایی (۵۰ سانتی‌متر مربع) را به درستی محاسبه کرده‌اند. با این حال، دستیار A در توضیح خود بسیار پرحرف و تکراری است. در حالی که دستیار B به طور مستقیم و مختصر به مسئله پرداخته و پاسخ را ارائه می‌دهد. دستیار A با وجود دقت، به دلیل طولانی بودن و تکرار مطالب، خواندن و درک آن را دشوارتر می‌کند.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly answer the question and arrive at the correct answer of 50 square centimeters. However, Assistant A provides significantly more context and elaboration. It not only solves the problem but also explains the formula used, offers comparisons to a square with the same side length, and discusses how the same area could be achieved with different dimensions. It even calculates the perimeter and explains practical applications of knowing both area and perimeter. Assistant B is concise and correct, but lacks the depth and educational value of Assistant A's response. While conciseness can be valuable, in this case, the extra information from A enhances understanding and demonstrates a more comprehensive grasp of the underlying concepts.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A در ابتدا پاسخ درستی ارائه می‌دهد (۵۰ سانتی‌متر مربع)، اما سپس وارد محاسبات اشتباه و پیچیده‌ای می‌شود که در نهایت به نتیجه‌ی نادرست ۴۰ سانتی‌متر مربع می‌رسد. این موضوع باعث سردرگمی و کاهش اعتبار پاسخ می‌شود. در حالی که تلاش برای ارائه یک راه حل جایگزین قابل تقدیر است، اشتباه محاسباتی آن را بی‌ارزش می‌کند.\n\nدستیار B به طور مستقیم و بدون حاشیه‌پردازی‌های غیرضروری، پاسخ صحیح (۵۰ سانتی‌متر مربع) را ارائه می‌دهد. این پاسخ مختصر، دقیق و کاملاً مرتبط با پرسش است.\n\nبه طور کلی، دستیار B به دلیل دقت، سادگی و ارتباط مستقیم با پرسش، عملکرد بهتری دارد. دستیار A با وجود شروع درست، به دلیل اشتباه محاسباتی و پیچیدگی غیرضروری، پاسخ ضعیف‌تری ارائه می‌دهد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

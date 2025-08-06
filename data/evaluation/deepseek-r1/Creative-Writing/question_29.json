@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**مفید بودن:**\n- **دستیار A:** پاسخ بسیار مفید و عملی است. نامه شامل تمام عناصر ضروری یک شکایت رسمی است: جزئیات مشکل، تاریخ‌ها، اثرات منفی (سلامت فرزند)، استناد به مواد قرارداد و قانون، تعیین مهلت، و ذکر پیامدهای عدم رسیدگی. این موارد به مستأجر ابزار حقوقی مؤثری می‌دهد.\n- **دستیار B:** تنها نیاز اولیه (اعلام مشکل و درخواست تعمیر) را پوشش می‌دهد. فاقد جزئیات حیاتی مانند استناد حقوقی، مهلت مشخص، یا توضیح پیامدهاست که اثربخشی نامه را کاهش می‌دهد.\n\n**ارتباط با پرسش:**\n- هر دو پاسخ به درخواست کاربر برای نوشتن **نامه شکایت رسمی** مرتبط هستند، اما **دستیار A** با ارائه ساختار جامع‌تر (شامل تمام بخش‌های استاندارد یک نامه حقوقی) ارتباط دقیق‌تری دارد.\n\n**دقت:**\n- **دستیار A:** از دقت بالایی برخوردار است:\n  - ذکر دقیق دمای واحد (زیر ۱۵°C).\n  - اشاره به ماده ۴ قرارداد و قانون روابط موجر و مستأجر.\n  - تعیین تاریخ مهلت برای اقدام.\n- **دستیار B:** کلی‌گویی دارد و فاقد اطلاعات دقیق (مانند تاریخ، دماسنجی، یا ارجاعات حقوقی) است.\n\n**کیفیت کلی:**\n- **دستیار A:** ساختار حرفه‌ای، لحن محترمانه اما قاطع، پشتیبانی از ادعاها با مستندات، و ترسیم پیامدهای قانونی. این نامه هم‌زمان **اقناعی** و **حقوقاً مستحکم** است.\n- **دستیار B:** اگرچه مختصر و مؤدبانه است، اما بیش از حد کلی و فاقد عناصر کلیدی یک شکایت مؤثر (مانند فشار حقوقی یا فوریت) است. بیشتر شبیه یک یادآوری است تا یک اخطار رسمی.\n\n---\n\n### نتیجه‌گیری\n**دلایل انتخاب:**\nپاسخ دستیار A با ارائه جزئیات دقیق، استناد به مستندات حقوقی، ذکر پیامدهای عملی (مشکل سلامت) و قانونی (پیگیری مراجع قضایی)، و تعیین مهلت مشخص، نه‌تنها درخواست کاربر را کامل اجرا کرده، بلکه **ابزاری قوی و عملی** در اختیار مستأجر قرار می‌دهد. پاسخ دستیار B با وجود رعایت ادب، فاقد عمق و اثرگذاری لازم برای یک نامه شکایت رسمی است.\n\n**[[A]]** // پاسخ دستیار A بهتر است.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار هوش مصنوعی\n\n**۱. مفید بودن (Helpfulness):**\n- **پاسخ A:** کاملاً مفید و کاربردی است. تمام عناصر ضروری یک نامه شکایت رسمی (شماره قرارداد، پیگیری‌های قبلی، تأکید بر فوریت مشکل، درخواست اقدام مشخص) را پوشش داده است.\n- **پاسخ B:** مفید اما مختصرتر. عناصر اصلی را دارد، ولی برخی جزئیات مؤثر (مانند تأکید بر شدت سرمای هوا یا پیامدهای عدم تعمیر) را حذف کرده است.  \n**برنده:** A (به دلیل جامع‌تر بودن).\n\n**۲. ارتباط با پرسش (Relevance):**\n- هر دو پاسخ **مستقیماً** به درخواست کاربر (نامه شکایت رسمی درباره سیستم گرمایشی) پرداخته‌اند.  \n- هیچ کدام از موضوع خارج نشده‌اند.  \n**برنده:** تساوی (C).\n\n**۳. دقت (Accuracy):**\n- **پاسخ A:** دقیق‌تر است. با ذکر \"تماس‌های متعدد\"، \"برودت هوا\"، و \"مشکلات متعدد ناشی از عدم کارکرد سیستم\"، علت فوریت را مستدل کرده است. اصطلاحات حقوقی مانند \"تعمیر اساسی یا تعویض کامل\" نیز دقیق‌اند.\n- **پاسخ B:** اگرچه صحیح است، اما به‌دلیل اختصار، برخی استدلال‌های کلیدی (مانند تأثیر سرمای شدید بر زندگی مستأجر) را تلخیص کرده است.  \n**برنده:** A (به دلیل استدلال قوی‌تر و جزئیات دقیق‌تر).\n\n**۴. کیفیت کلی (Overall Quality):**\n- **پاسخ A:** ساختار حرفه‌ای، لحن رسمی و محترمانه، و انسجام منطقی دارد. تأکید بر \"ملزومات اولیه سکونت\" و \"مشکلات فراوان برای ساکنین\" آن را متقاعدکننده‌تر کرده است.\n- **پاسخ B:** روان و بدون اشکال، اما ساده‌تر است. برای مخاطبانی که ترجیح می‌دهند مختصر بنویسند مناسب است، اما فاقد ظرافت‌های ادبی و تأکیدهای مؤثر پاسخ A است.  \n**برنده:** A (به دلیل بلاغت و تاثیرگذاری بالاتر در فضای رسمی).\n\n---\n\n### نتیجه‌گیری نهایی\nهر دو پاسخ صحیح و مرتبط هستند، اما **پاسخ A** به دلایل زیر برتر است:\n- ارائه جزئیات ضروری برای اثبات فوریت مشکل (مانند سرمای هوا و پیگیری‌های قبلی).\n- ساختار حرفه‌ای‌تر با رعایت استانداردهای نامه‌نگاری رسمی.\n- استفاده از عبارات متقاعدکننده‌تر برای ترغیب صاحبخانه به اقدام فوری.\n\n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant Responses\n\n**Helpfulness**:\n- **Assistant A**: Highly helpful. Provides a detailed, structured complaint letter with specific examples (temperature dropping below 15°C, child's respiratory issues), clear contractual/legal references (Article 4, landlord-tenant law), a firm deadline, and consequences for inaction. This empowers the tenant with actionable leverage.\n- **Assistant B**: Minimally helpful. Lacks critical details, urgency, legal basis, and consequences. The vague \"technical defect\" and absence of specific impacts or deadlines reduce its effectiveness in prompting resolution.  \n**Winner: A**\n\n**Relevance**:\n- **Assistant A**: Fully addresses all user requirements: heating malfunction, landlord's responsibility, health impact, legal context, and urgency. Includes placeholders for personalized details.\n- **Assistant B**: Only superficially mentions the heating issue and lack of action. Omits health risks, legal obligations, and escalation measures.  \n**Winner: A**\n\n**Accuracy**:\n- **Assistant A**: Correctly cites contractual obligations (Article 4) and Iranian landlord-tenant law regarding essential facilities. Technical details (boiler on but radiators cold) reinforce validity.\n- **Assistant B**: No inaccuracies but fails to include necessary legal/contractual context, weakening the complaint's legitimacy.  \n**Winner: A**\n\n**Overall Quality**:\n- **Assistant A**: Professionally structured, comprehensive, and persuasive. Uses formal Farsi appropriate for legal complaints. Balances factual severity with professionalism.\n- **Assistant B**: Overly simplified and generic. Reads like a reminder note, not a formal complaint. Lacks substance to resolve a serious issue.  \n**Winner: A**\n\n### Final Verdict\n[[A]]  \n*Assistant A's response is superior in every category: it provides actionable details, legal grounding, and persuasive urgency critical for resolving a heating crisis. Assistant B's vague template fails to protect the tenant's rights effectively.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**۱. مفید بودن (Helpfulness):**\n- **پاسخ A:** بسیار مفید است. راه‌حل‌های عملی (ماندد مهلت ۴۸ ساعته و کسر هزینه از اجاره)، استناد به قوانین مرتبط، و ذکر پیامدهای حقوقی به مستأجر ابزار لازم برای اقدام را می‌دهد.  \n- **پاسخ B:** مفید اما سطحی. درخواست تعمیر را مطرح می‌کند اما فاقد راهکارهای عملی یا پشتوانه حقوقی برای اثبات جدیت است.  \n\n**۲. ارتباط با پرسش (Relevance):**\n- **پاسخ A:** کاملاً مرتبط. تمام بخش‌های ضروری یک نامه شکایت رسمی (شرح مشکل، اقدامات قبلی، استناد حقوقی، درخواست مهلت، عواقب عدم اقدام) را پوشش می‌دهد.  \n- **پاسخ B:** مرتبط اما ناکامل. مشکل و درخواست تعمیر را بیان می‌کند، اما از جزئیات حقوقی و ساختار شکایت رسمی فاصله دارد.  \n\n**۳. دقت (Accuracy):**\n- **پاسخ A:** دقیق و مستند. استناد به مواد قانونی مشخص (ماده ۱۰ و ۵۳۳ قانون مدنی، بخشنامه وزارت راه) و ذکر استاندارد دمایی (۲۵ درجه)، اعتبار حقوقی ایجاد می‌کند.  \n- **پاسخ B:** کلی و فاقد دقت حقوقی. هیچ مرجع قانونی یا استاندارد فنی ذکر نشده است.  \n\n**۴. کیفیت کلی (Overall Quality):**\n- **پاسخ A:** حرفه‌ای و قانع‌کننده. ساختار منسجم، لحن رسمی اما قاطع، و ترکیب منطقی ابعاد فنی، حقوقی و انسانی (سلامت فرزند) آن را مؤثر می‌سازد.  \n- **پاسخ B:** ساده و مؤدبانه اما ضعیف. عدم اشاره به پیامدهای حقوقی یا مستندات، از اثربخشی آن می‌کاهد.  \n\n---\n\n### نتیجه‌گیری\n- **پاسخ A** با ارائه جزئیات حقوقی، ضرب‌الاجل مشخص، و ساختار حرفه‌ای، هم برای حل فوری مشکل مفید است و هم سند معتبری برای پیگیری قانونی محسوب می‌شود.  \n- **پاسخ B** اگرچه مختصر و مودبانه است، اما به‌دلیل کلی‌گویی و عدم پشتوانه حقوقی، در موقعیت بحرانی مانند خرابی سیستم گرمایشی در زمستان، کارایی کمتری دارد.  \n\n**نتیجه نهایی:**  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار هوش مصنوعی\n\n#### **مفید بودن (Helpfulness)**:\n- **دستیار A**: پاسخ بسیار مفید است. علاوه بر محاسبهٔ دقیق، نکات کاربردی برای تطبیق دستور پخت (مثل تفاوت مواد اصلی و ادویه‌ها، اهمیت استفاده از واحدهای وزنی در آشپزی حرفه‌ای، و تأثیر افزایش مواد بر زمان پخت) ارائه می‌دهد. این نکات به کاربر کمک می‌کند مفهوم را فراتر از این سؤال خاص درک کند.  \n- **دستیار B**: پاسخ مفید اما محدود است. تنها به محاسلهٔ عددی بسنده می‌کند و هیچ راهنمایی اضافی برای درک بهتر مفهوم یا کاربرد عملی ارائه نمی‌دهد.  \n\n#### **ارتباط با پرسش (Relevance)**:\n- هر دو پاسخ **به طور کامل مرتبط** هستند و مستقیماً به سؤال کاربر (\"برای ۶ نفر چقدر آرد لازم است؟\") پاسخ می‌دهند. هیچکدام از موضوع خارج نمی‌شوند.  \n\n#### **دقت (Accuracy)**:\n- هر دو پاسخ **دقیق** هستند. محاسبات تناسب (۲ × ۶ ÷ ۴ = ۳ پیمانه) در هر دو صحیح است و نتیجهٔ نهایی یکسان است.  \n\n#### **کیفیت کلی (Overall Quality)**:\n- **دستیار A**: ساختار منسجم، توضیحات آموزشی، و پوشش نکات جانبی مرتبط (مثل مثال شکر و تفاوت مواد) آن را به پاسخی **جامع** تبدیل می‌کند. این پاسخ نه تنها مسئله را حل می‌کند، بلکه مهارت حل مسئلهٔ مشابه را به کاربر می‌آموزد.  \n- **دستیار B**: پاسخ **کوتاه و صحیح** است اما فاقد عمق آموزشی است. برای کاربرانی که فقط جواب عددی می‌خواهند کافی است، اما فرصت آموزش مفاهیم wider را از دست می‌دهد.  \n\n### نتیجه‌گیری نهایی:\nپاسخ دستیار A به دلیل **مفیدتر و آموزشی‌تر بودن**، ارائهٔ مثال‌های تکمیلی، و پوشش نکات عملی مرتبط با آشپزی (مانند تفاوت در تنظیم ادویه‌ها و اهمیت دقت در اندازه‌گیری)، کیفیت بالاتری دارد. اگرچه هر دو پاسخ دقیق و مرتبط هستند، دستیار A ارزش افزودهٔ قابل توجهی ایجاد می‌کند.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n1. **مفید بودن**:  \n   - **پاسخ A**: بسیار مفید است. توضیح جامعی دربارهٔ *چرایی و چگونگی محاسبه* ارائه می‌دهد (اصل تناسب، نسبت‌ها، حفظ طعم غذا). این برای کاربرانی که می‌خواهند منطق پشت محاسبه را بفهمند، ارزش آموزشی دارد.  \n   - **پاسخ B**: صرفاً کاربردی است. محاسبه را درست انجام می‌دهد اما بدون توضیح مفهوم، بنابراین برای کسانی که پایه ریاضی ضعیفی دارند کم‌فایده است.  \n\n2. **ارتباط با پرسش**:  \n   - هر دو پاسخ کاملاً مرتبط هستند و مستقیماً به پرسش کاربر پاسخ می‌دهند.  \n\n3. **دقت**:  \n   - هر دو پاسخ از نظر محاسباتی **دقیق** هستند (نتیجه: ۳ پیمانه).  \n   - پاسخ A با توضیح \"حفظ نسبت مواد برای تغییر نکردن طعم\"، دقت مفهومی بیشتری دارد.  \n\n4. **کیفیت کلی**:  \n   - **پاسخ A**: ساختار منسجم، روان و کامل دارد. با ذکر مثال عددی (۱.۵ برابر شدن) و تأکید بر اهمیت تناسب، نیازهای کاربران مختلف (مبتدی تا پیشرفته) را پوشش می‌دهد.  \n   - **پاسخ B**: اگرچه کوتاه و صحیح است، اما فاقد عمق، آموزش یا جزئیات ضروری برای درک فرآیند است.  \n\n### نتیجه‌گیری  \n**پاسخ A** به دلایل زیر برتر است:  \n- **افزودن ارزش آموزشی** با تشریح منطق محاسبه و اهمیت تناسب در آشپزی.  \n- **پوشش نیازهای گسترده‌تر کاربران** (از جمله کسانی که به دنبال درک مفهوم هستند).  \n- **بیان جامع** بدون حاشیه‌پردازی غیرضروری.  \n\n**نتیجه نهایی**:  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Response  \n- **Helpfulness**: High. Provides a clear, step-by-step explanation of the proportional calculation and includes practical advice (e.g., noting that spices may not scale linearly and recommending weight measurements for accuracy). The sugar example reinforces understanding.  \n- **Relevance**: High. Directly answers the user’s question and expands contextually (e.g., caveats for recipe scaling) without deviating.  \n- **Accuracy**: High. Correctly calculates 3 cups of flour and acknowledges exceptions (e.g., spices), ensuring nuanced precision.  \n- **Overall Quality**: Excellent. Structured, educational, and addresses both the query and potential follow-up considerations.  \n\n### Evaluation of Assistant B's Response  \n- **Helpfulness**: Moderate. Correctly solves the core problem but lacks additional context or tips, making it less instructive for broader recipe-scaling scenarios.  \n- **Relevance**: High. Focuses solely on the calculation, which directly addresses the query.  \n- **Accuracy**: High. The calculation (2 × 6 ÷ 4 = 3 cups) is correct.  \n- **Overall Quality**: Good but minimalistic. Efficient for users seeking only the answer but misses opportunities for deeper guidance.  \n\n### Comparison Reasoning  \nAssistant A excels in **helpfulness** and **overall quality** by transforming a simple math problem into a practical cooking lesson. It anticipates user needs (e.g., scaling spices, measurement units) and enhances relevance through examples. Assistant B, while accurate and concise, offers no added value, making it less comprehensive. Both are relevant and accurate, but A’s educational approach better serves users likely to apply this knowledge to other recipes.  \n\n**Final Verdict**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار هوش مصنوعی\n\n#### ۱. **مفید بودن**:\n- **پاسخ A**: بسیار مفید است.  \n  توضیح گام‌به‌گامِ محاسبات، اشاره به اصل تناسب، و تأکید بر اهمیت حفظ نسبت مواد، به کاربر کمک می‌کند تا منطق پشت محاسبه را درک کرده و آن را به سایر مواد تعمیم دهد.\n- **پاسخ B**: کم‌مفید است.  \n  پاسخ تنها به ارائه فرمول و نتیجه نهایی بسنده کرده و هیچ توضیحی برای درک فرآیند یا کاربرد عملی آن ارائه نمی‌دهد.\n\n#### ۲. **ارتباط با پرسش**:\n- **پاسخ A**: کاملاً مرتبط و فراتر از سوال است.  \n  علاوه بر پاسخ مستقیم، به نکات جانبی مانند گرد کردن مقادیر در آشپزی و اهمیت حفظ تناسب در کل دستور پخت اشاره کرده که به بهبود فهم کاربر کمک می‌کند.\n- **پاسخ B**: مرتبط اما محدود.  \n  پاسخ مستقیماً به سوال جواب می‌دهد، اما فاقد هرگونه توضیح تکمیلی است.\n\n#### ۳. **دقت**:\n- **پاسخ A**: دقیق و بدون خطا.  \n  محاسبه صحیح (۰.۵ × ۶ = ۳.۵ پیمانه) و اشاره به امکان گرد کردن (بدون تحمیل آن به کاربر) نشان‌دهنده توجه به جزئیات است.\n- **پاسخ B**: **نادقیق**.  \n  نتیجه محاسبه (۲ × ۶ ÷ ۴ = ۳) از نظر ریاضی اشتباه است (جواب صحیح ۳.۵ است). این خطا می‌تواند کاربر را گمراه کند.\n\n#### ۴. **کیفیت کلی**:\n- **پاسخ A**: باکیفیت، ساختاریافته و آموزشی.  \n  لحن واضح، توضیح منطقی، و افزودن نکات کاربردی (مانند تأثیر تناسب بر طعم غذا)، آن را به پاسخی جامع تبدیل کرده است.\n- **پاسخ B**: ضعیف و شتاب‌زده.  \n  عدم توجیه محاسبات، خطای ریاضی، و نپرداختن به بافت سوال (مانند ملاحظات آشپزی)، کیفیت آن را کاهش می‌دهد.\n\n### نتیجه‌گیری:\nپاسخ **A** در تمام معیارها برتر است:  \n- مفیدتر و آموزشی‌تر است،  \n- با دقت بالا محاسبات را توضیح می‌دهد،  \n- و خطای محاسباتی پاسخ **B** کیفیت آن را زیر سوال می‌برد.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

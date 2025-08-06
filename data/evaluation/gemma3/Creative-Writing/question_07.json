@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو شعر نسبتاً خوبی با الهام از طبیعت ارائه داده‌اند. با این حال، دستیار A پاسخ کامل‌تری دارد. در حالی که هر دو پاسخ از تصاویر مشابهی استفاده می‌کنند (نقاش، رقصنده‌ها، کوه‌ها، رودها، پرندگان)، دستیار A با افزودن توصیفات اضافی (مثل \"برگ‌هایشان چون دستان ظریف هنرمندان در هوا تکان می‌خورد\" یا \"گل‌های رنگارنگ، چون ستارگانی بر پهنه زمین\") و یک نتیجه‌گیری فلسفی (درس‌هایی که از طبیعت می‌گیریم) شعر را غنی‌تر و عمیق‌تر کرده است. پاسخ دستیار B به نظر می‌رسد که نسخه‌ی کوتاه‌شده‌ی پاسخ A باشد و فاقد عمق و تفصیلی است که پاسخ A دارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به سوال کاربر پاسخ داده‌اند و شعر‌هایی با الهام از طبیعت ارائه کرده‌اند. با این حال، پاسخ دستیار A، با وجود طولانی‌تر بودن، به دلیل استفاده از تشبیهات و توصیفات غنی‌تر، حس طبیعت را بهتر منتقل می‌کند. استفاده از صفات و قیدهای توصیفی بیشتر، تصویر زنده‌تری از طبیعت در ذهن خواننده ایجاد می‌کند. پاسخ دستیار B مختصر و مفید است، اما کمی ساده و فاقد عمق و جزئیات پاسخ A است. در واقع، پاسخ B خلاصه‌ای از پاسخ A به نظر می‌رسد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide a poem in response to the user's request for a poem inspired by nature, written in Persian. However, Assistant A is significantly more detailed and evocative than Assistant B. Assistant A expands upon the initial imagery, adding descriptions of flowers and a reflective conclusion about life's lessons learned from nature. Assistant B essentially provides a truncated version of Assistant A's opening. While both are grammatically correct and relevant, Assistant A demonstrates a greater depth of creativity and fulfills the prompt more completely.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A تلاش می‌کند تا با تصاویر و استعاره‌های پیچیده‌تر، عمق بیشتری به شعر ببخشد. با این حال، بعضی از این استعاره‌ها (مانند \"برگ‌هایشان چون دستان خشک پیرمردان\") کمی نامناسب و ناراحت‌کننده به نظر می‌رسند و با حس کلی شعر هماهنگ نیستند. همچنین، نتیجه‌گیری شعر (در مورد ثبات زندگی و پیوند آن با فصل‌ها) کمی نامرتبط و تحمیلی به نظر می‌رسد.\n\nپاسخ دستیار B بسیار ساده‌تر و روان‌تر است. تصاویر آن واضح‌تر و مثبت‌تر هستند (\"رقصنده‌های سبز\"، \"استوار و بلند\"، \"آوازخوان شادی\"). شعر کوتاه و متمرکز است و حس زیبایی و شگفتی را به خوبی منتقل می‌کند.\n\nدر نهایت، با وجود تلاش دستیار A برای پیچیدگی، سادگی و روانی پاسخ دستیار B آن را به گزینه بهتری تبدیل می‌کند. شعر دستیار B به طور کلی دلنشین‌تر و مرتبط‌تر با موضوع طبیعت است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

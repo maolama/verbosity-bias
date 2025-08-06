@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی پاسخ را محاسبه کرده‌اند. با این حال، دستیار A توضیحات بیشتری ارائه می‌دهد و یک نکته اضافی در مورد سرعت متوسط را نیز اضافه کرده است که می‌تواند برای کاربر مفید باشد. این توضیحات اضافی، درک مسئله را عمیق‌تر می‌کند. در حالی که دستیار B پاسخ را به طور مستقیم و مختصر ارائه می‌دهد، دستیار A با ارائه جزئیات بیشتر، ارزش افزوده‌ای ایجاد کرده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار پاسخ دقیقی به سوال داده‌اند و نتیجه‌ی درست (۱۷۰ مایل) را محاسبه کرده‌اند. با این حال، پاسخ دستیار A به مراتب کامل‌تر و واضح‌تر است. دستیار A با تشریح گام به گام فرآیند حل مسئله و توضیح مفهوم ضرب سرعت در زمان برای محاسبه مسافت، به درک بهتر پاسخ کمک می‌کند. در حالی که پاسخ دستیار B مختصر و مفید است، فاقد توضیحات و توضیحات تکمیلی است که برای کاربرانی که ممکن است در درک مفهوم مسافت، سرعت و زمان مشکل داشته باشند، ارزشمند است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants correctly calculate the total distance traveled by Tom. However, Assistant A provides a more comprehensive explanation, including the concept of average speed and a comparison to a hypothetical constant speed scenario. This additional information enhances understanding and demonstrates a deeper grasp of the underlying principles, even though it wasn't specifically requested. Assistant B is concise and directly answers the question, which is perfectly acceptable, but lacks the explanatory depth of Assistant A. While both are accurate, A is more *helpful* due to the extra context.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به سوال پاسخ داده‌اند و مسافت کل طی شده توسط تام را به درستی محاسبه کرده‌اند. با این حال، پاسخ دستیار A محاسبات اضافی و غیرضروری برای یافتن سرعت متوسط کل سفر را نیز انجام داده است، در حالی که سوال صرفاً در مورد کل مسافت طی شده بود. این باعث می‌شود پاسخ A طولانی‌تر و کمی گیج‌کننده‌تر باشد. پاسخ دستیار B مختصر، مستقیم و دقیقاً به سوال پاسخ می‌دهد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A یک ایمیل بسیار کامل و حرفه‌ای ارائه داده است. این پاسخ نه تنها درخواست بازخورد را مطرح می‌کند، بلکه به طور خاص حوزه‌هایی را که نیاز به بازخورد دارد (تحلیل داده‌ها، سبک ارائه، وضوح نتیجه‌گیری‌ها) مشخص کرده و سوالات دقیقی در هر یک از این حوزه‌ها طرح می‌کند. این کار به سرپرست کمک می‌کند تا بازخورد دقیق‌تری ارائه دهد. لحن ایمیل رسمی، محترمانه و در عین حال سازنده است.\n\nدستیار B یک ایمیل بسیار مختصر و کلی ارائه داده است. در حالی که درخواست بازخورد را مطرح می‌کند، فاقد جزئیات و سوالات خاصی است که به سرپرست در ارائه بازخورد مفید کمک کند. لحن ایمیل مناسب است، اما به اندازه پاسخ A جامع نیست.\n\nبه طور خلاصه، پاسخ A بسیار مفیدتر و حرفه‌ای‌تر است زیرا به طور خاص زمینه‌های بازخورد را مشخص می‌کند و سوالات دقیقی را مطرح می‌کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\n**ارزیابی:**\n\nپاسخ دستیار A و B هر دو به درخواست کاربر پاسخ می‌دهند و ایمیل حرفه‌ای درخواست بازخورد را ارائه می‌کنند. با این حال، تفاوت‌های قابل توجهی در سبک و لحن وجود دارد.\n\nدستیار A در نگارش ایمیل بسیار رسمی و پرطول و تفصیل است. استفاده از عباراتی مانند \"باسلام و احترام فراوان\"، \"امیدوارم هنگام دریافت این نامه الکترونیکی، در بهترین شرایط سلامتی و موفقیت به سر ببرید\" و جملات طولانی و پیچیده، لحن ایمیل را بیش از حد رسمی و غیرضروری طولانی می‌کند. این نوع نگارش ممکن است در برخی فرهنگ‌های سازمانی مناسب باشد، اما در بسیاری از موارد، ساده‌تر و مستقیم‌تر بودن ترجیح داده می‌شود.\n\nدستیار B با لحنی حرفه‌ای‌تر و مختصرتر به سوال پاسخ می‌دهد. عبارات استفاده شده مناسب و مستقیم هستند و از زیاده‌گویی پرهیز شده است. این سبک نگارش برای یک ایمیل درخواست بازخورد، بسیار مناسب‌تر است.\n\nاز نظر دقت و ارتباط با پرسش، هر دو پاسخ مناسب هستند و به طور خاص به حوزه‌هایی که کاربر درخواست بازخورد کرده است (تحلیل داده‌ها، سبک ارائه و وضوح نتیجه‌گیری‌ها) اشاره می‌کنند.\n\n**نتیجه:**\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nAssistant A provides a much more detailed and helpful response. It structures the request for feedback into specific areas (data analysis, presentation style, and conclusions) with pointed questions within each. This makes it incredibly easy for the supervisor to provide targeted and useful feedback. The tone is professional and respectful, and the email demonstrates thoughtfulness and a desire for improvement.\n\nAssistant B, while polite, is very brief and lacks the specificity of Assistant A. It simply asks for feedback on those three areas without prompting the supervisor with concrete questions. This places a greater burden on the supervisor to formulate their feedback and may result in less detailed or helpful responses. It's a functional email, but not a *good* one in terms of maximizing the quality of feedback received.\n\nTherefore, Assistant A is significantly better because it's proactive in eliciting specific, actionable feedback.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو به پرسش کاربر پاسخ داده‌اند، اما با سطوح مختلف کیفیت.\n\nدستیار A یک ایمیل بسیار کامل و حرفه‌ای نوشته است. ایمیل ساختار مناسبی دارد (موضوع، سلام، مقدمه، درخواست مشخص، تشکر، امضا). جزئیات کافی در مورد گزارش و روش‌های استفاده شده ارائه شده است و به طور خاص سوالات مورد نظر کاربر را در قالب شماره‌گذاری مطرح می‌کند. درخواست برای بازخورد، با اشاره به ضرب‌الاجل گزارش و پیشنهاد جلسه، بسیار منطقی و حرفه‌ای است. لحن ایمیل نیز محترمانه و مناسب است.\n\nدستیار B یک ایمیل بسیار کوتاه و کلی نوشته است. در حالی که مودبانه است، فاقد جزئیات و عمق ایمیل A است. سوالات به طور کلی مطرح شده‌اند و هیچ اطلاعاتی در مورد محتوای گزارش یا ضرب‌الاجل ارائه نشده است. این ایمیل به اندازه کافی مشخص نیست تا سرپرست را راهنمایی کند که دقیقاً به چه مواردی باید توجه کند.\n\nبه طور خلاصه، پاسخ دستیار A بسیار مفیدتر، مرتبط‌تر و دقیق‌تر است. کیفیت کلی آن به مراتب بالاتر از پاسخ دستیار B است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }
