@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی روش شبیه‌سازی صف با استفاده از دو پشته را توضیح می‌دهند. با این حال، پاسخ دستیار A بسیار کامل‌تر و آموزنده‌تر است. این پاسخ شامل یک توضیح دقیق از الگوریتم، به همراه یک مثال گام به گام است که به درک بهتر مفهوم کمک می‌کند. ذکر پیچیدگی زمانی amortized O(1) نیز ارزشمند است. پاسخ دستیار B مختصر و درست است، اما فاقد جزئیات و وضوح مثال ارائه شده در پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی روش شبیه‌سازی صف با استفاده از دو پشته را توضیح می‌دهند. هر دو به درستی اشاره می‌کنند که یک پشته برای enqueue و دیگری برای dequeue استفاده می‌شود و انتقال عناصر بین پشته‌ها ترتیب را معکوس می‌کند. هر دو همچنین به درستی پیچیدگی زمانی amortized را O(1) ذکر می‌کنند.\n\nبا این حال، پاسخ دستیار A کمی مفصل‌تر و واضح‌تر است. عبارت \"هوشمندانه\" و توضیح بیشتر در مورد اینکه انتقال عناصر ترتیب را معکوس می‌کند، به درک بهتر کمک می‌کند. همچنین، استفاده از اصطلاح \"پیچیدگی زمانی تجمعی یا amortized\" در پاسخ A، نشان‌دهنده درک عمیق‌تری از مفهوم است. پاسخ B مختصرتر است، اما این اختصار باعث می‌شود کمی از وضوح و جزئیات پاسخ A کاسته شود.\n\nبنابراین، پاسخ دستیار A کمی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and relevant answers to the question of how to simulate a queue using stacks. However, Assistant A is significantly more detailed and helpful. It includes:\n\n*   **Clear Explanation:** A step-by-step explanation of the `enqueue` and `dequeue` operations.\n*   **Example:** A concrete example with numbers demonstrating the process, making it easier to understand.\n*   **Complexity Analysis:** Mentions the amortized time complexity of O(1).\n\nAssistant B provides a correct high-level overview, but lacks the detailed explanation and illustrative example that makes Assistant A superior. While both mention the amortized time complexity, A's overall presentation is much more educational and user-friendly.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A جامع‌تر و دقیق‌تر است. در حالی که هر دو دستیار به درستی مفهوم استفاده از دو پشته برای شبیه‌سازی صف را توضیح می‌دهند، دستیار A جزئیات بیشتری در مورد نحوه انجام عملیات enqueue و dequeue ارائه می‌دهد و به طور واضح مراحل انتقال عناصر بین پشته‌ها را شرح می‌دهد. همچنین، دستیار A به بهینه‌سازی‌های احتمالی (استفاده از پشته سوم) اشاره می‌کند که نشان‌دهنده درک عمیق‌تری از موضوع است.\n\nپاسخ دستیار B مختصر است و به پیچیدگی زمانی amortized اشاره می‌کند که ممکن است برای کاربرانی که با این مفهوم آشنا نیستند، گیج‌کننده باشد. در حالی که پاسخ B صحیح است، فاقد جزئیات و توضیحات لازم برای درک کامل فرآیند شبیه‌سازی است.\n\nبنابراین، پاسخ دستیار A به دلیل جامعیت، دقت و ارائه توضیحات واضح‌تر، برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

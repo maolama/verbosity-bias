@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A جامع‌تر و دقیق‌تر است. در حالی که هر دو پاسخ به درستی الگوریتم محاسبه میانگین را توضیح می‌دهند، پاسخ A جزئیات بیشتری را ارائه می‌دهد. این جزئیات شامل پیچیدگی زمانی الگوریتم (O(n))، اشاره به توابع آماده در زبان‌های برنامه‌نویسی (پایتون)، و مهم‌تر از همه، هشدار در مورد نوع داده‌ها و مدیریت لیست‌های خالی است. این موارد نشان‌دهنده درک عمیق‌تر از موضوع و توجه به جزئیات عملیاتی است. پاسخ B بسیار ساده و مختصر است و فاقد این جزئیات مهم است. مثال ارائه شده در پاسخ B نیز مفید است، اما به تنهایی کافی نیست تا پاسخ را در سطح پاسخ A قرار دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ‌های درستی ارائه داده‌اند و الگوریتم محاسبه میانگین را به درستی توضیح داده‌اند. با این حال، پاسخ دستیار A کمی مفصل‌تر و با توضیحات بیشتر است. این توضیحات اضافی، اگرچه ضروری نیستند، اما می‌توانند برای کاربرانی که با مفهوم میانگین آشنایی کمتری دارند، مفید باشند. دستیار A همچنین به اهمیت میانگین به عنوان یک معیار آماری اشاره کرده است که می‌تواند در تحلیل‌های آماری کاربرد داشته باشد. در مقابل، پاسخ دستیار B مختصر و مستقیم است و فقط به توضیح الگوریتم می‌پردازد.\n\nبا توجه به اینکه دستیار A توضیحات بیشتری ارائه می‌دهد و به جنبه‌های کاربردی میانگین نیز اشاره می‌کند، پاسخ آن کمی مفیدتر به نظر می‌رسد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct algorithms for calculating the average of a list of numbers. However, Assistant A is significantly more comprehensive and helpful. It discusses time complexity, potential issues with data types (integer division), and handling edge cases like empty lists. It also mentions readily available functions in Python, which adds practical value. Assistant B, while correct, is very basic and lacks any nuance or consideration for potential problems. It simply states the formula and provides a single example.\n\nTherefore, Assistant A provides a much more robust and useful response.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار B به طور مستقیم و دقیق به پرسش پاسخ می‌دهد. الگوریتم محاسبه میانگین را به ساده‌ترین شکل ممکن توضیح می‌دهد و با یک مثال آن را روشن می‌کند. این پاسخ برای کاربرانی که به دنبال یک توضیح ساده و قابل فهم هستند، بسیار مفید است.\n\nپاسخ دستیار A در حالی که اطلاعات بیشتری ارائه می‌دهد، از نظر ارتباط با پرسش اصلی کمی منحرف می‌شود. پیشنهاد مرتب‌سازی لیست و استفاده از میانگین پیراسته، در حالی که مفاهیم مفیدی هستند، برای یک پرسش ساده در مورد محاسبه میانگین ضروری نیستند و پیچیدگی غیرضروری به پاسخ اضافه می‌کنند. همچنین، اشاره به پیچیدگی زمانی الگوریتم مرتب‌سازی (O(n log n)) برای کاربرانی که با این مفاهیم آشنا نیستند، ممکن است گیج‌کننده باشد.\n\nدر مجموع، پاسخ دستیار B به دلیل سادگی، دقت و ارتباط مستقیم با پرسش، برتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

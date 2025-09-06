@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است.\n\n**دلایل:**\n\n*   **جزئیات و وضوح:** دستیار A سه روش مختلف را برای معکوس کردن لیست توضیح می‌دهد (ساخت لیست جدید، جابجایی درجا، و بازگشت). هر روش به طور مختصر توضیح داده شده و مزایا و معایب آن ذکر شده است.\n*   **کد نمونه:** دستیار A یک قطعه کد پایتون برای الگوریتم جابجایی درجا ارائه می‌دهد که درک فرایند را بسیار آسان‌تر می‌کند.\n*   **کامل بودن:** پاسخ دستیار A کامل‌تر است و به طور جامع‌تر به پرسش پاسخ می‌دهد.\n*   **کیفیت کلی:** پاسخ دستیار A از نظر ساختار و ارائه اطلاعات، کیفیت بالاتری دارد.\n\nپاسخ دستیار B در حالی که درست است، بسیار مختصر و فاقد جزئیات و مثال‌های عملی است. این پاسخ فقط دو روش را به طور کلی توضیح می‌دهد و هیچ کدی ارائه نمی‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ‌های درستی ارائه داده‌اند و هر دو روش اصلی (ایجاد لیست جدید و جابجایی درجا) را توضیح داده‌اند. با این حال، پاسخ دستیار A جزئیات بیشتری را در مورد هر دو روش ارائه می‌دهد. به طور خاص، توضیح الگوریتم جابجایی درجا در پاسخ A کامل‌تر و واضح‌تر است و به خوبی نحوه حرکت شاخص‌ها را شرح می‌دهد. پاسخ B مختصرتر است، اما این اختصار باعث می‌شود که جزئیات مهمی از نحوه کار الگوریتم جابجایی درجا از دست برود.\n\nبنابراین، پاسخ دستیار A از نظر مفید بودن و کیفیت کلی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a much more comprehensive and helpful response than Assistant B. Here's a breakdown:\n\n* **Helpfulness:** A details *three* different methods for reversing a list: creating a new list, in-place swapping, and recursion. It explains each method clearly. B only mentions two, and does so very briefly.\n* **Relevance:** Both answers are relevant to the question, but A goes further by providing a Python code example for the in-place swapping method, making it immediately usable.\n* **Accuracy:** Both are accurate in their descriptions of the algorithms.\n* **Overall Quality:** A's response is significantly more detailed, well-structured, and practical. It also discusses the trade-offs between the different methods (efficiency, memory usage). B's response is too concise and lacks the depth needed to truly explain the process. A's inclusion of code is a major advantage.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "]\n\nپاسخ دستیار A بسیار کامل‌تر و دقیق‌تر از دستیار B است. در حالی که هر دو دستیار به درستی روش‌های اصلی را شناسایی می‌کنند (ایجاد لیست جدید و جابجایی درجا)، دستیار A جزئیات بیشتری را ارائه می‌دهد. به طور خاص، توضیح الگوریتم جابجایی درجا در A بسیار واضح‌تر است، شامل تعریف شاخص‌ها (i و j) و نحوه تغییر آن‌ها در هر تکرار است. همچنین، دستیار A روش استفاده از پشته را نیز به عنوان گزینه سوم معرفی می‌کند که نشان‌دهنده درک عمیق‌تری از ساختارهای داده و الگوریتم‌ها است. اشاره به پیچیدگی زمانی الگوریتم‌ها نیز ارزش افزوده‌ای است که در پاسخ B وجود ندارد. پاسخ B مختصر است اما فاقد عمق و جزئیات لازم برای یک توضیح کامل است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

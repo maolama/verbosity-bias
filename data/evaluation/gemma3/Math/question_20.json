@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به مسئله پاسخ داده‌اند و پاسخ نهایی (۹ ساعت) صحیح است. با این حال، دستیار A توضیحات کامل‌تری ارائه داده و مفهوم \"نفر-ساعت\" را توضیح داده است. این توضیحات به درک بهتر مسئله و روش حل آن کمک می‌کند. دستیار B پاسخ را به صورت مختصر و مفید ارائه داده، اما فاقد توضیحات تکمیلی است که می‌تواند برای کاربرانی که با این نوع مسائل آشنایی ندارند، مفید باشد.\n\nبنابراین، با توجه به کامل بودن توضیحات و ارائه مفهوم کلیدی \"نفر-ساعت\"، پاسخ دستیار A کمی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به مسئله پاسخ داده‌اند و پاسخ نهایی (۹ ساعت) صحیح است. هر دو از مفهوم رابطه معکوس بین تعداد کارگران و زمان به درستی استفاده کرده‌اند و محاسباتشان دقیق است.\n\nبا این حال، پاسخ دستیار A کمی بهتر است. دلیل آن، توضیح بیشتر و ارائه استدلال منطقی در مورد کاهش زمان با افزایش کارگران است. این توضیح، درک مسئله و راه حل را برای کاربر آسان‌تر می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد این توضیح اضافی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct answers and utilize the correct approach of calculating total work (man-hours) and then dividing by the new number of workers. However, Assistant A is significantly more thorough in its explanation. It clearly defines the concept of \"man-hours\" (نفر-ساعت), explains the inverse relationship between workers and time, and provides context about the application of this principle. Assistant B is concise, which isn't necessarily bad, but it lacks the explanatory depth of Assistant A. For someone unfamiliar with this type of problem, Assistant A's response would be much more helpful in understanding *why* the answer is 9 hours.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به مسئله پاسخ داده‌اند و پاسخ نهایی صحیح (۹ ساعت) را ارائه کرده‌اند. با این حال، دستیار B در ارائه پاسخ بسیار موجزتر و مستقیم‌تر عمل کرده است. دستیار A، اگرچه توضیحات بیشتری ارائه داده، اما محاسبات اضافی (نسبت افزایش سرعت و گرد کردن) غیرضروری و تا حدی گمراه‌کننده هستند. در واقع، مسئله یک رابطه معکوس ساده بین تعداد کارگران و زمان است و نیازی به پیچیدگی‌های محاسباتی اضافی نیست.\n\nبنابراین:\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

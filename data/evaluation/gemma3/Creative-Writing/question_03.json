@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است. دلیل این برتری در چند نکته کلیدی است:\n\n* **استدلال‌های قوی‌تر و متقاعدکننده‌تر:** دستیار A از استدلال‌های روانشناختی (مواجهه تدریجی با ترس‌ها) و تاکید بر ارزش تخصصی دوستش استفاده می‌کند که بسیار موثرتر از اشاره کلی به \"رشد شخصی\" و \"خوب بودن برای رزومه\" در پاسخ B است.\n* **توجه به نگرانی‌های مخاطب:** دستیار A به طور مستقیم به این نکته اشاره می‌کند که دوستش درونگراست و از سخنرانی در جمع خوشش نمی‌آید، و سپس به این نگرانی‌ها پاسخ می‌دهد (محیط صمیمی، کمک در تمرین، پرسش و پاسخ). این نشان‌دهنده درک عمیق‌تری از نیازهای مخاطب است.\n* **پیشنهاد کمک عملی:** دستیار A به طور مشخص پیشنهاد کمک در تمرین و مدیریت استرس را می‌دهد، که نشان‌دهنده تعهد واقعی به کمک به دوستش است.\n* **لحن صمیمانه و همدلانه:** لحن پاسخ A صمیمانه‌تر و همدلانه‌تر است و به خوبی با شخصیت فرد درونگرا سازگار است.\n\nپاسخ دستیار B بسیار کوتاه و کلی است. در حالی که موضوع را مطرح می‌کند و به نگرانی‌های دوستش اشاره می‌کند، اما فاقد عمق و جزئیات لازم برای متقاعد کردن اوست.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n[.]\nهمانلود در مورد انتظار داشته و در مقابل\nآل آن را می‌توانم. در یک رو به این استند\n\n[پایان پاسخ دستیار B]\nسلام [اسم دوست]،\n\nامیدوارم حالت خوب باشه.\n\nازد وای درو‌ است که یکم که یکاد درای درای که وای",
                 "extracted_answer": null
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a significantly more compelling and well-structured persuasive email than Assistant B. Here's a breakdown:\n\n* **Helpfulness & Relevance:** Both responses address the user's request to write a persuasive email. However, A goes much further in anticipating and addressing the friend's likely objections (fear of public speaking, preference for privacy). It offers concrete solutions – collaborative practice, stress management techniques, a Q&A format – making it far more helpful. B is very brief and offers only vague support (\"I'll be there for you\").\n* **Accuracy:** Both are accurate in that they propose a reasonable approach to persuasion. A subtly incorporates a psychological principle (gradual exposure therapy) which adds weight to its argument.\n* **Overall Quality:** A's tone is empathetic and understanding, acknowledging the friend's introversion. It frames the opportunity not as a demand, but as a potential \"turning point\" and emphasizes the value of the friend's expertise. The language is more sophisticated and persuasive. B feels rushed and lacks depth. It relies on generic statements (\"good for your resume\") rather than focusing on the friend's personal growth and the value they bring. A's email feels like a genuine attempt to encourage a friend, while B feels like a quick draft.\n\nIn short, Assistant A demonstrates a much better understanding of persuasive writing and the nuances of dealing with an introverted friend.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به شدت مشکل‌ساز است و به طور کامل فاقد درک از درونگرایی و رویکردی همدلانه است. استفاده از عبارت \"نقص شخصیتی\" برای توصیف درونگرایی، توهین‌آمیز و نادرست است. توصیه به \"تصور کردن جمعیت در لباس زیر\" کاملاً غیرحرفه‌ای و نامناسب است. همچنین، اصرار بر اینکه سخنرانی باید ۶۰ دقیقه باشد و سخنرانی‌های خودجوش بهتر هستند، به نیازهای یک فرد درونگرا توجهی ندارد. در نهایت، ادعای تغییر شخصیت از درونگرا به برونگرا و ارتباط آن با موفقیت، یک کلیشه خطرناک است.\n\nپاسخ دستیار B بسیار بهتر است. این پاسخ با درک و احترام به احساسات دوست درونگرا، پیشنهاد را ارائه می‌دهد. بر روی مزایای بالقوه (اشتراک تخصص، مخاطب دوستانه، کمک در آماده‌سازی و رشد شخصی) تمرکز می‌کند و راهکارهایی عملی (آماده‌سازی، اسلایدها، همراهی) ارائه می‌دهد. لحن پاسخ B دلسوزانه و تشویق‌کننده است.\n\nبه طور خلاصه، پاسخ A بسیار مضر و غیرقابل قبول است، در حالی که پاسخ B یک تلاش همدلانه و سازنده برای متقاعد کردن دوست درونگرا است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

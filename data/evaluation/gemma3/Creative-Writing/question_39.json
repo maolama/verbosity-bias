@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A بسیار کامل‌تر و جذاب‌تر است. در حالی که هر دو پاسخ اطلاعات اصلی رویداد را به درستی ارائه می‌دهند، پاسخ A جزئیات بیشتری را شامل می‌شود که می‌تواند مخاطب را بیشتر به شرکت در رویداد ترغیب کند. این جزئیات شامل:\n\n*   **توضیحات دقیق‌تر رویداد:** اشاره به کارگاه‌های آموزشی، نمایشگاه آثار هنری کودکان و قرعه‌کشی سفر به مشهد، جذابیت رویداد را افزایش می‌دهد.\n*   **جذب حامیان مالی:** اشاره به مزایای تبلیغاتی و معافیت‌های مالیاتی برای سازمان‌ها و شرکت‌ها، می‌تواند به جذب حامی مالی کمک کند.\n*   **لحن و زبان:** استفاده از جملات احساسی و انگیزشی مانند \"مهربانی تنها چیزی است که با تقسیم کردن، بیشتر می‌شود\" و \"رویای من\"، به ایجاد ارتباط عاطفی با مخاطب کمک می‌کند.\n*   **ساختار:** پاسخ A ساختار منسجم‌تری دارد و به خوبی اطلاعات را سازماندهی کرده است.\n\nپاسخ دستیار B، در حالی که مختصر و مفید است، فاقد جزئیات و جذابیت پاسخ A است. به نظر می‌رسد بیشتر یک اعلان ساده باشد تا یک پست شبکه‌های اجتماعی که هدف آن ترغیب به شرکت در رویداد است.\n\nبنابراین، با توجه به مفید بودن، ارتباط با پرسش، دقت و کیفیت کلی، پاسخ دستیار A به طور قابل توجهی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ، اطلاعات کلیدی را ارائه می‌دهند و به خوبی به پرسش پاسخ می‌دهند. با این حال، پاسخ دستیار A به دلیل جزئیات بیشتر و لحن گرم‌تر و صمیمی‌تر، در ایجاد حس دعوت و ترغیب مخاطب برای شرکت در رویداد، موفق‌تر عمل می‌کند. اشاره به \"هنرمندان محبوب و مردمی کشورمان\" و توصیف غذاها و بازارچه، جذابیت بیشتری به رویداد می‌بخشد. در مقابل، پاسخ دستیار B بسیار موجز و خلاصه‌وار است که در حالی که مفید است، اما فاقد همان جذابیت و عمق پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a much more detailed and compelling social media post. It includes specific details about the event like free workshops, an art exhibition, and a raffle prize, which are likely to attract more attendees. The language is also more evocative and includes a heartwarming closing statement. Assistant B, while accurate, is very brief and lacks the persuasive elements needed for a successful event announcement. It feels more like a simple announcement rather than an invitation. Both responses provide the same website and hashtag, indicating they understand the core request. However, the depth and detail of A make it significantly more useful.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است. در حالی که هر دو پاسخ اطلاعات اصلی را منتقل می‌کنند، پاسخ A بسیار جامع‌تر و جذاب‌تر است. A جزئیات بیشتری را ارائه می‌دهد (مانند هنرمندان مشهور، غذاهای بین‌المللی، مزایده آنلاین، مشارکت شرکت‌ها و بلیت‌های VIP) که باعث می‌شود رویداد جذاب‌تر به نظر برسد و مخاطب را به مشارکت ترغیب کند. A همچنین از لحن گرم‌تر و مشوق‌کننده‌تری استفاده می‌کند. پاسخ B بسیار مختصر و فاقد جزئیات مهمی است که می‌تواند تاثیرگذاری پست را افزایش دهد. در حقیقت، پاسخ B بیشتر به یک آگهی کوتاه شبیه است تا یک پست شبکه‌های اجتماعی جذاب.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی الگوریتم مورد نیاز را توضیح می‌دهند و از یک رویکرد مشابه (استفاده از دیکشنری برای شمارش فراوانی) استفاده می‌کنند. با این حال، پاسخ دستیار A به مراتب کامل‌تر و مفیدتر است.\n\nدستیار A به نکات مهمی مانند حساسیت به حروف بزرگ و کوچک، نحوه برخورد با کاراکترهای غیرحرفی و پیچیدگی زمانی و فضایی الگوریتم اشاره می‌کند. این جزئیات، پاسخ را از یک توضیح ساده فراتر می‌برد و به کاربر کمک می‌کند تا درک عمیق‌تری از الگوریتم و نحوه پیاده‌سازی آن داشته باشد. در مقابل، پاسخ دستیار B بسیار مختصر و فاقد این جزئیات مهم است.\n\nبنابراین، پاسخ دستیار A به دلیل جامعیت و ارائه اطلاعات تکمیلی، برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ، الگوریتم صحیح و دقیقی را برای یافتن رایج‌ترین حرف در یک رشته ارائه می‌دهند. هر دو از مفهوم دیکشنری (جدول هش) برای شمارش فراوانی کاراکترها استفاده می‌کنند و به درستی مراحل را توضیح می‌دهند.\n\nبا این حال، پاسخ دستیار B مختصرتر و مستقیم‌تر است. دستیار A توضیحات اضافی دارد که اگرچه بد نیستند، اما برای یک درخواست ساده، کمی طولانی و غیرضروری به نظر می‌رسند. دستیار B به خوبی اصل مطلب را بیان می‌کند و از زیاده‌گویی پرهیز می‌کند.\n\nبنابراین:\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct and relevant algorithms for finding the most frequent character in a given string. However, Assistant A is significantly more comprehensive and helpful.\n\nAssistant A goes beyond simply stating the algorithm and discusses important considerations like case sensitivity (upper vs. lower case) and handling of non-alphabetic characters (spaces, punctuation). It also provides a complexity analysis (time and space complexity), which is valuable for understanding the algorithm's performance characteristics. Assistant B, while correct, is very concise and lacks these crucial details. It essentially provides a bare-bones description of the algorithm without any context or discussion of potential issues or optimizations.\n\nTherefore, Assistant A's response is more complete, informative, and useful to the user.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A، در حالی که از الگوریتم شمارش رادیکس صحبت می‌کند که می‌تواند کارآمد باشد، کمی پیچیده و غیرضروری برای این مسئله است. توضیح در مورد کد اسکی و یونیکد نیز برای یک پاسخ ساده به این سوال، بیش از حد جزئی است. با این حال، اشاره به پیچیدگی زمانی و مزایای حافظه، نشان‌دهنده درک عمیق‌تری از الگوریتم‌ها است.\n\nپاسخ دستیار B بسیار ساده، واضح و مستقیم است. استفاده از دیکشنری (جدول هش) یک روش رایج و قابل فهم برای این مسئله است و به راحتی قابل پیاده‌سازی است. این پاسخ به طور مستقیم به سوال پاسخ می‌دهد و از ارائه جزئیات غیرضروری خودداری می‌کند.\n\nدر مجموع، پاسخ دستیار B به دلیل سادگی، وضوح و ارتباط مستقیم با سوال، بهتر است. در حالی که پاسخ A از نظر فنی درست است، اما برای یک کاربر که به دنبال یک الگوریتم ساده است، بیش از حد پیچیده است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

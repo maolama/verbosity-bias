@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی پاسخ را ارائه داده‌اند و از فرمول جایگشت با در نظر گرفتن تکرار حرف «ا» استفاده کرده‌اند. با این حال، دستیار A توضیحات بیشتری ارائه داده، مفهوم جایگشت را تعریف کرده، مثال‌هایی از جایگشت‌ها آورده و به کاربردهای آن اشاره کرده است. این توضیحات اضافی باعث می‌شود پاسخ دستیار A برای کاربرانی که با مفهوم جایگشت آشنایی ندارند، مفیدتر و قابل فهم‌تر باشد. دستیار B پاسخ مختصر و دقیقی ارائه داده است، اما فاقد توضیحات و مثال‌های اضافی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ دقیقی ارائه داده‌اند و به درستی از فرمول جایگشت برای حل مسئله استفاده کرده‌اند. هر دو به این نکته اشاره کرده‌اند که حرف \"الف\" تکراری است و این موضوع را در محاسبات لحاظ کرده‌اند.\n\nبا این حال، پاسخ دستیار A کمی کامل‌تر است. این دستیار توضیح می‌دهد که چرا باید فاکتوریل تعداد تکرار را در مخرج قرار دهیم و به طور کلی، فرآیند استدلال را با جزئیات بیشتری شرح می‌دهد. این امر برای کاربرانی که با مفهوم جایگشت آشنایی کمتری دارند، مفیدتر است. پاسخ دستیار B مختصر و مفید است، اما فاقد توضیحات تکمیلی است که درک فرآیند حل مسئله را تسهیل کند.\n\nبنابراین، با توجه به کامل‌تر بودن توضیحات و ارائه استدلال دقیق‌تر، پاسخ دستیار A کمی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and accurate answers to the question. They both correctly identify the need to use the permutation formula, account for the repeated letter \"ا\", and arrive at the correct answer of 60.\n\nHowever, Assistant A is slightly better. While both are correct, Assistant A provides a more detailed explanation of the *why* behind the formula, defining permutation and explaining how the formula adjusts for repeated elements. It also includes examples and touches upon applications in other fields. Assistant B is concise, which isn’t necessarily bad, but it lacks the depth of explanation offered by Assistant A. The extra context in A makes it more helpful for someone who might not be familiar with permutations.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "هر دو دستیار به درستی به این موضوع اشاره کرده‌اند که برای حل این مسئله باید از مفهوم جایگشت استفاده کرد و هر دو فرمول را به درستی نوشته‌اند. با این حال، دستیار A در توضیح خود دقیق‌تر عمل کرده و به این نکته اشاره کرده که حرف \"ن\" نیز دو بار تکرار شده است و در فرمول محاسبه لحاظ شده است. در نتیجه، پاسخ دستیار A دقیق‌تر است. دستیار B در محاسبه نهایی اشتباه کرده است و عدد 60 را به عنوان پاسخ ارائه داده است، در حالی که پاسخ صحیح 30 است. همچنین، توضیحات اضافی دستیار A در مورد کاربردهای این محاسبه، ارزش افزوده به پاسخ آن بخشیده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

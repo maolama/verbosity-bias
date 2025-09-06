@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار هوش مصنوعی:\n\n**۱. مفید بودن (Helpfulness):**  \n- **پاسخ A:** بسیار مفید و کاربردی. با ارائه **سؤالات دقیق و ساختاریافته** در سه بخش اصلی (تحلیل داده‌ها، سبک ارائه، نتیجه‌گیری)، سرپرست را به شکلی هدایت می‌کند که بازخورد هدفمند و قابل‌اجرا ارائه دهد.  \n- **پاسخ B:** کلی و غیرملموس. درخواست بازخورد را مطرح می‌کند اما **فاقد جزئیات لازم** برای راهنمایی سرپرست جهت ارائه بازخورد اختصاصی است.  \n\n**۲. ارتباط با پرسش (Relevance):**  \n- **پاسخ A:** تمام مؤلفه‌های درخواستی کاربر (تحلیل داده‌ها، سبک ارائه، وضوح نتیجه‌گیری) را **به طور دقیق و جزءبه‌جزء** پوشش داده و هر بخش را با سؤالات مشخص تفکیک کرده است.  \n- **پاسخ B:** تنها به **ذکر کلیات** بسنده کرده و سؤالات کاربر را بدون بسط دادن یا ایجاد تمرکز بر ابعاد کلیدی، تکرار می‌کند.  \n\n**۳. دقت (Accuracy):**  \n- **پاسخ A:** از اصطلاحات حرفه‌ای (مثل KPI، انحرافات بودجه‌ای، بصری‌سازی داده‌ها) استفاده کرده و **ساختار منطقی گزارش** (تحلیل → ارائه → نتیجه‌گیری) را منعکس می‌کند.  \n- **پاسخ B:** علیرغم اشاره به عناصر اصلی، **فاقد عمق و دقت کافی** در توصیف جزئیات فنی گزارش مالی است.  \n\n**۴. کیفیت کلی (Overall Quality):**  \n- **پاسخ A:** ساختار حرفه‌ای، لحن مؤدبانه و رسمی، و **تمرکز بر عملگرایی** (پیشنهاد زمان مکمل، اشاره به سیستم مدیریت اسناد) آن را به نمونه‌ای ایده‌آل برای محیط‌های کاری تبدیل می‌کند.  \n- **پاسخ B:** با وجود رعایت ادب، **بیش از حد مختصر و عمومی** است و نیاز به بازنویسی برای انتقال حرفه‌ای‌تر دارد.  \n\n---\n\n### نتیجه‌گیری:  \n**پاسخ A** با ارائه **جزئیات کاربردی، ساختار منظم و پرسش‌های هدفمند**، به کاربر کمک می‌کند بازخوردی غنی و سازنده دریافت کند. در مقابل، پاسخ B با کلی‌گویی و عدم شفافیت، کارایی کمتری دارد. بنابراین:  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها  \n\n#### **دستیار A**:  \n- **مفید بودن**: پاسخ تمام نیازهای کاربر را پوشش می‌دهد (درخواست بازخورد در تحلیل داده‌ها، سبک ارائه، وضوح نتیجه‌گیری).  \n- **ارتباط با پرسش**: کاملاً مرتبط است اما **بیش‌ازحد طولانی** و با جملات پیچیده و رسمیِ غیرضروری (مانند \"تقدیم احترامات فائقه\") که ممکن است در ایمیل حرفه‌ای مدرن نامناسب باشد.  \n- **دقت**: محتوای دقیق دارد، اما **تکرار** عبارات (مانند \"نظرات کارشناسانه و بازخورد تخصصی\") و تأکید بیش‌ازحد بر ادب، تمرکز اصلی را کاهش می‌دهد.  \n- **کیفیت کلی**: ساختار صحیح اما غیرمختصر؛ زبانِ بسیار رسمی ممکن است ارتباط را دشوار کند.  \n\n#### **دستیار B**:  \n- **مفید بودن**: تمام نکات خواسته‌شده (تحلیل داده‌ها، سبک ارائه، وضوح نتیجه‌گیری) را به‌طور مؤثر پوشش می‌دهد.  \n- **ارتباط با پرسش**: بسیار مرتبط و **مختصر**؛ بدون حاشیه‌روی، مستقیماً به هدف کاربر می‌پردازد.  \n- **دقت**: عبارت‌بندی روشن و بدون ابهام؛ درخواست بازخورد را با لحنی حرفه‌ای اما ساده بیان کرده است.  \n- **کیفیت کلی**: ساختار بهینه، زبان روان و مناسب برای ایمیل اداری مدرن؛ احترام را بدون اغراق منتقل می‌کند.  \n\n### نتیجه‌گیری:  \n- **دستیار A** با وجود پوشش کامل نیازها، به‌دلیل **طولانی‌نویسی، تکرار و رسمی‌بودنِ غیرضروری**، خوانایی و کارایی را کاهش می‌دهد.  \n- **دستیار B** با **مختصرگویی، وضوح و حفظ حرفه‌ای‌بودن**، نیاز کاربر را به‌صورت بهینه برآورده می‌کند و برای گیرندهٔ ایمیل (سرپرست) احترام به زمان را نشان می‌دهد.  \n\n### نتیجه نهایی:  \n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness:**\n- **Assistant A** provides a highly helpful response by structuring the email with clear sections for each requested feedback area (data analysis, presentation style, conclusions). It includes specific sub-questions (e.g., appropriateness of analytical methods, visualizations) that guide the supervisor to give actionable feedback.  \n- **Assistant B** is generic and lacks actionable details. While it mentions the three requested topics, it fails to break them into specific subtopics, reducing its practical utility for the supervisor.  \n→ **A is significantly more helpful.**\n\n**Relevance:**\n- Both address the core request: seeking feedback on the financial report.  \n- **Assistant A** meticulously covers all user-specified elements (data analysis, presentation style, clarity of conclusions) with tailored questions.  \n- **Assistant B** mentions all three topics but superficially, omitting concrete angles for feedback (e.g., no mention of KPIs, visualizations, or evidence-based conclusions).  \n→ **A is more comprehensively relevant.**\n\n**Accuracy:**  \n- **Assistant A** accurately incorporates professional email conventions (subject line, structured body, polite closing) and domain-specific terminology (KPIs, budget deviations, \"evidence-based conclusions\").  \n- **Assistant B** uses appropriate formalities but oversimplifies the request, omitting expected details like a subject line or report context.  \n→ **A is more accurate in fulfilling professional norms.**\n\n**Overall Quality:**  \n- **Assistant A** excels with its professionalism, clarity, and specificity. It anticipates the supervisor’s need for context (mentioning report location, strategic KPIs) and streamlines feedback with targeted questions.  \n- **Assistant B**, while polite and concise, feels rushed and incomplete. Its lack of structure and detail could lead to vague or less useful feedback.  \n\n### Final Verdict\n[[A]]  \n*Assistant A’s response is superior in all criteria, offering a polished, actionable, and context-rich email that directly addresses the user’s nuanced request.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها بر اساس معیارهای خواسته شده:\n\n**1. مفید بودن (Helpfulness):**\n- **دستیار A:** بسیار مفید است. با ارائه جزئیات دقیق (استفاده از SPSS، روش‌های آماری، طراحی بصری) و **طرح سه سوال مشخص**، دریافت بازخورد هدفمند را ممکن می‌کند. همچنین با ذکر **ضرب‌الاجل** و **پیشنهاد جلسه**، عملیاتی بودن را افزایش می‌دهد.  \n- **دستیار B:** کم‌مفید است. درخواست بازخورد کلی و فاقد جزئیات است. هیچ زمینه‌ای برای ارزیابی کارِ انجام‌شده ارائه نمی‌دهد و دریافت بازخورد مؤثر را دشوار می‌سازد.  \n\n**2. ارتباط با پرسش (Relevance):**\n- **دستیار A:** کاملاً مرتبط و فراتر از انتظار. به **تمامی بخش‌های خواسته‌شده (تحلیل داده‌ها، سبک ارائه، نتیجه‌گیری)** با ذکر مثال‌های عینی پاسخ داده و نیازهای عملی (زمان‌بندی، جلسه) را پوشش می‌دهد.  \n- **دستیار B:** صرفاً در سطح کلی مرتبط است. هرچند سه حوزه خواسته‌شده را نام می‌برد، اما **فاقد هرگونه نمونه، توضیح یا بستر مشخص** برای ارزیابی است.  \n\n**3. دقت (Accuracy):**\n- **دستیار A:** دقیق و حرفه‌ای. با ذکر **دستورالعمل سرپرست** (ارجاع به جلسه قبل)، **تاریخ‌های دقیق** (فروردین تا خرداد)، و **ابزارهای تخصصی** (SPSS)، اعتبار ایجاد می‌کند.  \n- **دستیار B:** غیردقیق. **عدم اشاره به زمان گزارش** (کدام سه‌ماهه؟)، **عدم ذکر انتظارات قبلی** یا **جزئیات فنی**، آن را به کلی‌گویی نزدیک می‌کند.  \n\n**4. کیفیت کلی (Overall Quality):**\n- **دستیار A:** ساختار حرفه‌ای (موضوع، پاراگراف‌بندی، پیوست)، **زبان رسمی ولی روان**، **تاکتیک‌های اقناعی** (توجیه روش‌ها، پیشنهاد جلسه)، و **احترام فعال** (پیش‌تشکر همراه با ضرب‌الاجل منطقی).  \n- **دستیار B:** ساختار نامشخص (بدون موضوع/پیوست)، زبان بیش‌ازحد مختصر به‌ضرر محتوا، و **انفعال** (فقط \"منتظر پاسخ شما هستم\").  \n\n---\n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به‌طور چشمگیری در تمامی معیارها برتر است:  \n- نیازهای عملیاتی کاربر (زمان‌بندی، جلسه) را پیش‌بینی کرده.  \n- با ذکر جزئیات فنی و پرسش‌های هدفمند، بازخورد مفید را تضمین می‌کند.  \n- ساختار و لحن حرفه‌ای، اعتبار نویسنده را تقویت می‌کند.  \n\nدر مقابل، پاسخ **دستیار B** اگرچه مودبانه است، اما **بیش از حد کلی و فاقد اقدام‌پذیری** است و نمی‌تواند به‌طور مؤثر هدف کاربر (دریافت بازخورد سازنده) را محقق کند.  \n\n**نتیجه نهایی:** [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

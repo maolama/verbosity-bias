@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به پرسش پاسخ داده‌اند و نتیجه‌ی 1/8 (یا 0.125 یا 12.5%) را ارائه کرده‌اند. با این حال، دستیار A توضیحات جامع‌تری ارائه می‌دهد. توضیح در مورد آزمایش‌های تصادفی، پیشامدهای مستقل و قانون ضرب احتمال، به درک بهتر پاسخ کمک می‌کند. دستیار B مختصر و مفید است، اما فاقد توضیحاتی است که دستیار A ارائه می‌دهد. بنابراین، دستیار A از نظر آموزشی و درک مفهوم، بهتر عمل کرده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ دقیقی به سوال داده‌اند و محاسباتشان صحیح است. با این حال، دستیار A توضیحات بیشتری ارائه داده و مفهوم احتمال پیشامدهای مستقل را به خوبی شرح داده است. این توضیحات برای کاربرانی که ممکن است با این مفاهیم آشنا نباشند، بسیار مفید است. دستیار B پاسخ مختصر و دقیقی ارائه داده، اما فاقد توضیحات تکمیلی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct and accurate answers to the question. They both correctly identify the probability of getting heads three times in a row as 1/8 (or 0.125 or 12.5%). However, Assistant A provides a more thorough explanation of the underlying probability concepts. It explains the nature of the experiment (random with two outcomes), the independence of events, and the application of the multiplication rule. Assistant B is concise and directly provides the calculation and result, which is also correct, but lacks the explanatory depth of Assistant A. For a user who might need a refresher on probability principles, Assistant A is significantly more helpful.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ صحیح هستند و به درستی احتمال را محاسبه می‌کنند. با این حال، پاسخ دستیار A کامل‌تر و آموزنده‌تر است. دستیار A با بیان تمام حالت‌های ممکن، درک بهتری از مسئله را برای کاربر فراهم می‌کند و همچنین دو روش برای رسیدن به پاسخ را توضیح می‌دهد. این در حالی است که دستیار B بسیار مختصر و مستقیم است و فاقد توضیحاتی است که می‌توانست به درک بهتر مسئله کمک کند. در ضمن، دستیار A در انتهای پاسخ خود یک اشتباه جزئی در محاسبه درصد دارد (13.5% به جای 12.5%) اما این اشتباه به اندازه کافی کوچک است که بر کیفیت کلی پاسخ تأثیر زیادی نگذارد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

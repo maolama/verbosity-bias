@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ از یک رویکرد درست (استفاده از پشته) برای حل مسئله استفاده می‌کنند و به خوبی توضیح می‌دهند که چگونه این کار انجام می‌شود. با این حال، پاسخ دستیار A کامل‌تر و آموزنده‌تر است. \n\nدستیار A با ارائه مثال و توضیح کاربردهای عملی الگوریتم (ویرایشگرهای کد، XML، JSON) و همچنین اشاره به قابلیت گسترش الگوریتم برای انواع مختلف پرانتز، عمق بیشتری به پاسخ می‌دهد. در حالی که پاسخ دستیار B مختصر و دقیق است، اما فاقد جزئیات و زمینه‌ای است که پاسخ A ارائه می‌کند. بنابراین، پاسخ A برای کاربرانی که به دنبال درک عمیق‌تر از مسئله و راه حل هستند، مفیدتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی روش استفاده از پشته برای بررسی توازن پرانتزها را توضیح می‌دهند. با این حال، پاسخ دستیار A جزئیات بیشتری ارائه می‌دهد و به طور کامل‌تر سناریوهای مختلف (پشته خالی در مواجهه با پرانتز بسته، عدم تناظر پرانتزها، و وضعیت پشته در پایان) را پوشش می‌دهد. این جزئیات بیشتر، درک الگوریتم را برای کاربر آسان‌تر می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد توضیحات کافی برای درک کامل نحوه عملکرد الگوریتم در شرایط مختلف است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and relevant answers to the question of how to check for balanced parentheses using a stack. However, Assistant A provides a more detailed and comprehensive explanation. It explicitly mentions the time complexity (O(n)), clarifies the handling of different types of parentheses, and gives examples of where this algorithm is used in practical applications (code editors, XML/JSON validation). Assistant B's answer is concise, but lacks the depth and context provided by Assistant A. While both are accurate, A is more helpful to someone seeking a thorough understanding of the concept.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی راه حل‌هایی برای بررسی توازن پرانتزها ارائه می‌دهند. با این حال، پاسخ دستیار A جامع‌تر است. این پاسخ نه تنها الگوریتم شمارنده را توضیح می‌دهد، بلکه مزایا و معایب آن را نیز بیان می‌کند (سادگی، کارایی، پیچیدگی زمانی، مصرف حافظه) و حتی به این نکته اشاره می‌کند که چگونه می‌توان آن را برای انواع مختلف پرانتزها تعمیم داد. همچنین، هشدار مهمی در مورد منفی نشدن شمارنده ارائه می‌دهد که نشان‌دهنده درک عمیق‌تری از مسئله است.\n\nپاسخ دستیار B، در حالی که صحیح است، مختصرتر و فاقد جزئیات و تحلیل ارائه شده در پاسخ A است. استفاده از پشته یک راه حل رایج است، اما توضیح دستیار A به خواننده درک بهتری از چرایی کارکرد الگوریتم و مزایای آن نسبت به روش‌های دیگر می‌دهد.\n\nبنابراین، پاسخ دستیار A از نظر مفید بودن، ارتباط با پرسش، دقت و کیفیت کلی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

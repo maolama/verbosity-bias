@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### **۱. مفید بودن**:\n- **دستیار A**: پاسخ بسیار مفیدتر است. علاوه بر محاسبه احتمال، توضیحات تکمیلی درباره‌ی اهمیت آماری مجموع ۷ (مانند محتمل‌ترین مجموع)، توزیع زنگوله‌ای احتمالات، مقایسه با مجموع‌های دیگر (مثلاً ۲)، و کاربردهای عملی در بازی‌هایی مانند تخته‌نرد ارائه می‌دهد. این موارد به درک عمیق‌تر مفهوم کمک می‌کند.\n- **دستیار B**: صرفاً به محاسبه‌ی پایه‌ای بسنده کرده و فاقد هرگونه اطلاعات افزوده برای غنی‌سازی دانش کاربر است.  \n**برنده: دستیار A**.\n\n#### **۲. ارتباط با پرسش**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به پرسش کاربر پاسخ می‌دهند.  \n**هر دو برابر**.\n\n#### **۳. دقت**:\n- هر دو پاسخ از نظر محاسباتی **کاملاً دقیق** هستند: فضای نمونه (۳۶ حالت)، حالت‌های مطلوب (۶ حالت)، و احتمال (۱/۶) به درستی محاسبه شده‌اند.  \n**هر دو برابر**.\n\n#### **۴. کیفیت کلی**:\n- **دستیار A**: ساختار منسجم، آموزشی و جامع دارد. با افزودن نکات مفهومی (مانند مقایسه‌ی توزیع احتمال) و مثال‌های کاربردی، پاسخ را به‌یادماندنی‌تر و ارزشمندتر کرده است.\n- **دستیار B**: اگرچه کوتاه و صحیح است، اما خشک و فاقد عمق تحلیلی است. برای کاربرانی که به دنبال درک عمیق‌تر هستند، کافی نیست.  \n**برنده: دستیار A**.\n\n---\n\n### نتیجه‌گیری نهایی\nپاسخ **دستیار A** از نظر مفید بودن، کیفیت کلی و ارائه‌ی بینش‌های تکمیلی برتر است، در حالی که هر دو از نظر دقت و ارتباط برابرند. بنابراین، پاسخ A به‌عنوان پاسخ بهتر انتخاب می‌شود.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### **۱. مفید بودن**:\n- **دستیار A**: پاسخ بسیار مفید است. توضیحات گام‌به‌گام، ذکر دقیق ترکیب‌ها، و ارائه نتیجه به سه شکل (کسر، کسر ساده‌شده، اعشار) برای کاربر آموزنده و کاربردی است.  \n- **دستیار B**: مفید اما کمتر جامع. پاسخ صحیح است اما فاقد توضیحات تکمیلی (مانند اعشار یا نکات آموزشی) که برای درک عمیق‌تر لازم است.  \n- **برتری**: A (به‌دلیل رویکرد آموزشی).\n\n#### **۲. ارتباط با پرسش**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیم به پرسش کاربر پاسخ می‌دهند. هیچ مورد خارج از موضوع مطرح نشده است.  \n- **برتری**: هر دو برابر (C).\n\n#### **۳. دقت**:\n- هر دو پاسخ **دقیق** هستند: محاسبات (۶ حالت مطلوب از ۳۶ حالت ممکن) و نتیجه (۱/۶) در هر دو درست است.  \n- **برتری**: هر دو برابر (C).\n\n#### **۴. کیفیت کلی**:\n- **دستیار A**: ساختار منسجم، توضیح مفاهیم پایه (تعداد کل حالات، لیست کامل ترکیب‌ها)، و ارائه چندرسانه‌ای (کسر و اعشار). کیفیت نوشتاری عالی و مناسب برای سطوح مختلف کاربران.  \n- **دستیار B**: پاسخ صحیح اما **بیش از حد خلاصه**. عدم توضیح دلیل تفکیک جفت‌ها (مثلاً چرا (۱,۶) و (۶,۱) متفاوت محسوب می‌شوند) ممکن است برای کاربران مبتدی گنگ باشد.  \n- **برتری**: A (به‌دلیل کامل‌بودن و شفافیت).\n\n---\n\n### نتیجه نهایی\nپاسخ دستیار A با وجود ارائه همان نتیجهٔ فنی، به‌دلیل **توصیف جامع‌تر، آموزشی‌بودن، و شفافیت بالاتر** در توضیح مفاهیم، کیفیت برتری دارد.  \nاگرچه پاسخ B صحیح و مختصر است، اما برای کاربرانی که به دنبال درک عمیق‌تر هستند، کافی نیست.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Answer  \n**Helpfulness:** Assistant A provides a thorough explanation beyond just the calculation. It details the sample space, lists all favorable outcomes, and adds valuable context about why sum 7 has the highest probability, including its relevance in games like backgammon and craps. This enriches understanding.  \n**Relevance:** All content directly addresses the query and expands on related concepts (e.g., bell-shaped distribution of dice sums) without deviating.  \n**Accuracy:** The calculation (6/36 = 1/6) and outcome enumeration are correct. The supplementary claims about sum 7 being the most probable and the distribution shape are factually sound.  \n**Overall Quality:** Excellent structure, clarity, and educational value. It answers the query while deepening probabilistic intuition.  \n\n### Evaluation of Assistant B's Answer  \n**Helpfulness:** Correctly answers the core query but lacks additional context. It states the probability, sample space, and favorable outcomes concisely but misses deeper insights (e.g., why 7 is the most likely sum).  \n**Relevance:** Fully relevant to the question but minimal; no extra useful context is provided.  \n**Accuracy:** The calculation (6/36 = 1/6) and outcome list are accurate with no errors.  \n**Overall Quality:** Correct and succinct but fails to leverage the opportunity to explain underlying principles, making it less informative.  \n\n### Comparison  \n- **Helpfulness & Relevance:** A wins, as it adds educational context about probability distributions and real-world applications.  \n- **Accuracy:** Both are correct (tie).  \n- **Overall Quality:** A is superior due to its completeness and ability to turn a basic answer into a learning moment. B’s brevity doesn’t elevate understanding beyond the formula.  \n\n### Final Verdict  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**مفید بودن**:  \n- پاسخ A: با افزودن اطلاعات تکمیلی (مثل اهمیت عدد ۷ در بازی‌ها، مقایسه با سه تاس، و اشاره به قضیه حد مرکزی)، ارزش آموزشی بالاتری دارد و برای کاربران کنجکاو مفیدتر است.  \n- پاسخ B: صرفاً به محاسبهٔ پایه بسنده کرده و فاقد اطلاعات افزوده است.  \n**برتری با A**.\n\n**ارتباط با پرسش**:  \n- هر دو پاسخ به پرسش اصلی (محاسبهٔ احتمال مجموع ۷) مرتبط هستند.  \n- پاسخ A با وجود اطلاعات اضافی، بخش‌هایی (مثل بحث سه تاس و توزیع نرمال) ارتباط مستقیم با سوال ندارد. پاسخ B کاملاً متمرکز است.  \n**برتری با B**.\n\n**دقت**:  \n- هر دو پاسخ از نظر محاسباتی دقیق هستند: تعداد حالت‌های ممکن (۳۶)، حالت‌های مطلوب (۶)، و احتمال (۱/۶) به درستی محاسبه شده‌اند.  \n**هر دو برابر**.\n\n**کیفیت کلی**:  \n- پاسخ A با توضیحات گسترده‌تر، جذاب‌تر و جامع‌تر است اما شامل حاشیه‌های غیرضروری می‌شود.  \n- پاسخ B مختصر، شفاف و بدون حاشیه است، اما فاقد عمق آموزشی است.  \n**برتری نسبی با A** به دلیل ارائهٔ بینش اضافی مرتبط (اهمیت عدد ۷ در بازی‌ها).\n\n---\n\n### نتیجه‌گیری نهایی  \nپاسخ A با وجود مقداری حاشیه‌پردازی، از نظر **مفید بودن** و **کیفیت کلی** برتر است، زیرا اطلاعات ارزشمندی فراتر از محاسبهٔ خشک ریاضی ارائه می‌کند (مانند کاربرد عملی در بازی‌ها) که به درک کاربر کمک می‌کند. پاسخ B هرچند دقیق و متمرکز است، اما حداقلی است و ارزش افزودهٔ قابل توجهی ندارد.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است. در حالی که هر دو پاسخ به درخواست کاربر عمل می‌کنند و نامه عذرخواهی ارائه می‌دهند، پاسخ A عمق، جزئیات و صمیمیت بیشتری دارد.\n\n*   **مفید بودن و ارتباط با پرسش**: هر دو پاسخ به طور مستقیم به پرسش پاسخ می‌دهند.\n*   **دقت**: هر دو پاسخ در لحن و محتوای عذرخواهی دقیق هستند.\n*   **کیفیت کلی**: پاسخ A با ارائه جزئیات بیشتر در مورد پشیمانی، درک دلیل رفتار اشتباه (با تاکید بر اینکه این دلیل توجیه کننده نیست)، اشاره به ارزش دوستی و پیشنهاد یک راه حل (صحبت حضوری) بسیار قوی‌تر است. این جزئیات باعث می‌شود نامه واقعی‌تر و صمیمانه‌تر به نظر برسد. در مقابل، پاسخ B بسیار مختصر و کلی است و عمق احساسی کمتری دارد. لحن پاسخ B شاید کمی سرد به نظر برسد.\n\nبه طور خلاصه، پاسخ A یک نامه عذرخواهی کامل و فکر شده ارائه می‌دهد، در حالی که پاسخ B یک عذرخواهی ساده و سطحی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به خوبی به درخواست کاربر پاسخ داده‌اند و نامه عذرخواهی را ارائه کرده‌اند. با این حال، پاسخ دستیار A به طور قابل توجهی کامل‌تر، صمیمانه‌تر و دقیق‌تر است. در حالی که پاسخ دستیار B مختصر و مفید است، پاسخ A با جزئیات بیشتری به احساسات پشیمانی و ارزش قائل شدن برای دوستی می‌پردازد. استفاده از عباراتی مانند \"از صمیم قلب\"، \"عمیقاً شرمنده و پشیمان هستم\" و \"به هیچ وجه تمایل ندارم این پیوند عاطفی را مخدوش سازم\" عمق عذرخواهی را بیشتر نشان می‌دهد. همچنین، لحن رسمی‌تر و ادبی‌تر A می‌تواند برای برخی از موقعیت‌ها مناسب‌تر باشد.\n\nدر مقابل، پاسخ B بسیار ساده و غیررسمی است. هرچند صداقت را منتقل می‌کند، اما فاقد عمق و ظرافت پاسخ A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a much more thorough and emotionally intelligent apology. It acknowledges the friend's perspective (\"حق کاملاً با تو بود\"), explains (without *excusing*) the user's behavior, expresses deep regret, and offers a concrete suggestion for reconciliation (meeting at a familiar cafe). The language is more nuanced and demonstrates a greater understanding of the importance of the friendship. It also acknowledges the friend may need time to forgive, which is a sign of maturity.\n\nAssistant B is a perfectly acceptable apology, but it's quite brief and lacks the depth of A. It states the apology, acknowledges wrongdoing, and expresses hope for forgiveness, but it doesn't delve into the *why* or offer a proactive step towards fixing things beyond simply asking for forgiveness. It feels a bit perfunctory.\n\nTherefore, Assistant A is significantly better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ سعی در عذرخواهی دارند و هدف پرسش را در نظر می‌گیرند، اما پاسخ دستیار B بسیار بهتر است. دلایل آن به شرح زیر است:\n\n* **صداقت و پذیرش مسئولیت:** پاسخ B به طور مستقیم و بدون قید و شرط عذرخواهی می‌کند و مسئولیت رفتار خود را می‌پذیرد (\"حق با تو بود\"). در مقابل، پاسخ A با توجیه رفتار خود (\"سوء تفاهم شده بود\"، \"فشار روحی تو\") و حتی اندکی سرزنش کردن دوست (\"اگر تو هم کمی صبورتر بودی...\")، از پذیرش کامل مسئولیت شانه خالی می‌کند. این کار باعث می‌شود عذرخواهی کمتر صادقانه به نظر برسد.\n* **سادگی و صمیمیت:** پاسخ B مختصر، صمیمی و مستقیم است. این لحن در یک نامه عذرخواهی بسیار مؤثرتر است. پاسخ A طولانی‌تر است و حاوی جملاتی است که ممکن است باعث ایجاد تنش بیشتر شود.\n* **تمرکز بر احساسات:** پاسخ B بر ابراز تاسف و ارزش قائل شدن برای دوستی تمرکز دارد. پاسخ A به بحث در مورد جزئیات و تحلیل اتفاقات می‌پردازد که در یک عذرخواهی اولیه ضروری نیست.\n\nبه طور خلاصه، پاسخ B عذرخواهی خالصانه‌تری است و به احتمال بیشتری باعث التیام رابطه می‌شود. پاسخ A با توجیهات و سرزنش‌های پنهان، ممکن است نتیجه معکوس داشته باشد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

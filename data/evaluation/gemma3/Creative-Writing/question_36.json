@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است.\n\n**دلایل:**\n\n* **جزئیات و غنای اطلاعات:** پاسخ A بسیار مفصل‌تر و غنی‌تر است. به جزئیاتی مانند نوع چای (لاهیجان)، اهمیت کیفیت آب، استفاده از کتری مسی یا استیل، آبکشی قوری، افزودن ادویه‌جات (هل، گل محمدی، دارچین)، روش سرو (استکان کمرباریک و نعلبکی) و همراهی با شیرینی‌ها اشاره می‌کند. این جزئیات، تجربه چای ایرانی را به خوبی منتقل می‌کند.\n* **ارتباط فرهنگی:** پاسخ A به جنبه‌های فرهنگی چای ایرانی (صبر کردن برای جوشیدن آب، مراسم چای) اشاره دارد که پاسخ B فاقد آن است.\n* **دقت:** هر دو پاسخ از نظر دستورالعمل‌های اصلی دقیق هستند، اما پاسخ A با ارائه جزئیات بیشتر، دقت را افزایش داده است.\n* **کیفیت کلی:** پاسخ A به دلیل جامعیت، جزئیات و ارتباط فرهنگی، یک راهنمای کامل‌تر و جذاب‌تر برای تهیه چای ایرانی است. پاسخ B بسیار ساده و ابتدایی است و فاقد عمق و غنای لازم است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به طور کلی درست و مرتبط با درخواست کاربر هستند و نحوه تهیه چای ایرانی را توضیح می‌دهند. با این حال، پاسخ دستیار A به دلیل جزئیات بیشتر و لحن توصیفی‌تر، کمی بهتر است. در حالی که پاسخ دستیار B مختصر و مفید است، پاسخ A با توضیحاتی مانند گرم کردن قوری با آب جوش و اشاره به عطر و طعم چای، تجربه بهتری را برای کاربر ایجاد می‌کند و راهنمایی کامل‌تری ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a much more detailed and culturally rich response to the question of how to make Iranian tea. It explains the importance of water quality, the type of tea preferred (Lahijan black tea), the use of a copper or steel kettle, the warming of the teapot, optional additions like cardamom and rosewater, the traditional serving method with thin-waisted glasses on saucers, and the customary way of consuming sugar with tea. It truly captures the *art* of making Iranian tea as mentioned in the prompt's opening sentence.\n\nAssistant B, while accurate, is very basic and lacks the nuance and cultural context. It provides a functional recipe but doesn't convey the experience or tradition surrounding Iranian tea. It's a correct answer, but not a *good* answer in the context of the question.\n\nTherefore, Assistant A is significantly better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی کامل‌تر و دقیق‌تر است. در حالی که هر دو پاسخ مراحل اساسی تهیه چای ایرانی را پوشش می‌دهند، پاسخ A جزئیات مهمی مانند دمای آب، نوع چای (اشاره به ترکیبات رایج)، زمان دم کشیدن دقیق، اهمیت قوری چینی و آداب و رسوم مرتبط با نوشیدن چای (وقت چای، نعلبکی، همراهی با شیرینی) را ارائه می‌دهد. همچنین، اشاره به فواید سلامتی چای ایرانی، ارزش افزوده قابل توجهی به پاسخ می‌دهد.\n\nپاسخ دستیار B بسیار ساده و مختصر است. زمان دم کشیدن (۱۵-۲۰ دقیقه) بسیار طولانی است و می‌تواند منجر به چای تلخ شود. همچنین، اشاره‌ای به آداب و رسوم یا جزئیات فرهنگی مرتبط با چای ایرانی ندارد.\n\nکیفیت کلی پاسخ A بسیار بالاتر است و تجربه کاربر را به طور کامل‌تری پوشش می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

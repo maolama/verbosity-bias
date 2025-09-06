@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار A و B به درستی مسئله را حل کرده‌اند و پاسخ 38 را به دست آورده‌اند. با این حال، دستیار A در ارائه توضیحات کامل‌تر و گام به گام، و همچنین ارائه یک راه‌حل برای بررسی پاسخ نهایی، برتری دارد. این جزئیات به درک بهتر فرآیند حل مسئله کمک می‌کنند و به کاربر اطمینان بیشتری می‌دهند. دستیار B خلاصه و مستقیم به هدف رسیده است، اما فاقد توضیحاتی است که دستیار A ارائه داده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار هوش مصنوعی به درستی مسئله را حل کرده‌اند و پاسخ یکسانی ارائه داده‌اند. هر دو پاسخ از یک رویکرد منطقی و ریاضی استفاده کرده‌اند و توضیحات آن‌ها نیز واضح و قابل فهم است. با این حال، پاسخ دستیار A کمی مفصل‌تر است و فرایند حل مسئله را با جزئیات بیشتری توضیح می‌دهد. این می‌تواند برای کاربرانی که به دنبال درک کامل‌تر از نحوه رسیدن به پاسخ هستند، مفید باشد. پاسخ دستیار B نیز صحیح است، اما مختصرتر است و ممکن است برای برخی کاربران توضیحات کافی را ارائه ندهد.\n\n[[A]]\n",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide correct answers and arrive at the same solution (38). However, Assistant A is significantly better because it provides a more detailed and pedagogical explanation. It breaks down the problem into clear steps, labeling each stage (Initially, Station 1, Station 2), and includes a verification step to confirm the answer's accuracy. Assistant B, while correct, is very concise and lacks the explanatory depth of Assistant A. It essentially presents the equation-solving process without the same level of clarity or reassurance for the user. The step-by-step approach of A makes it easier to understand *how* the answer was derived, which is crucial for learning and problem-solving.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nدستیار A در ابتدا به درستی مسئله را حل می‌کند، اما سپس متوجه اشتباه خود می‌شود و سعی می‌کند آن را اصلاح کند، اما در نهایت به یک پاسخ نهایی نمی‌رسد. این نشان‌دهنده تفکر و تلاش برای تصحیح است، اما عدم رسیدن به پاسخ نهایی، آن را ناقص می‌کند. دستیار B به طور مستقیم و بدون اشتباه، مسئله را حل می‌کند و به پاسخ درست (38) می‌رسد.\n\nاز نظر مفید بودن، دستیار A با ارائه توضیحات بیشتر و تلاش برای بررسی پاسخ، کمی بهتر است، اما عدم رسیدن به نتیجه نهایی، این مزیت را کمرنگ می‌کند. دقت در دستیار B بیشتر است زیرا به پاسخ صحیح می‌رسد. ارتباط هر دو پاسخ با سوال یکسان است. کیفیت کلی پاسخ B به دلیل ارائه پاسخ صحیح و بدون ابهام، بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

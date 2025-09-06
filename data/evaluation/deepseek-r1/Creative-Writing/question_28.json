@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها:\n\n1. **مفید بودن (Helpfulness)**:  \n   - **پاسخ A**: بسیار مفید است. ساختار کاملی ارائه می‌دهد: بیان هیجان، جزئیات تجربه قبلی (پروژه‌ها، دستاوردها)، تمرکز نقش جدید، قدردانی دقیق از شبکه ارتباطی، و دعوت به تعامل. این عناصر برای یک پست حرفه‌ای لینکدین ایده‌آل هستند.  \n   - **پاسخ B**: مفید اما **بسیار کلی** است. اطلاعات ضروری (دستاوردها، حوزه کاری جدید، ویژگی‌های شرکت جدید) حذف شده‌اند. قدردانی نامشخص و فاقد دعوت به تعامل است.  \n\n2. **ارتباط با پرسش (Relevance)**:  \n   - **پاسخ A**: تمام مؤلفه‌های درخواستی کاربر (اعلام تغییر شغل، قدردانی، اشاره به تجربیات گذشته و آینده) را پوشش می‌دهد.  \n   - **پاسخ B**: تنها بخش‌های پایه (تغییر شغل و تشکر) را شامل می‌شود و به عمق نیاز کاربر پاسخ نمی‌دهد.  \n\n3. **دقت (Accuracy)**:  \n   - هر دو پاسخ از نظر ساختار و لحن **صحیح** هستند، اما **پاسخ A** با ارائه مثال‌های عینی (پروژه‌ها، دستاوردها) اعتبار و شخصی‌سازی بیشتری ایجاد می‌کند.  \n   - **پاسخ B** فاقد جزئیات تأثیرگذار است و ممکن است برای مخاطب لینکدین غیرجذاب باشد.  \n\n4. **کیفیت کلی (Overall Quality)**:  \n   - **پاسخ A**: حرفه‌ای، متعادل و الهام‌بخش است. لحن مثبت، ترکیب منطقی جزئیات و پیام‌های کلیدی (رشد، قدردانی، چشم‌انداز آینده) را به‌خوبی منتقل می‌کند.  \n   - **پاسخ B**: با وجود اختصار، **بیش از حد ساده** است و فرصت‌های شبکه‌سازی و بازتاب دستاوردها را از دست می‌دهد.  \n\n---\n\n**نتیجه نهایی**:  \nپاسخ A به‌دلیل جامع‌بودن، رعایت اصول نگارش حرفه‌ای، و پوشش مؤثر انتظارات کاربر از پست لینکدین، کیفیت بسیار بالاتری دارد. پاسخ B اگرچه صحیح است، اما فاقد عمق و تأثیر لازم برای این پلتفرم است.  \n\n**[[A]]**",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **۱. مفید بودن**:\n- **دستیار A**: تمام عناصر ضروری (اعلام شغل جدید، قدردانی از شبکه، اشاره به تجربه گذشته و چشم‌انداز آینده) را پوشش می‌دهد، اما متن بسیار طولانی و پرتکلف است.  \n- **دستیار B**: عناصر کلیدی را به صورت مختصر، شفاف و کاربردی ارائه می‌دهد. برای پست لینکدین که معمولاً مخاطبان زمان محدودی دارند، مفیدتر است.  \n\n#### **۲. ارتباط با پرسش**:\n- هر دو پاسخ مستقیماً به درخواست کاربر (اعلام تغییر شغل و قدردانی) پرداخته‌اند.  \n- **دستیار A** با جزئیات بیشتر به موضوع مرتبط است، اما افزودن جملات تشریفاتی (مثل \"نهایت مسرت و شادمانی فراوان\") ارتباط مستقیم را کمی تضعیف می‌کند.  \n- **دستیار B** بدون حاشیه، دقیقاً بر اصل درخواست متمرکز است.  \n\n#### **۳. دقت**:\n- هر دو پاسخ از نظر اطلاعاتی دقیق هستند (اشاره به شرکت جدید، سمت، شرکت قبلی و مدت زمان همکاری).  \n- **دستیار B** به‌دلیل عبارت‌بندی ساده‌تر، احتمال خطای درک را کاهش می‌دهد.  \n\n#### **۴. کیفیت کلی**:\n- **دستیار A**:  \n  - **نقاط قوت**: لحن حرفه‌ای، بیان احساسات و قدردانی با جزئیات.  \n  - **نقاط ضعف**: طولانی بودن، استفاده از اصطلاحات غیرضروری (مثل \"پرفراز و نشیب\") که برای پست لینکدین نامعمول است.  \n- **دستیار B**:  \n  - **نقاط قوت**: مختصر، مدرن، متناسب با استانداردهای پست‌های لینکدین، خوانایی بالا و انتقال مؤثر پیام.  \n  - **نقاط ضعف**: قدردانی کمتر احساسی، اما همچنان مؤدبانه و صمیمی.  \n\n---\n\n### نتیجه‌گیری:\n- **دستیار B** پاسخ بهتری ارائه کرده است زیرا:  \n  - نیاز کاربر را با **حداقل واژه‌ها** به طور کامل پوشش می‌دهد.  \n  - متناسب با **فضای حرفه‌ای لینکدین** (که مختصرنویسی و شفافیت در آن ارجحیت دارد) است.  \n  - از **زبان ساده و طبیعی** استفاده می‌کند و از اغراق‌های زبانی پرهیز کرده است.  \n- پاسخ دستیار A اگرچه حرفه‌ای است، اما به‌دلیل طولانی‌بودن و لحن رسمیِ غیرضروری، برای پست لینکدین کمتر مناسب است.  \n\n**نتیجه نهایی**: [[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness:**\n- **Assistant A**: Highly helpful. Provides a detailed, customizable template that covers all key elements of a job-change announcement: excitement, past achievements, gratitude to specific groups, future focus, and networking invitations. Users can easily fill in placeholders.  \n- **Assistant B**: Minimally helpful. Lacks depth and customization options (e.g., no project highlights, impact statements, or company-specific details). Users must significantly expand it to align with LinkedIn norms.  \n**Winner: A**  \n\n**Relevance:**  \n- **Assistant A**: Fully relevant. Includes industry-standard components like tenure duration, skill growth, role specifics, and strategic alignment with the new company.  \n- **Assistant B**: Partially relevant. Announces the job change and thanks contacts but omits crucial context (e.g., learning experiences, new responsibilities).  \n**Winner: A**  \n\n**Accuracy:**  \n- Both use grammatically correct Persian and appropriate professional tone. No factual errors in structure or cultural norms (e.g., gratitude expressions, humility).  \n**Winner: Tie (C)**  \n\n**Overall Quality:**  \n- **Assistant A**: Exceptional. Structured, engaging, and strategically highlights professional growth. Balances gratitude with forward-looking ambition, ideal for LinkedIn’s audience.  \n- **Assistant B**: Mediocre. Overly brief and generic. Fails to showcase the user’s value or leverage the announcement for networking opportunities.  \n**Winner: A**  \n\n### Final Verdict  \n[[A]]  \n\n**Reasoning**: Assistant A delivers a superior response by providing comprehensive, ready-to-use content that meets LinkedIn’s professional standards. It demonstrates depth, personalization, and strategic networking appeal, while Assistant B’s oversimplified version requires significant user effort to be effective.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها:\n\n**دستیار A:**  \n- **مفید بودن:** متوسط. اگرچه جزئیات شغلی و قدردانی ارائه شده، اما لحن منفی نسبت به شرکت قبلی (با عباراتی مانند \"محیط پراسترس\"، \"مدیریت بی‌کفایت\") و اشاره به حقوق/مزایا، حرفه‌ای نیست و ممکن است برای کاربر پیامدهای منفی داشته باشد.  \n- **ارتباط با پرسش:** متوسط. هدف اصلی (اعلام تغییر شغل و قدردانی) محقق شده، اما انحراف به سمت انتقاد از شغل قبلی و تبلیغ استخدام، تمرکز را از بین برده است.  \n- **دقت:** پایین. ذکر جزئیات نامربوط (مثل گزارشدهی مستقیم به مدیرعامل یا رتبه شرکت)، نامعتبر به نظر می‌رسد و ممکن است اغراق‌آمیز باشد.  \n- **کیفیت کلی:** ضعیف. لحن غیرحرفه‌ای، طولانی‌گویی، و ریسک آسیب به شهرت حرفه‌ای کاربر، کیفیت را کاهش می‌دهد.  \n\n**دستیار B:**  \n- **مفید بودن:** عالی. تمام عناصر کلیدی (اعلام شغل جدید، قدردانی مختصر، بیان مثبت) بدون اطلاعات اضافی یا ریسک‌آفرین ارائه شده است.  \n- **ارتباط با پرسش:** عالی. دقیقاً به درخواست کاربر (\"اعلام تغییر شغل\" و \"قدردانی\") پرداخته و از حاشیه‌روی پرهیز کرده است.  \n- **دقت:** عالی. اطلاعات ضروری (نام شرکت، عنوان شغلی، قدردانی کلی) بدون ادعاهای اثبات‌نشده ذکر شده است.  \n- **کیفیت کلی:** عالی. مختصر، حرفه‌ای، مثبت، و سازگار با استانداردهای شبکه‌های حرفه‌ای مانند لینکدین.  \n\n---\n\n### نتیجه‌گیری نهایی:  \n**پاسخ دستیار B** به دلایل زیر برتر است:  \n۱. حفظ **حرفه‌ای‌گری** با پرهیز از انتقاد از کارفرمای قبلی و خودستایی.  \n۲. **مختصر و متمرکز** بودن روی هدف اصلی کاربر.  \n۳. **کاهش ریسک‌های ارتباطی** با جلوگیری از جزئیات غیرضروری یا حساس.  \n۴. انطباق بیشتر با **الگوهای استاندارد پست‌های لینکدین**.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

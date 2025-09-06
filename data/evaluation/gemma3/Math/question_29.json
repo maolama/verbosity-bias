@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی احتمال را محاسبه کرده‌اند و به نتیجه‌ی 1/4 رسیده‌اند. با این حال، پاسخ دستیار A به طور قابل توجهی کامل‌تر و آموزنده‌تر است. دستیار A توضیح می‌دهد که چرا این احتمال به این شکل محاسبه می‌شود، ساختار یک دسته ورق را شرح می‌دهد و حتی احتمال را به صورت درصد نیز بیان می‌کند. این توضیحات اضافی به درک بهتر موضوع کمک می‌کند. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات و توضیحات لازم برای درک کامل مفهوم احتمال است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی احتمال را محاسبه کرده و به نتیجه‌ی ۱/۴ رسیده‌اند. با این حال، پاسخ دستیار A توضیحات کامل‌تری ارائه می‌دهد و دلیل محاسبه را به صورت گام به گام و با جزئیات بیشتری شرح می‌دهد. این توضیحات برای کاربرانی که ممکن است با مفهوم احتمال آشنایی کمتری داشته باشند، بسیار مفید است. پاسخ دستیار B مختصر و مفید است، اما فاقد توضیحات تکمیلی است که درک موضوع را برای همه آسان‌تر کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants provide the correct answer (13/52 or 1/4) to the question of the probability of drawing a heart from a standard 52-card deck. However, Assistant A is significantly more thorough and helpful. It explains *why* the answer is 1/4, detailing the composition of a standard deck (number of suits, cards per suit, card ranks) and explicitly stating the classical probability formula used. It also expresses the probability as a percentage, offering another way to understand the result. Assistant B, while correct, is very concise and lacks the explanatory depth of Assistant A. It simply states the facts without elaborating on the reasoning.\n\nTherefore, Assistant A provides a much more complete and educational response.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A کامل‌تر و دقیق‌تر است. در حالی که هر دو پاسخ به درستی احتمال اولیه را محاسبه می‌کنند، دستیار A به طور هوشمندانه‌ای به شرایط مختلفی که می‌توانند بر این احتمال تأثیر بگذارند اشاره می‌کند (اضافه شدن جوکر، برداشتن کارت‌ها، استفاده از چند دسته ورق). این نشان‌دهنده‌ی درک عمیق‌تری از مسئله و توانایی در نظر گرفتن جزئیات است. پاسخ دستیار B مختصر و درست است، اما فاقد این عمق و در نظر گرفتن سناریوهای مختلف است. بنابراین، دستیار A از نظر مفید بودن و جامعیت برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

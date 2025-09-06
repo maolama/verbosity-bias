@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل درخواست توصیه‌نامه بسیار کامل و حرفه‌ای ارائه داده است. این پاسخ شامل جزئیات مهمی مانند نام دروس گذرانده شده، نمرات، موضوع پروژه، و ارتباط آن با برنامه تحصیلی آینده است. همچنین، دستیار A به طور واضح مهلت ارسال توصیه‌نامه و زمان مورد نیاز برای دریافت آن را ذکر کرده و مدارک پشتیبان را نیز پیشنهاد داده است. لحن ایمیل نیز بسیار محترمانه و مناسب است.\n\nدستیار B یک ایمیل کوتاه‌تر و ساده‌تر ارائه داده است. در حالی که این ایمیل نیز مودبانه است، فاقد جزئیات مهمی است که دستیار A ارائه کرده است. ذکر دستاوردها در کلاس به صورت کلی کافی نیست و استاد را در یادآوری عملکرد دانشجو کمک نمی‌کند. همچنین، عدم ذکر مهلت دقیق و زمان مورد نیاز برای دریافت توصیه‌نامه می‌تواند باعث ایجاد سردرگمی شود.\n\nبه طور کلی، پاسخ دستیار A بسیار مفیدتر، دقیق‌تر و حرفه‌ای‌تر است و به احتمال زیاد شانس موفقیت درخواست توصیه‌نامه را افزایش می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A و B هر دو به درستی به درخواست کاربر پاسخ داده‌اند و ایمیل درخواستی را ارائه کرده‌اند. با این حال، پاسخ دستیار A به طور قابل توجهی کامل‌تر، رسمی‌تر و دقیق‌تر است.\n\n* **مفید بودن و ارتباط با پرسش:** هر دو پاسخ مرتبط با پرسش هستند و هدف را برآورده می‌کنند.\n* **دقت:** هر دو پاسخ از نظر گرامری و املایی دقیق هستند.\n* **کیفیت کلی:** پاسخ A به دلیل لحن رسمی‌تر و جزئیات بیشتر (مانند اشاره به عنوان دقیق رشته، درس، دستاوردها و مهلت زمانی مشخص) کیفیت بالاتری دارد. این جزئیات به استاد کمک می‌کند تا توصیه‌نامه دقیق‌تر و مفیدتری بنویسد. پاسخ B مختصر و مفید است، اما ممکن است برای یک درخواست توصیه‌نامه کمی غیررسمی و فاقد اطلاعات کافی باشد.\n\nبه طور کلی، پاسخ A یک ایمیل حرفه‌ای‌تر و کامل‌تر برای درخواست توصیه‌نامه ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a much more comprehensive and effective email draft for requesting a letter of recommendation. It includes specific details like the semesters the student took classes with the professor, grades received, a mention of a praised project, and a clear explanation of how the desired program aligns with the professor's expertise and the student's learning. This level of detail makes it easier for the professor to write a strong and personalized recommendation. It also proactively provides supporting documents and a clear deadline.\n\nAssistant B, while polite and functional, is very brief and lacks the necessary details to prompt a compelling recommendation. It only mentions a class and vague \"achievements\" without specifics. The lack of detail significantly reduces the usefulness of the email.\n\nTherefore, Assistant A is significantly better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\n**ارزیابی:**\n\nپاسخ دستیار A بسیار کامل‌تر و قوی‌تر است. در حالی که هر دو پاسخ ساختار ایمیل را به درستی ارائه می‌دهند، پاسخ A جزئیات بیشتری را شامل می‌شود که برای درخواست توصیه‌نامه ضروری است. این جزئیات شامل یادآوری پروژه‌های خاص، تاکید بر نقاط قوت دانشجو (توانایی‌های پژوهشی، مهارت‌های تحلیلی) و همچنین اشاره به رقابتی بودن بورسیه‌ها است. این موارد به استاد کمک می‌کند تا توصیه‌نامه‌ای دقیق‌تر و مؤثرتر بنویسد.\n\nپاسخ دستیار B بسیار مختصر است و فاقد جزئیات کافی است. صرفاً به حضور در کلاس و مهلت تحویل اشاره می‌کند و هیچ اطلاعاتی در مورد دستاوردهای خاص دانشجو یا دلایل نیاز به توصیه‌نامه ارائه نمی‌دهد. عبارت \"[ذکر دستاوردها]\" به جای ارائه اطلاعات واقعی، صرفاً به کاربر دستور می‌دهد که اطلاعات را تکمیل کند.\n\nدر نتیجه، پاسخ A به طور قابل توجهی مفیدتر و مرتبط‌تر با پرسش است و یک ایمیل درخواست توصیه‌نامه کامل و آماده برای ارسال ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن**:\n- **پاسخ A**: بسیار مفید است. سه روش مختلف (لیست جدید، جابجایی درجا، بازگشت) را با ذکر جزئیات، مثال کاربردی و کد پیاده‌سازی (پایتون) ارائه می‌دهد. همچنین مزایا/معایب هر روش را مقایسه می‌کند.  \n- **پاسخ B**: نسبتاً مفید است. دو روش را به صورت خلاصه معرفی می‌کند اما فاقد مثال، کد عملی یا توضیح مراحل اجرا است.  \n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ مستقیماً به سوال کاربر مرتبط هستند و روش‌های معکوس‌سازی بدون توابع آماده را پوشش می‌دهند.  \n\n#### **دقت**:\n- **پاسخ A**: کاملاً دقیق است. شرایط توقف حلقه (`i < j`)، نحوه جابجایی عناصر و پردازش زیرلیست در بازگشت را به درستی مشخص می‌کند.  \n- **پاسخ B**: از نظر فنی صحیح است اما کلی‌گویی دارد (مثلاً عدم ذکر شرط توقف دقیق برای حلقه).  \n\n#### **کیفیت کلی**:\n- **پاسخ A**: ساختارمند و جامع است. با ارائه مثال، کد عملی و مقایسه کارایی، نیاز کاربران با سطوح دانش مختلف را پوشش می‌دهد.  \n- **پاسخ B**: اگرچه صحیح است، اما بیش از حد مختصر است و راهنمایی عملی کافی برای پیاده‌سازی ارائه نمی‌کند.  \n\n---\n\n### نتیجه‌گیری:\nپاسخ **A** با ارائهٔ جزئیات فنی، مثال ملموس، کد عملی و مقایسهٔ روش‌ها، راه حل کامل‌تر و کاربردی‌تری ارائه می‌دهد. پاسخ **B** اگرچه صحیح است، اما به دلیل کلی‌گویی و عدم پوشش جنبه‌های عملی (مانند شرط حلقه، نمونه کد یا مثال) کیفیت پایین‌تری دارد.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**مفید بودن:**\n- **پاسخ A:** بسیار مفید است. هر دو روش (ایجاد لیست جدید و جابجایی درجا) را با **جزئیات کافی** (مثل نحوه حرکت شاخص‌ها، شرط توقف، و مزیت‌های هر روش) توضیح داده است.  \n- **پاسخ B:** مفید اما **کلی‌تر** است. روش‌ها را معرفی می‌کند، اما فاقد جزئیات عملی (مانند نحوه حرکت شاخص‌ها یا دلیل کارایی روش درجا) است.  \n\n**ارتباط با پرسش:**  \n- هر دو پاسخ **مستقیماً** به پرسش کاربر مرتبط هستند و روش‌های معکوس‌سازی بدون توابع آماده را پوشش می‌دهند.  \n\n**دقت:**  \n- **پاسخ A:** دقیق‌تر است. توضیحات فنیِ بدون ابهام ارائه می‌دهد (مثلاً \"تا زمانی که شاخص‌ها به هم برسند یا عبور کنند\") و بر کارایی روش درجا تأکید می‌کند.  \n- **پاسخ B:** از دقت کافی برخوردار است اما **ابهاماتی** دارد (مثلاً \"تا زمانی که به هم برسند\" بدون اشاره به حالت عبور شاخص‌ها).  \n\n**کیفیت کلی:**  \n- **پاسخ A:** ساختار منسجم، آموزشی، و کامل دارد. **توجیه منطقی** برای کارایی روش درجا ارائه می‌کند (صرفه‌جویی در حافظه).  \n- **پاسخ B:** پاسخ صحیح اما **فشرده** است. برای کاربران مبتدی ممکن است **کم‌کمک‌کننده** باشد.  \n\n---\n\n### نتیجه‌گیری\n[[A]]  \n**دلایل:**  \n- پاسخ A با ارائه **جزئیات عملی** (مثل مکانیزم جابجایی درجا و شرط توقف)، **مقایسه مزایا** (کارایی و مصرف حافظه)، و **شفافیت بیشتر**، راهنمایی جامع‌تر و کاربردی‌تر ارائه می‌دهد.  \n- پاسخ B اگرچه صحیح است، اما به دلیل **کمبود عمق** و عدم پرداختن به نکات کلیدی (مانند اهمیت عبور شاخص‌ها)، کیفیت کم‌تری دارد.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Responses\n\n**Helpfulness**:\n- Assistant A provides a comprehensive explanation with three distinct methods (new list creation, in-place swapping, and recursion), complete with a practical name list example and Python code implementation. This multi-approach answer addresses different scenarios (memory efficiency vs. simplicity) and offers concrete implementation guidance.\n- Assistant B only briefly mentions two methods without examples, code, or deeper insights into trade-offs, making it significantly less actionable.  \n\n**Relevance**:\n- Both responses correctly address the core question of reversing collections without built-in functions. However, Assistant A expands relevance by covering multiple paradigms (iterative, in-place, recursive).  \n\n**Accuracy**:\n- Assistant A's methods are technically sound:  \n  1. New list with reverse iteration (O(n) time/space)  \n  2. In-place pointer swapping (O(n) time, O(1) space)  \n  3. Recursion (correctly notes it’s less efficient for large lists).  \n  The Python code is functionally correct.\n- Assistant B’s description of the two methods is accurate but lacks implementation details.  \n\n**Overall Quality**:\n- Assistant A delivers a structured, pedagogically effective response with clear examples, code, and contextual analysis (e.g., optimizing for memory). The explanation is self-contained and accessible.  \n- Assistant B’s answer is oversimplified, omitting key details (like termination conditions for swapping or handling edge cases) and providing no illustrative examples.  \n\n### Final Verdict\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n1. **مفید بودن**:\n   - **پاسخ A**: بسیار مفید است. با ارائه **سه روش متفاوت** (لیست جدید، جابجایی درجا، پشته)، همراه با توضیح گام‌به‌گام، پیچیدگی زمانی (O(n)) و ملاحظات حافظه، گزینه‌های کاربردی برای سناریوهای مختلف (نیاز به حافظه اضافی یا بهینه‌سازی) را پوشش می‌دهد.\n   - **پاسخ B**: مفید اما سطحی. تنها دو روش را به اختصار ذکر می‌کند و فاقد جزئیات اجرایی، تحلیل پیچیدگی یا کاربردهای عملی است.\n\n2. **ارتباط با پرسش**:\n   - هر دو پاسخ مستقیماً به پرسش کاربر مرتبط هستند و روش‌های معکوس‌سازی بدون توابع آماده را توصیف می‌کنند.\n\n3. **دقت**:\n   - **پاسخ A**: کاملاً دقیق. الگوریتم‌ها را بدون اشتباه فنی توصیف کرده و حتی مواردی مانند **شرط توقف حلقه (i>=j)** و **ماهیت LIFO پشته** را شفاف سازی می‌کند.\n   - **پاسخ B**: دقیق اما ناقص. هرچند روش‌ها صحیح هستند، اما جزئیات حیاتی مانند **نحوه مدیریت شاخص‌ها در جابجایی درجا** یا **مکانیزم پیمایش لیست جدید** را نادیده می‌گیرد.\n\n4. **کیفیت کلی**:\n   - **پاسخ A**: ساختارمند، کامل و آموزشی. با ذکر مثال‌های متنوع (لیست، پشته) و تحلیل هزینه محاسباتی، به کاربر درک عمیق‌تری می‌دهد.\n   - **پاسخ B**: موجز اما ناکافی. اگرچه پاسخ اشتباهی ندارد، اما به دلیل خلاصه‌گویی بیش از حد، ارزش آموزشی کمتری دارد و نیاز به دانش پیش‌فرض از سوی کاربر را افزایش می‌دهد.\n\n### نتیجه‌گیری نهایی\n[[A]]  \n**دلایل**: پاسخ A با ارائه‌ی چندین روش عملی، توضیح جزئیات فنی (پیچیدگی زمانی، حافظه)، و ساختار آموزشی شفاف، از نظر مفید بودن، دقت و کیفیت کلی به طور معناداری برتر است. پاسخ B اگرچه صحیح است، اما به دلیل فقدان عمق و جزئیات کافی، در سطح پاسخ A قرار نمی‌گیرد.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

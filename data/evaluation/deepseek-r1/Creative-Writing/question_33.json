@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها:\n\n**دستیار A:**\n- **مفید بودن (Helpfulness):** بسیار بالا. تمام اطلاعات لازم برای پیگیری درخواست را شامل می‌شود: شماره مشتری، تاریخ خرید، مدل دقیق، جزئیات نقص‌های فنی، تأییدیه تکنسین، استناد به بند قرارداد، و پیوست‌های ضروری.  \n- **ارتباط با پرسش (Relevance):** کامل. مستقیماً به درخواست بازپرداخت برای محصول معیوب پرداخته و شرایط قانونی (۳۰ روز اول گارانتی) را ذکر می‌کند.  \n- **دقت (Accuracy):** عالی. مشکلات فنی را به‌طور دقیق توصیف کرده (نوارهای عمودی، قطع صدا، خاموش‌شدن خودکار) و به بند مشخص ضمانت‌نامه اشاره می‌کند.  \n- **کیفیت کلی:** حرفه‌ای و ساختاریافته. لحن احترام‌آمیز، ارائه مدارک شفاف و ذکر راه‌های ارتباط، امکان رسیدگی سریع را افزایش می‌دهد.  \n\n**دستیار B:**  \n- **مفید بودن:** متوسط. اطلاعات ضروری (شماره مشتری، تاریخ خرید) را دارد، اما **جزئیات کافی ارائه نمی‌دهد** (نقص فنی نامشخص، عدم ذکر مدت گارانتی یا مستندات فنی).  \n- **ارتباط با پرسش:** نسبتاً مرتبط. درخواست بازپرداخت مطرح شده، اما **توجیه کافی برای آن وجود ندارد** (به شرایط ضمانت استناد نشده است).  \n- **دقت:** ضعیف. صرفاً به \"نقص فنی در تصویر\" بسنده کرده که مبهم است و مستندات پشتیبان (مثل گزارش تکنسین) ذکر نشده.  \n- **کیفیت کلی:** مختصر اما ناکافی. اگرچه لحن مودبانه دارد، **کمبود جزئیات کلیدی ممکن است موجب تاخیر در رسیدگی یا رد درخواست شود**.  \n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به‌طور چشمگیری برتر است زیرا:  \n۱. با ارائه **جزئیات فنی دقیق و مستندات** (گزارش تکنسین، بند قرارداد)، ادعای کاربر را به‌طور قانع‌کننده اثبات می‌کند.  \n۲. **استناد به شرط بازپرداخت ۳۰ روزه** در قرارداد، درخواست را قانونی و فوری جلوه می‌دهد.  \n۳. ساختار حرفه‌ای آن احتمال موفقیت درخواست را افزایش می‌دهد.  \nدر مقابل، پاسخ دستیار B به‌دلیل کلی‌گویی و عدم پوشش الزامات حقوقی، برای حل موثر مشکل ناکافی است.  \n\n**نتیجه نهایی:** [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "در ارزیابی پاسخ‌های دو دستیار به پرسش کاربر، معیارهای **مفید بودن، ارتباط با پرسش، دقت، و کیفیت کلی** به شرح زیر مقایسه می‌شوند:\n\n### ۱. **مفید بودن**:\n   - **پاسخ A**: تمام عناصر ضراری درخواست بازپرداخت (شماره مشتری، تاریخ خرید، مشخصات محصول، توصیف مشکل، ذکر ضمانت‌نامه، پیوست مدارک) را دقیقاً پوشش می‌دهد.  \n   - **پاسخ B**: همان عناصر کلیدی را شامل می‌شود، اما با اختصار بیشتر.  \n   *نتیجه*: هر دو مفید هستند، ولی **A** جزئیات را جامع‌تر ارائه می‌دهد.\n\n### ۲. **ارتباط با پرسش**:\n   - هر دو پاسخ مستقیماً به درخواست کاربر (نگارش ایمیل بازپرداخت برای محصول معیوب) پرداخته‌اند و هیچ انحرافی وجود ندارد.  \n   *نتیجه*: **برابری** در رعایت ارتباط موضوعی.\n\n### ۳. **دقت**:\n   - **پاسخ A**: از اصطلاحات حقوقی دقیق (مانند \"مفاد مندرج در ضمانت‌نامه\"، \"اقدام لازم را مبذول فرمایید\") استفاده کرده که برای رسمیت بخشیدن به درخواست مناسب است.  \n   - **پاسخ B**: اطلاعات ضراری را بدون ابهام انتقال می‌دهد، اما برخی عبارات (مانند \"در اسرع وقت\") کمی کلی‌ترند.  \n   *نتیجه*: **A** در دقت ساختاری و حقوقی برتر است.\n\n### ۴. **کیفیت کلی**:\n   - **پاسخ A**: ساختار منسجم، ادبیات رسمی و احترام‌آمیز، و تأکید بر پیگیری سریع امتیازات مثبت هستند. با این حال، طولانی‌بودن متن ممکن است برای خواننده زمان‌بر باشد.  \n   - **پاسخ B**: متن مختصر، روان، و گویا که اصل درخواست را بدون حاشیه منتقل می‌کند. مناسب مخاطبانی که ترجیح می‌دهند مستقیماً به اصل مطلب بپردازند.  \n   *نتیجه*: **A** از نظر حرفه‌ای‌بودن برجسته‌تر است، ولی **B** در کارایی و رعایت اصل \"ایجاز\" بهتر عمل می‌کند.\n\n---\n\n### نتیجه‌گیری نهایی:\nهر دو پاسخ دقیق، مرتبط، و مفید هستند. تفاوت اصلی در **سبک ارائه** است:  \n- پاسخ **A** برای موقعیت‌های بسیار رسمی یا حقوقی ایده‌آل است.  \n- پاسخ **B** برای ارتباطات روزمره‌تر و صرفه‌جویی در زمان کاربر مناسب‌تر است.  \n\nبا توجه به نیاز کاربر به یک **ایمل استاندارد بازپرداخت** (نه الزاماً یک سند حقوقی پیچیده)، پاسخ **B** با رعایت **تمام عناصر ضراری در کمترین حجم ممکن**، کارایی عملی بیشتری دارد و از بار اضافی اطلاعات می‌پرهیزد. بنابراین، کیفیت کلی آن برتر ارزیابی می‌شود.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Response\n- **Helpfulness**: Excellent. Provides specific details (product issues, technician visit, warranty clause reference), which strengthens the claim. Includes placeholders for all necessary information ([نام کامل], [شماره], etc.) and lists required attachments.  \n- **Relevance**: Fully addresses all aspects of the request: defect description, proof of purchase, warranty terms, and refund demand.  \n- **Accuracy**: Correctly cites a standard warranty clause (30-day refund period) and mentions documented technician verification.  \n- **Overall Quality**: Highly professional, thorough, and structured. Preempts follow-up questions by including all critical details.  \n\n### Evaluation of Assistant B's Response  \n- **Helpfulness**: Basic. Mentions a refund request and attachments but lacks specifics (e.g., defect nature, warranty terms, troubleshooting efforts).  \n- **Relevance**: Partially relevant; omits key details like purchase price, exact defect symptoms, and warranty policy justification.  \n- **Accuracy**: Vague about the defect (\"نقص فنی در تصویر\") and fails to reference warranty terms to support the refund claim.  \n- **Overall Quality**: Too brief. Risks rejection due to insufficient evidence/justification. Feels like a template, not tailored to a TV defect.  \n\n### Key Comparison  \n- **Detail & Clarity**: A’s explicit issue descriptions (vertical lines, audio cuts, random shutdowns) and technician report reference make the case more credible than B’s vague \"نقص فنی\".  \n- **Legal Grounds**: A cites a specific warranty clause (Section 4, 30-day refund), while B mentions \"طبق ضمانت‌نامه\" generically.  \n- **Professionalism**: A’s formal tone and structured escalation path ([تماس/ایمیل]) demonstrate urgency without rudeness. B’s brevity undermines professionalism.  \n- **Effectiveness**: A’s approach would expedite resolution; B’s lack of detail could prompt back-and-forth communication.  \n\n### Final Verdict  \n[[A]]  \n*Assistant A’s response is superior in every metric: it provides actionable details, leverages warranty terms precisely, and offers comprehensive evidence—crucial for a successful refund request. Assistant B’s vague, minimal reply lacks persuasive justification and risks delays.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**دستیار A:**\n- **مفید بودن:** بالا. تمام عناصر ضراری درخواست بازپرداخت (مشخصات محصول، تاریخ خرید، شرح مشکل، درخواست مشخص) را شامل می‌شود.  \n- **ارتباط با پرسش:** بسیار مرتبط. دقیقاً به ساختار درخواست بازپرداخت برای محصول معیوب پرداخته است.  \n- **دقت:** متوسط. برخی اطلاعات نادرست دارد (مثلاً ISO 9001 ربطی به گارانتی ۳ ساله ندارد، خسارت ۲۰٪ بدون پشتوانه قانونی ذکر شده).  \n- **کیفیت کلی:** لحن **تهاجمی و غیرحرفه‌ای** است. ادعاهای حقوقی نادرست (مثلاً \"ضرر معنوی\") و جزئیات غیرضروری (کشور مبدا، جام جهانی) ممکن است اثر منفی داشته باشد.  \n\n**دستیار B:**\n- **مفید بودن:** عالی. عناصر کلیدی (شماره مشتری، مدل، مشکل فنی، درخواست بازپرداخت، پیوست مدارک) به صورت مختصر و کاربردی ارائه شده.  \n- **ارتباط با پرسش:** کاملاً مرتبط. بدون انحراف از هدف اصلی، درخواست را شفاف بیان می‌کند.  \n- **دقت:** بالا. تمام اطلاعات ارائه شده معتبر و منطبق با استانداردهای ایمیل‌های بازپرداخت است.  \n- **کیفیت کلی:** **حرفه‌ای و مؤثر**. لحن محترمانه، ساختار سازمان‌یافته، و تمرکز بر حل مسئله بدون ایجاد تنش غیرضروری.  \n\n### نتیجه‌گیری:\n- دستیار A با وجود پوشش جزئیات، به دلیل **اشتباهات حقوقی، لحن خصمانه، و اطلاعات نامعتبر** اثرگذاری را کاهش می‌دهد.  \n- دستیار B با **دقت بالا، مختصرگویی مفید، و لحن سازنده**، احتمال موفقیت درخواست را افزایش می‌دهد.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A جامع‌تر و مفیدتر است. در حالی که هر دو دستیار از روش جستجوی دوگانه (Two Pointer) استفاده می‌کنند، دستیار A روش‌های دیگری (حلقه‌های تودرتو و جدول هش) را نیز پیشنهاد می‌دهد و به طور واضح پیچیدگی زمانی هر روش را توضیح می‌دهد. همچنین، دستیار A مزایا و معایب هر روش را نیز بیان می‌کند و به کاربر کمک می‌کند تا با توجه به شرایط مسئله، بهترین روش را انتخاب کند. پاسخ دستیار B بسیار مختصر است و فقط یک روش را توضیح می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار هوش مصنوعی پاسخ‌های درستی ارائه داده‌اند و الگوریتم جستجوی دوگانه (Two-Pointer) را به درستی پیشنهاد کرده‌اند. با این حال، پاسخ دستیار A جزئیات بیشتری را ارائه می‌دهد و فرآیند را گام به گام توضیح می‌دهد. این توضیحات اضافی به درک بهتر الگوریتم کمک می‌کند، به خصوص برای کاربرانی که ممکن است با این الگوریتم آشنا نباشند. دستیار A همچنین به پیچیدگی زمانی الگوریتم اشاره می‌کند و آن را به درستی تحلیل می‌کند. پاسخ دستیار B مختصرتر است، اما فاقد جزئیات و توضیحات کافی است.\n\nبنابراین، با توجه به مفید بودن و کیفیت کلی، پاسخ دستیار A بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a much more comprehensive and helpful response than Assistant B. While both correctly identify the two-pointer approach, Assistant A goes further by:\n\n*   **Presenting multiple algorithms:** It discusses the brute-force (nested loops), two-pointer, and hash table approaches.\n*   **Analyzing time complexity:** It clearly states the time complexity of each algorithm (O(n²), O(n log n), and O(n)).\n*   **Discussing trade-offs:** It explains the memory vs. speed trade-off between the two-pointer and hash table methods.\n*   **Providing context:** It explains *when* each method might be preferable.\n\nAssistant B, on the other hand, only describes the two-pointer approach and its time complexity. It's correct, but lacks the depth and nuance of Assistant A's answer. The user asked for an *algorithm* to be *suggested*, and A provides a range of suggestions with analysis, making it far more useful.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A کامل‌تر و مفیدتر است. در حالی که هر دو پاسخ به درستی الگوریتم جستجوی دوگانه را توضیح می‌دهند، دستیار A الگوریتم‌های دیگری (جدول هش و دو حلقه تودرتو) را نیز معرفی می‌کند و پیچیدگی زمانی هر کدام را به طور دقیق بیان می‌کند. همچنین، دستیار A به نکته مهمی در مورد لیست مرتب شده اشاره می‌کند که می‌تواند پیچیدگی زمانی جستجوی دوگانه را کاهش دهد و راهکاری برای یافتن تمام جفت‌ها به جای یک جفت ارائه می‌دهد. پاسخ دستیار B مختصر است و تنها یک الگوریتم را شرح می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

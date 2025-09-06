@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار پاسخ صحیح (۱۱۰) را ارائه داده‌اند و هر دو از فرمول مجموع دنباله حسابی برای رسیدن به پاسخ استفاده کرده‌اند. با این حال، دستیار A با ارائه روش‌های مختلف (جمع مستقیم، فرمول دنباله حسابی، و استفاده از فرمول مجموع اعداد طبیعی) و توضیح بیشتر، پاسخ جامع‌تری ارائه می‌دهد. توضیحات اضافی در مورد اینکه چرا این مسئله یک مثال از کاربرد دنباله‌های حسابی است، ارزش افزوده ایجاد می‌کند. دستیار B مختصرتر است، اما عمق و توضیحاتی که دستیار A ارائه می‌دهد، آن را مفیدتر می‌کند.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی به پرسش پاسخ داده‌اند و نتیجه‌ی ۱۱۰ را ارائه کرده‌اند. هر دو از فرمول مجموع دنباله حسابی استفاده کرده‌اند. با این حال، پاسخ دستیار A جزئیات بیشتری را ارائه می‌دهد و به دو روش مختلف (فرمول و فاکتورگیری) به حل مسئله می‌پردازد. این توضیحات اضافی، درک بهتری از فرآیند حل مسئله را به کاربر می‌دهد. پاسخ دستیار B مختصرتر است، اما فاقد توضیحات تکمیلی دستیار A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Both assistants correctly answer the question and arrive at the correct result of 110. However, Assistant A provides a more comprehensive and educational response. It not only gives the direct sum and the formula-based solution but also includes a third method using the representation of even numbers as 2k and the sum of the first n natural numbers. It also adds a concluding sentence explaining the mathematical concept illustrated. Assistant B is correct and concise, but lacks the depth and explanatory power of Assistant A.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A و B هر دو به درستی به پرسش پاسخ داده‌اند، اما دستیار A پاسخ کامل‌تر و دقیق‌تری ارائه می‌دهد. دستیار A با ارائه دو روش برای محاسبه مجموع (فرمول دنباله حسابی و استفاده از k) و همچنین اشاره به تعریف استاندارد اعداد زوج مثبت و احتمال وجود تعریف متفاوت در برخی منابع، نشان می‌دهد که درک عمیق‌تری از مسئله دارد. در حالی که دستیار B نیز پاسخ درستی ارائه می‌دهد، اما فاقد این جزئیات و توضیحات اضافی است. اشتباه تایپی در لیست اعداد دستیار A (۲۲ به جای ۲۰) وجود دارد، اما این اشتباه در ادامه با محاسبه صحیح جبران شده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

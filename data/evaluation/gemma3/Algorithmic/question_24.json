@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A به طور قابل توجهی کامل‌تر و مفیدتر از پاسخ دستیار B است. در حالی که هر دو پاسخ اساساً راه حل صحیح را ارائه می‌دهند (دوبرابرسازی رشته)، دستیار A جزئیات بیشتری را ارائه می‌کند که برای درک و پیاده‌سازی راه حل ضروری است. این جزئیات شامل:\n\n*   **پیچیدگی زمانی:** دستیار A پیچیدگی زمانی الگوریتم را توضیح می‌دهد (O(n)) و آن را با پیچیدگی زمانی یک روش جایگزین (O(n²)) مقایسه می‌کند.\n*   **پیش‌شرط:** دستیار A به درستی اشاره می‌کند که قبل از بررسی، باید اطمینان حاصل شود که طول دو رشته یکسان است.\n*   **توابع جستجو:** دستیار A به توابع جستجوی زیررشته در زبان‌های برنامه‌نویسی مختلف اشاره می‌کند که می‌تواند در پیاده‌سازی الگوریتم مفید باشد.\n\nپاسخ دستیار B بسیار مختصر است و فاقد این جزئیات مهم است. در حالی که پاسخ آن صحیح است، برای یک کاربر که به دنبال درک کامل راه حل و نحوه پیاده‌سازی آن است، کافی نیست.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی و به طور مختصر روش تشخیص چرخش رشته‌ها را توضیح می‌دهند. هر دو از یک مثال استفاده می‌کنند که درک مطلب را آسان‌تر می‌کند. با این حال، پاسخ دستیار A کمی مفصل‌تر است و توضیح می‌دهد که چرا این روش کار می‌کند و بر کارآمدی آن تاکید می‌کند. این جزئیات اضافی، پاسخ A را کمی مفیدتر می‌کند، به خصوص برای کسی که با این مفهوم آشنایی ندارد. پاسخ دستیار B بسیار مختصر است و ممکن است برای برخی افراد کافی نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and relevant answers to the question. They both correctly identify the doubling method as an efficient way to check for string rotation. However, Assistant A is significantly more comprehensive and provides a better explanation. It includes:\n\n*   **Complexity Analysis:** It mentions the time complexity of both the doubling method (O(n)) and the naive approach (O(n²)). This adds a valuable layer of understanding.\n*   **Important Consideration:** It explicitly states the necessity of checking for equal lengths before proceeding.\n*   **Implementation hint:** It mentions how this can be implemented using built-in functions in different programming languages.\n\nAssistant B, while correct, is very concise and lacks the depth and practical details provided by Assistant A. It's a perfectly valid answer, but not as helpful overall.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی راه حل اصلی را ارائه می‌دهند: تکرار رشته اصلی و سپس جستجوی رشته دوم در رشته تکرار شده. با این حال، پاسخ دستیار A جامع‌تر است. دستیار A علاوه بر راه‌حل اصلی، به روش‌های دیگری نیز اشاره می‌کند (مقایسه فرکانس حروف و الگوریتم KMP) و پیچیدگی زمانی آن‌ها را نیز بیان می‌کند. این اطلاعات اضافی به درک بهتر مسئله و انتخاب روش مناسب کمک می‌کند. در حالی که دستیار B به طور مستقیم و مختصر به راه‌حل می‌پردازد، فاقد عمق و جزئیات دستیار A است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

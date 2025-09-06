@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nدستیار A و B هر دو به درستی مفهوم فاصله اقلیدسی را توضیح می‌دهند. با این حال، دستیار A پاسخ کامل‌تری ارائه می‌دهد. دستیار A فرمول را به طور واضح بیان می‌کند، سپس کد پایتون برای محاسبه فاصله را (با استفاده از دو روش مختلف) ارائه می‌دهد و حتی به کاربردهای عملی و محدودیت‌های فاصله اقلیدسی نیز اشاره می‌کند. دستیار B فقط فرمول را توضیح می‌دهد و هیچ کد یا اطلاعات اضافی ارائه نمی‌دهد. بنابراین، دستیار A از نظر مفید بودن و کیفیت کلی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به درستی و کاملاً به پرسش کاربر پاسخ داده‌اند و فرمول محاسبه فاصله اقلیدسی را به درستی توضیح داده‌اند. هر دو پاسخ همچنین به درستی اشاره کرده‌اند که این روش تعمیمی از قضیه فیثاغورس است. با این حال، پاسخ دستیار A کمی مفصل‌تر و با توضیحات بیشتر ارائه شده است که می‌تواند برای کاربرانی که با این مفهوم آشنایی کمتری دارند، مفید باشد. در حالی که پاسخ دستیار B مختصر و مفید است، ممکن است برای برخی از کاربران به اندازه کافی توضیحی نباشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nAssistant A provides a comprehensive answer. It first states the formula for Euclidean distance clearly, then provides *two* Python code examples using NumPy to calculate it, and finally discusses practical applications and limitations (curse of dimensionality). The code examples are particularly helpful.\n\nAssistant B provides a correct, but very basic, description of the concept. It explains *how* to calculate the distance but does not offer any code implementation or mention any practical considerations. It also lacks the context provided by A regarding the applications of this distance metric.\n\nTherefore, Assistant A is significantly better because it is more complete, helpful, and practical.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "پاسخ دستیار A و B هر دو به درستی فرمول محاسبه فاصله اقلیدسی را توضیح می‌دهند. با این حال، پاسخ دستیار A بسیار جامع‌تر و مفیدتر است. این پاسخ علاوه بر توضیح فرمول، به مزایای استفاده از این روش (دقت بالا، کوتاه‌ترین فاصله، کاربرد در فضاهای برداری)، پیچیدگی محاسباتی، کاربرد در الگوریتم‌های یادگیری ماشین (K-Means و KNN) و حتی یک نکته بهینه‌سازی (استفاده از مجذور فاصله) نیز اشاره می‌کند. در مقابل، پاسخ دستیار B بسیار مختصر و فاقد جزئیات و اطلاعات تکمیلی است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

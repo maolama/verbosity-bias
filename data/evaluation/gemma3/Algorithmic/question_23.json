@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nپاسخ دستیار A به مراتب بهتر است. در حالی که هر دو دستیار به درستی به این نکته اشاره می‌کنند که می‌توان از الگوریتم‌های مختلف برای این کار استفاده کرد، پاسخ A به طور قابل توجهی جزئی‌تر و آموزنده‌تر است. دستیار A نه تنها الگوریتم‌های بیشتری را نام می‌برد (مرتب‌سازی حبابی، درجی، انتخابی، ادغامی و سریع)، بلکه به طور مختصر نحوه عملکرد هر الگوریتم را توضیح می‌دهد و پیچیدگی زمانی (که برای درک کارایی الگوریتم بسیار مهم است) را نیز ذکر می‌کند. همچنین، به این نکته اشاره می‌کند که انتخاب الگوریتم به شرایط بستگی دارد.\n\nپاسخ دستیار B بسیار مختصر است و فقط چند الگوریتم را نام می‌برد و شرح مختصری از مرتب‌سازی حبابی ارائه می‌دهد. این پاسخ برای کسی که با الگوریتم‌های مرتب‌سازی آشنایی ندارد، چندان مفید نیست.\n\nبنابراین، پاسخ دستیار A جامع‌تر، آموزنده‌تر و در نتیجه، مفیدتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو دستیار به درستی به سوال پاسخ داده‌اند و الگوریتم‌های مختلفی را برای مرتب‌سازی لیست اعداد بدون استفاده از توابع آماده معرفی کرده‌اند. با این حال، پاسخ دستیار A با ارائه توضیح دقیق‌تر در مورد نحوه عملکرد الگوریتم مرتب‌سازی حبابی (مثلاً توضیح در مورد حرکت حباب‌مانند بزرگترین عنصر به انتهای لیست) نسبت به پاسخ دستیار B، مفیدتر و آموزنده‌تر است. پاسخ دستیار B مختصر و مفید است، اما فاقد جزئیات کافی برای درک بهتر نحوه کار الگوریتم است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct answers to the question of how to sort a list of numbers without using built-in sort functions. However, Assistant A is significantly more helpful and provides a more complete response.\n\nAssistant A details several sorting algorithms (Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort) and briefly explains *how* each works, along with a mention of their time complexities, and when each might be preferred. This allows the user to understand the trade-offs between different approaches.\n\nAssistant B simply lists several algorithms and gives a very basic, one-sentence explanation of Bubble Sort. It lacks the depth and practical considerations offered by Assistant A. While accurate, it's not nearly as useful to someone wanting to implement a sorting algorithm themselves.\n\nTherefore, Assistant A is the better response.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی جامع‌تر و مفیدتر از پاسخ دستیار B است. در حالی که هر دو پاسخ به درستی اشاره می‌کنند که می‌توان از الگوریتم‌های مختلف برای مرتب‌سازی استفاده کرد، دستیار A الگوریتم‌های بیشتری را معرفی می‌کند (حبابی، درجی، ادغامی، سریع، شمارشی) و به طور مختصر توضیح می‌دهد که هر کدام چگونه کار می‌کنند و در چه شرایطی مناسب‌تر هستند. همچنین، دستیار A به پیچیدگی زمانی برخی از الگوریتم‌ها اشاره می‌کند که برای درک عملکرد آن‌ها بسیار مهم است.\n\nپاسخ دستیار B بسیار مختصر است و فقط چند الگوریتم را نام می‌برد و یک توضیح بسیار کلی از مرتب‌سازی حبابی ارائه می‌دهد. این پاسخ برای کسی که با الگوریتم‌های مرتب‌سازی آشنایی ندارد، اطلاعات کافی ارائه نمی‌دهد.\n\nبنابراین، دستیار A به دلیل جامعیت، دقت و ارائه اطلاعات بیشتر، پاسخ بهتری ارائه می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

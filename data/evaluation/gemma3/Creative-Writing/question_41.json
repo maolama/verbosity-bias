@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A یک یادداشت تشکر بسیار مفصل و احساسی ارائه داده است. این پاسخ، با استفاده از عباراتی مانند \"حیرت‌زده شدم\"، \"تجسم دوستی عمیق ماست\" و \"ارزش بی‌نهایت\"، عمق قدردانی را به خوبی نشان می‌دهد. طولانی بودن و جزئیات ذکر شده، یادداشت را صمیمی‌تر و شخصی‌تر می‌کند.\n\nدستیار B یک یادداشت تشکر کوتاه و شیرین ارائه داده است. این پاسخ مودبانه و مناسب است، اما فاقد عمق و احساسی بودن پاسخ A است. لحن آن کمی رسمی‌تر است و نمی‌تواند به اندازه A، قدردانی واقعی را منتقل کند.\n\nبا توجه به اینکه پرسش صرفاً درخواست یک \"یادداشت تشکر\" بود و محدودیت خاصی در مورد طول یا لحن وجود نداشت، پاسخ A با ارائه یک یادداشت تشکر مفصل‌تر و احساسی‌تر، بهتر عمل کرده است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ، یادداشت‌های تشکر مناسبی هستند و به خوبی به پرسش پاسخ داده‌اند. با این حال، پاسخ دستیار A به طور قابل توجهی مفصل‌تر و احساسی‌تر است. در حالی که این ممکن است برای همه موقعیت‌ها مناسب نباشد، در این مورد که کاربر از \"هدیه بافکر\" صحبت کرده، این سطح از عمق و قدردانی مناسب‌تر به نظر می‌رسد. پاسخ A جزئیات بیشتری در مورد اینکه چرا هدیه قدردانی می‌شود ارائه می‌دهد و احساسات مثبتی را که هدیه به وجود آورده، بیان می‌کند. پاسخ B مختصر و مفید است، اما فاقد همان عمق عاطفی و جزئیات است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide appropriate thank you notes in response to the Persian prompt requesting a thank you note for a thoughtful gift. However, Assistant A's response is significantly more elaborate and emotionally resonant. It goes beyond a simple expression of gratitude and delves into *why* the gift is appreciated – the thoughtfulness behind it, the feeling of being understood, and the symbolic value of the gift as representing their friendship. Assistant B is perfectly adequate, polite, and conveys thanks, but it's relatively brief and lacks the depth of feeling present in A's response. The prompt asks for a note for a *thoughtful* gift, and A's answer better reflects the appreciation one would have for such a gift.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A یک یادداشت تشکر بسیار دقیق، شخصی و با جزئیات ارائه داده است. این پاسخ با ذکر جزئیات خاص هدیه (ساعت سوئیسی با بند چرمی و عقربه‌های طلایی) و خاطره‌ای مرتبط (سفر پاریس) به طور قابل توجهی بهتر از دستیار B است. لحن صمیمانه و قدردانی عمیق در پاسخ A، آن را بسیار تاثیرگذارتر می‌کند.\n\nدستیار B یک یادداشت تشکر استاندارد و کلی ارائه داده است. در حالی که مودبانه و مناسب است، فاقد جزئیات و شخصی‌سازی است که پاسخ A ارائه می‌دهد. این پاسخ می‌تواند برای هر هدیه‌ای استفاده شود و حس خاص بودن هدیه و ارتباط عمیق بین فرستنده و گیرنده را منتقل نمی‌کند.\n\nبنابراین، پاسخ دستیار A به دلیل دقت، ارتباط با پرسش، و کیفیت کلی بسیار بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

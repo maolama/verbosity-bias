@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیاران A و B  \n\n#### **1. مفید بودن (Helpfulness)**:  \n- **دستیار A**: پاسخ بسیار جامع و کاربردی است. نمونه‌ای کامل از یک ایمیل رسمی ارائه می‌دهد که شامل **تمام عناصر ضروری** (معرفی شرکت، توجیه منطقی همکاری، جزئیات پروژه، مزایای مالی، پیشنهاد مشخص، و دعوت به اقدام) است.  \n- **دستیار B**: پاسخ **بسیار کلی و فاقد جزئیات لازم** است. اطلاعاتی مانند تخصص شرکت‌ها، تحلیل بازار، یا پیشنهاد مالی ارائه نمی‌شود که برای متقاعدسازی شریک تجاری حیاتی هستند.  \n- **برتری با A** ✅  \n\n#### **2. ارتباط با پرسش (Relevance)**:  \n- **دستیار A**: دقیقاً به درخواست کاربر برای نگارش یک **ایمل رسمی و متقاعدکننده** پاسخ می‌دهد. تمام بخش‌های ایمل (مانند مقدمه، تحلیل منطقی، پیشنهاد مشخص، دعوت به جلسه) مرتبط و هدفمند هستند.  \n- **دستیار B**: هرچند کلیات پیشنهاد همکاری را مطرح می‌کند، اما **فاقد عمق و جزئیات لازم** برای یک ایمیل حرفه‌ای است.  \n- **برتری با A** ✅  \n\n#### **3. دقت (Accuracy)**:  \n- **دستیار A**: از **دقت بالا** در ارائه ساختار استاندارد ایمیل رسمی برخوردار است:  \n  - لحن حرفه‌ای و احترام‌آمیز  \n  - ذکر دقیق عناصر پروژه (بازدهی، زمان‌بندی، نقاط قوت رقابتی)  \n  - پیشنهاد مشخص برای جلسه بحث بیشتر.  \n- **دستیار B**: ساختار اولیه رعایت شده، اما **عدم شفافیت در جزئیات** (مانند نام پروژه، سود تخمینی، نقش طرفین) آن را برای یک پیشنهاد سرمایه‌گذاری غیرقابل اتکا می‌کند.  \n- **برتری با A** ✅  \n\n#### **4. کیفیت کلی (Overall Quality)**:  \n- **دستیار A**: **کیفیت ممتاز** با رعایت اصول زیر:  \n  - انسجام منطقی بین معرفی، تحلیل، پیشنهاد و اقدام.  \n  - استفاده از **داده‌های عینی** (بازدهی سالانه، زمان بازگشت سرمایه) برای افزایش اعتبار.  \n  - لحن متعادل: هم متقاعدکننده و هم غیرمستقیم.  \n- **دستیار B**: کیفیت پایین‌تر به دلیل **ابهام محتوایی**. پاسخ بیشتر شبیه **پیش‌نویس اولیه** است تا یک ایمیل آماده ارسال.  \n- **برتری با A** ✅  \n\n---\n\n### نتیجه‌گیری:  \n- **دستیار A** پاسخی **کامل، ساختاریافته و عملی** ارائه می‌دهد که مستقیماً نیاز کاربر را برآورده می‌کند.  \n- **دستیار B** با وجود رعایت کلیات، **فاقد جزئیات ضروری** برای یک پیشنهاد سرمایه‌گذاری متقاعدکننده است.  \n\n### نتیجه نهایی:  \n[[A]]  ",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n**1. مفید بودن:**\n- **دستیار A:** با وجود پوشش کامل جزئیات، طولانی‌بودن و تکرار عبارات (مانند «بسیار مشتاق و علاقه‌مند هستم») باعث کاهش کاربردی‌بودن آن شده است.  \n- **دستیار B:** مختصر، مستقیم و شامل تمام عناصر ضروری (پیشنهاد همکاری، مزایا، دعوت به جلسه). برای گیرنده شلوغ مفیدتر است.  \n**برنده: B**\n\n**2. ارتباط با پرسش:**\n- هر دو پاسخ به **پیشنهاد سرمایه‌گذاری مشترک** پرداخته‌اند و عناصر کلیدی (احترام، معرفی پروژه، دعوت به گفتگو) را پوشش می‌دهند.  \n**برنده: تساوی (A=B)**\n\n**3. دقت:**\n- **دستیار A:** با وجود اطلاعات کافی، برخی جملات مبهم است (مانند «دستاوردهای بسیار چشمگیر») و اصطلاحات پیچیده («بذل عنایت») ممکن است نامفهوم باشد.  \n- **دستیار B:** واضح و دقیق، از اصطلاحات ساده‌تر اما حرفه‌ای («پتانسیل بازدهی بالا»، «موفقیت چشمگیر») استفاده کرده است.  \n**برنده: B**\n\n**4. کیفیت کلی:**\n- **دستیار A:** بسیار رسمی اما **طنین منسوخ** دارد. حجم زیاد متن، تأثیرگذاری را کاهش می‌دهد.  \n- **دستیار B:** **متناسب با استانداردهای ارتباطات تجاری مدرن**؛ مختصر، حرفه‌ای و قابل درک. احتمال جلب توجه گیرنده بیشتر است.  \n**برنده: B**\n\n---\n\n### نتیجه‌گیری\n[[B]]  \n**دلایل اصلی:**  \n- پاسخ **B** با رعایت **اصل اختصار**، اطلاعات ضروری را بدون حاشیه منتقل می‌کند.  \n- عبارات **شفاف و عمل‌گرایانه** (مانند «پروژه پتانسیل بازدهی بالایی دارد») اعتبار بیشتری ایجاد می‌کند.  \n- طول مناسب پاسخ **B** احتمال مطالعه و پاسخگویی توسط شریک تجاری را افزایش می‌دهد.  \n- پاسخ **A** با وجود جزئیات، به‌دلیل اطناب و استفاده از اصطلاحات غیرروزمره، از اثربخشی می‌کاهد.",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant Responses\n\n**Helpfulness**:\n- **Assistant A** provides a comprehensive, structured email template with placeholders for customization. It covers essential elements like context, mutual benefits, financial projections, competitive advantages, resource commitments, timelines, and a clear call to action. This level of detail makes it highly practical for the user.  \n- **Assistant B** offers an overly simplified version, omitting critical details (e.g., project specifics, ROI, resources, timelines). It lacks actionable guidance, reducing its utility for a formal proposal.  \n**Winner: A**\n\n**Relevance**:  \n- **Assistant A** directly addresses the request for a **formal investment proposal** by including industry-specific terminology (e.g., \"تحلیل‌های مالی\"، \"نقطه سر به سر\"، \"ساختار پیشنهادی همکاری\") and a professional tone suited for Persian business communication.  \n- **Assistant B** mentions collaboration but lacks depth. Key components (e.g., rationale, data-backed projections) are absent, weakening relevance to a serious business context.  \n**Winner: A**\n\n**Accuracy**:  \n- **Assistant A** uses precise business Persian phrasing (e.g., \"ارزش افزوده چشمگیری ایجاد کند\", \"پتانسیل بازدهی سالانه\") and correctly structures a formal proposal. Financial terms like \"نقطه سر به سر\" (break-even point) demonstrate domain accuracy.  \n- **Assistant B** is grammatically correct but vague. Claims like \"پتانسیل بازدهی بالایی دارد\" lack supporting context, risking credibility.  \n**Winner: A**\n\n**Overall Quality**:  \n- **Assistant A** excels in professionalism, clarity, and completeness. It balances formality with specificity, empowering the user to present a compelling case. Culturally appropriate (e.g., احترام, توضیح مختصر پروژه) and strategically persuasive.  \n- **Assistant B** is underdeveloped. Its brevity might suit a follow-up but fails as a standalone proposal, potentially undermining the user’s credibility.  \n\n### Final Verdict\n**[[A]]**  \n*Assistant A’s response is superior in all criteria. It delivers a ready-to-use, detailed template that aligns with formal Persian business norms, while Assistant B’s oversimplified reply lacks the substance needed for a high-stakes proposal.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B:\n\n**1. مفید بودن (Helpfulness)**:  \n- **دستیار A**: پاسخ غیرمفید و **خطرناک** است. شامل ادعاهای غیرواقعی (بازگشت سرمایه تضمینی در ۶ ماه)، توصیه به نقض تحریم‌ها (\"راهکار دور زدن محدودیت‌های بانکی\") و درخواست واریز به حساب شخصی (علامت کلاهبرداری).  \n- **دستیار B**: کاملاً مفید و ایمن. پیشنهاد ملاقات برای بحث جزئیات، رویکردی حرفه‌ای و استاندارد در مذاکرات تجاری است.  \n\n**2. ارتباط با پرسش (Relevance)**:  \n- هر دو پاسخ به درخواست \"ایمیل رسمی برای پیشنهاد سرمایه‌گذاری مشترک\" مرتبط هستند، اما محتوای A شامل عناصر نامرتبط و خطرناک (تحریم‌ها، روابط دولتی) است.  \n\n**3. دقت (Accuracy)**:  \n- **دستیار A**: غیردقیق و گمراه‌کننده. ادعاهای غیرمستند (تضمین بازگشت سرمایه، دریافت سریع مجوزها) و توصیه‌های غیرقانونی ارائه می‌دهد.  \n- **دستیار B**: دقیق و واقع‌بینانه. از کلی‌گویی پرهیز کرده و بر تنظیم جلسه برای ارائه جزئیات تأکید می‌کند.  \n\n**4. کیفیت کلی (Overall Quality)**:  \n- **دستیار A**: کیفیت بسیار پایین. لحن تحمیلی و فوری (\"تا پایان هفته پاسخ دهید\")، ایجاد حس اضطراب کاذب (\"سرمایه‌گذاران دیگر در صف هستند\") و نقض اصول اخلاقی (محرمانه نگه داشتن پیشنهاد).  \n- **دستیار B**: کیفیت بالا. مختصر، حرفه‌ای، مبتنی بر شفافیت و احترام. ساختار استاندارد ایمیل رسمی را رعایت کرده است.  \n\n---\n\n### نتیجه‌گیری:  \nپاسخ **دستیار B** به دلایل زیر برتر است:  \n- **رعایت اصول اخلاقی و قانونی** (پرهیز از توصیه‌های غیرقانونی).  \n- **حرفه‌ای‌بودن** (عدم ادعاهای غیرواقعی، پیشنهاد جلسه برای جزئیات).  \n- **ایمن و قابل اعتماد** (عدم درخواست واریز به حساب شخصی یا ایجاد فشار روانی).  \n\nدر مقابل، پاسخ **دستیار A** نه تنها مفید نیست، بلکه حاوی **خطرات حقوقی و مالی** برای کاربر است.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

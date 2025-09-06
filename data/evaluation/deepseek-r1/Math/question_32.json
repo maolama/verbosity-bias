@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن**:\n- **دستیار A**: پاسخ بسیار جامع است و علاوه بر حل مسئله، توضیحات زمینه‌ای درباره الگوی کاهشی هندسی و استراتژی استارتاپ‌ها ارائه می‌دهد. این می‌تواند برای کاربران کنجکاو مفید باشد، اما برای پرسش سادهٔ کاربر، بخشی از اطلاعات (مثل تحلیل استراتژی کسب‌وکار) اضافی محسوب می‌شود.\n- **دستیار B**: پاسخ کاملاً متمرکز بر حل مستقیم پرسش کاربر است. بدون حاشیه‌روی، محاسبه را به صورت گام‌به‌گام و واضح انجام می‌دهد. برای کاربری که فقط به پاسخ عددی نیاز دارد، بهینه است.\n\n#### **ارتباط با پرسش**:\n- **دستیار A**: اگرچه پاسخ مرتبط است، اما توضیحات اضافی دربارهٔ فرمول ریاضی و استراتژی استارتاپ‌ها ارتباط مستقیمی با خواستهٔ کاربر (محاسبهٔ مبلغ سرمایه‌گذاری سال سوم) ندارد.\n- **دستیار B**: تمام محتوای پاسخ مستقیماً به پرسش کاربر مرتبط است و هیچ انحرافی وجود ندارد.\n\n#### **دقت**:\n- هر دو پاسخ از نظر محاسباتی **دقیق** هستند:  \n  سال اول: ۸,۰۰۰ دلار → سال دوم: ۴,۰۰۰ دلار → سال سوم: ۲,۰۰۰ دلار.  \n  هیچ اشتباهی در محاسبات یا استدلال وجود ندارد.\n\n#### **کیفیت کلی**:\n- **دستیار A**: پاسخ از نظر فنی قوی و دارای ارزش آموزشی است، اما برای این پرسش ساده، طولانی‌تر از حد لازم است. ممکن است کاربر را با اطلاعات غیرضروری سردرگم کند.\n- **دستیار B**: پاسخ کوتاه، شفاف و کاملاً کاربردی است. ساختار گام‌به‌گام آن درک مسئله را آسان می‌کند و مستقیماً به خواستهٔ کاربر پاسخ می‌دهد.\n\n### نتیجه‌گیری:\nهر دو پاسخ از نظر دقت قابل اعتماد هستند، اما **دستیار B** به دلیل تمرکز دقیق بر پرسش کاربر، اختصار و ارائهٔ مستقیم پاسخ بدون افزودن اطلاعات حاشیه‌ای، عملکرد بهتری دارد. این پاسخ نیاز کاربر را به سرعت و وضوح برآورده می‌کند.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و B\n\n#### **مفید بودن**:\n- **دستیار A**: پاسخ بسیار مفید است. با توضیح گام‌به‌گام و شفافیت بالا، درک منطق مسئله را برای کاربر آسان می‌کند.  \n- **دستیار B**: مفید اما مختصر. پاسخ مستقیم و بدون حاشیه است، اما فاقد توضیحات تکمیلی برای درک عمیق‌تر.  \n**برتری**: دستیار A (به دلیل ارائه جزئیات آموزشی).\n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به محاسبهٔ سرمایه‌گذاری سال سوم می‌پردازند. هیچ انحرافی از سوال اصلی وجود ندارد.  \n**برتری**: هر دو برابر.\n\n#### **دقت**:\n- هر دو پاسخ **دقیقاً** محاسبات را صحیح انجام داده‌اند:  \n  سال اول: ۸۰۰۰ دلار → سال دوم: ۴۰۰۰ دلار → سال سوم: ۲۰۰۰ دلار.  \n  هیچ خطای محاسباتی یا تحلیلی مشاهده نمی‌شود.  \n**برتری**: هر دو برابر.\n\n#### **کیفیت کلی**:\n- **دستیار A**:  \n  ✅ نقاط قوت: ساختار منسجم، توضیح مفاهیم کلیدی (مانند \"الگوی کاهشی\")، و زبان روان.  \n  ❌ نقطه ضعف: طولانی‌تر از نیاز سوال سادهٔ کاربر.  \n- **دستیار B**:  \n  ✅ نقاط قوت: مختصر، مستقیم، و مناسب کاربرانی که تنها به پاسخ عددی نیاز دارند.  \n  ❌ نقطه ضعف: فاقد بافت مفهومی که ممکن است برای برخی کاربران مفید باشد.  \n**برتری**: دستیار A (به دلیل عمق تحلیلی و شفافیت بیشتر).\n\n---\n\n### نتیجه‌گیری نهایی\nهر دو پاسخ از نظر **دقت** و **ارتباط** کاملاً برابری می‌کنند و پاسخ نادرستی ارائه نمی‌دهند. با این حال، **دستیار A** با ارائهٔ توضیحات جامع‌تر و آموزشی، کیفیت کلی بالاتری دارد و برای طیف گسترده‌تری از کاربران (به‌ویژه کسانی که به درک فرآیند حل نیازمندند) مفیدتر است.  \nدر مقابل، پاسخ دستیار B برای کاربرانی که تنها خواستار پاسخ فوری هستند کافی است، اما از نظر عمق محتوا ضعیف‌تر عمل می‌کند.  \n\n**نتیجه**:  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Response\n- **Helpfulness**: Provides a comprehensive explanation, including the mathematical concept of a geometric sequence and potential business implications, which enhances understanding beyond the basic calculation.  \n- **Relevance**: Directly addresses the question and stays on topic, though the business strategy commentary is slightly tangential.  \n- **Accuracy**: Correctly calculates the third-year investment ($2,000) and accurately describes the geometric pattern.  \n- **Overall Quality**: High-quality response due to clarity, educational value, and structural coherence. The formulaic explanation adds depth but remains accessible.  \n\n### Evaluation of Assistant B's Response  \n- **Helpfulness**: Gives a direct, step-by-step calculation but lacks context or additional insight. Sufficient for users seeking only the answer.  \n- **Relevance**: Fully focused on solving the question without extraneous details.  \n- **Accuracy**: Correctly computes the third-year investment ($2,000) with no errors.  \n- **Overall Quality**: Efficient and correct but minimalistic. Misses opportunities to explain underlying patterns or broader relevance.  \n\n### Comparison  \n- **Accuracy**: Both are equally correct (final answer: $2,000).  \n- **Helpfulness**: Assistant A is more helpful for users wanting conceptual understanding (e.g., students), while Assistant B is better for quick, concise answers.  \n- **Relevance**: Assistant B is tighter; Assistant A’s strategy discussion, though interesting, is not strictly necessary.  \n- **Overall Quality**: Assistant A’s response is richer and more informative, offering educational value without compromising correctness. Assistant B’s brevity is effective but less versatile.  \n\n### Final Verdict  \n[[A]]  \n*Assistant A’s response is superior due to its balance of accuracy, detailed explanation, and added educational context. While Assistant B is concise and correct, Assistant A’s depth in explaining the geometric sequence and business rationale provides higher overall value, especially for learners.*",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### معیارها:\n- **مفید بودن**:  \n  - دستیار A: پاسخ ابتدا به محاسبه اصلی می‌پردازد (۲۰۰۰ دلار)، اما با افزودن تحلیل شخصی غیرمرتبط (مانند \"کاهش سرمایه‌گذاری نشانه تغییر اولویت‌ها\" و محاسبه ۱۸۰۰ دلار با فرض ۱۰٪ هزینه جانبی)، کاربر را گمراه می‌کند. این بخش‌ها به پرسش کاربر ارتباطی ندارند و مفید نیستند.  \n  - دستیار B: دقیقاً به پرسش کاربر پاسخ می‌دهد (۲۰۰۰ دلار) بدون افزودن اطلاعات غیرضروری. کاملاً مفید و کاربردی است.  \n\n- **ارتباط با پرسش**:  \n  - دستیار A: بخش اول پاسخ (محاسبه ۲۰۰۰ دلار) مرتبط است، اما بخش دوم (تحلیل استراتژی استارتاپ و هزینه‌های جانبی) خارج از چارچوب سوال است. پرسش کاربر صرفاً درخواست محاسبه ریاضی دارد.  \n  - دستیار B: کاملاً متمرکز بر پرسش کاربر است و فقط محاسبات لازم را ارائه می‌دهد.  \n\n- **دقت**:  \n  - دستیار A: محاسبه اولیه (۲۰۰۰ دلار) صحیح است، اما تغییر نتیجه به ۱۸۰۰ دلار بر اساس فرضیات نادرست (۱۰٪ هزینه جانبی)، دقت را زیر سوال می‌برد. این فرضیه در داده‌های سوال وجود ندارد.  \n  - دستیار B: محاسبات (۸۰۰۰ → ۴۰۰۰ → ۲۰۰۰) کاملاً دقیق و منطبق بر الگوی نصف شدن مبلغ سال قبل است.  \n\n- **کیفیت کلی**:  \n  - دستیار A: با وجود توضیح مراحل محاسبه، افزودن حدسیات شخصی (مانند رشد استارتاپ‌ها یا هزینه‌های جانبی) کیفیت را کاهش می‌دهد. این بخش‌ها نامرتبط و فاقد پشتوانه در سوال هستند.  \n  - دستیار B: پاسخ مختصر، شفاف و عینی است. نیاز کاربر را بدون حاشیه برآورده می‌کند.\n\n#### نتیجه نهایی:\n[[B]]  \n**دلایل**: پاسخ دستیار B در تمام معیارها برتر است. دستیار A با وارد کردن فرضیات غیرموجود در پرسش (مانند هزینه‌های جانبی) و انحراف از درخواست کاربر، دقت و ارتباط پاسخ را کاهش می‌دهد. در حالی که دستیار B مستقیماً به محاسبه مورد نظر کاربر پرداخته و پاسخ صحیح (۲۰۰۰ دلار) را به صورت مختصر و دقیق ارائه می‌کند.",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nدستیار A یک ایمیل پیگیری بسیار کامل و حرفه‌ای ارائه داده است. این پاسخ نه تنها تشکر می‌کند، بلکه با اشاره به جزئیات خاصی از مصاحبه (موضوع بحث شده، تحقیقات بیشتر انجام شده، مهارت‌ها و تجربیات مرتبط) نشان می‌دهد که متقاضی واقعاً به موقعیت شغلی علاقه‌مند است و به فکر کمک به شرکت است. این سطح از جزئیات، ایمیل را از یک پیام تشکر صرف فراتر می‌برد و نشان‌دهنده ابتکار عمل و تعهد است.\n\nدستیار B یک ایمیل پیگیری بسیار ساده و کلی ارائه داده است. در حالی که مودبانه و حرفه‌ای است، فاقد جزئیات و عمقی است که می‌توانست آن را به طور قابل توجهی مؤثرتر کند. این پاسخ به اندازه کافی نشان نمی‌دهد که متقاضی در مورد موقعیت شغلی و شرکت فکر کرده است.\n\nاز نظر مفید بودن، ارتباط با پرسش، دقت و کیفیت کلی، پاسخ دستیار A به وضوح برتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل بسیار رسمی و طولانی ارائه داده است. در حالی که از نظر گرامری و نگارشی ایرادی ندارد، لحن آن بیش از حد رسمی و کلیشه‌ای است و ممکن است برای بسیاری از موقعیت‌های شغلی مناسب نباشد. استفاده از عباراتی مانند \"افتخار و سعادت\" و \"مراتب قدردانی و سپاس قلبی خویش\" در یک ایمیل پیگیری، کمی زیاده‌روی به نظر می‌رسد.\n\nدستیار B یک ایمیل مختصر، مفید و حرفه‌ای ارائه داده است. لحن آن مناسب‌تر و مستقیم‌تر است و به خوبی هدف از ایمیل (پیگیری و ابراز علاقه) را منتقل می‌کند. این ایمیل به احتمال زیاد در اکثر موقعیت‌های شغلی موثرتر خواهد بود.\n\nاز نظر دقت، هر دو پاسخ اطلاعات مورد نیاز را ارائه می‌دهند. اما از نظر کیفیت کلی و ارتباط با نیاز کاربر (نوشتن یک ایمیل پیگیری)، پاسخ دستیار B به مراتب بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nAssistant A provides a significantly more detailed and helpful response than Assistant B. While both fulfill the basic request of writing a follow-up email, Assistant A goes above and beyond by:\n\n*   **Specificity:** It encourages filling in specific details (interviewer names, date, discussed topics, company values, skills, experiences, company goals) making the email personalized and impactful.\n*   **Proactive Engagement:** It demonstrates continued interest by mentioning further research and potential solutions, showing initiative.\n*   **Value Proposition:** It explicitly links the candidate's skills and experience to the company's goals, reinforcing their suitability for the role.\n*   **Professional Tone:** The tone is professional and enthusiastic.\n\nAssistant B is very basic and lacks the depth needed to make a strong impression. It's a functional response but doesn't offer anything beyond a simple thank you and reiteration of interest. It does not demonstrate any proactive engagement or value add.\n\nTherefore, Assistant A is much better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A بسیار جامع‌تر و حرفه‌ای‌تر است. در حالی که پاسخ دستیار B مودبانه و مختصر است، اما فاقد جزئیات مهمی است که می‌تواند شانس پذیرش را افزایش دهد. دستیار A با یادآوری سابقه کار، مهارت‌ها و دستاوردهای خود، ارزش خود را برای شرکت برجسته می‌کند. همچنین، با اشاره به پیشنهادهای کاری دیگر و درخواست اطلاعات در مورد حقوق، نشان می‌دهد که فردی فعال و مصمم است.\n\nپاسخ دستیار B بیش از حد کلی است و هیچ وجه تمایزی برای متقاضی ایجاد نمی‌کند. این پاسخ، صرفاً یک تشکر ساده است و هیچ اطلاعاتی را که بتواند نظر کارفرما را جلب کند، ارائه نمی‌دهد.\n\nاز نظر دقت، هر دو پاسخ از نظر نگارشی صحیح هستند. اما از نظر مفید بودن و ارتباط با هدف (نوشتن یک ایمیل پیگیری مؤثر)، پاسخ A به مراتب بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }

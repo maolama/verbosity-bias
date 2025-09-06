@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیاران A و B\n\n#### ۱. **مفید بودن**:\n- **دستیار A**: پاسخ بسیار مفید است. مراحل حل را **گام‌به‌گام** با توضیحات کامل ارائه می‌دهد، شامل **بررسی صحت پاسخ** (جایگذاری مقدار x) و **ارائه نکات کاربردی** درباره اهمیت معادلات خطی. این رویکرد برای کاربران کم‌تجربه یا دانش‌آموزان بسیار آموزنده است.  \n- **دستیار B**: پاسخ کوتاه و فاقد جزئیات آموزشی است. اگرچه جواب نهایی را می‌دهد، اما برای کاربرانی که نیاز به درک فرآیند حل دارند، **کم‌کمک‌کننده** است.  \n**برتری با A**.\n\n#### ۲. **ارتباط با پرسش**:\n- هر دو پاسخ **مستقیماً به حل معادله** می‌پردازند و از موضوع خارج نمی‌شوند.  \n**هر دو برابر**.\n\n#### ۳. **دقت**:\n- هر دو پاسخ **محاسبات صحیح** دارند (x=3) و مراحل حل (انتقال جملات و تقسیم) بدون خطا انجام شده است.  \n**هر دو برابر**.\n\n#### ۴. **کیفیت کلی**:\n- **دستیار A**:  \n  - **ساختار منظم** و **پوشش کامل** مراحل (شامل نوشتن نمادین، انتقال جملات، ساده‌سازی، بررسی صحت).  \n  - **افزودن ارزش آموزشی** (تاکید بر اهمیت معادلات خطی در کاربردهای واقعی).  \n- **دستیار B**:  \n  - پاسخ **فشرده** و بدون توضیحات ضروری (مانند بررسی صحت یا انگیزه مراحل).  \n  - برای کاربران مبتدی **گمراه‌کننده** است، زیرا ممکن است نپذیرد که چرا جملات منتقل می‌شوند.  \n**برتری واضح با A**.\n\n---\n\n### نتیجه‌گیری نهایی\nپاسخ دستیار A از نظر **مفید بودن** (با توضیحات گام‌به‌گام و بررسی صحت) و **کیفیت کلی** (ساختار آموزشی و کاربردی) برتر است. اگرچه هر دو در **دقت** و **ارتباط** برابرند، اما جامع‌بودن پاسخ A آن را برای طیف گسترده‌تری از کاربران (به‌ویژه دانش‌آموزان) ارزشمند می‌کند.  \n\n**نتیجه**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و دستیار B\n\n**مفید بودن (Helpfulness):**  \n- **دستیار A:** پاسخ کاملی ارائه کرده که شامل مراحل **گام‌به‌گام حل معادله**، **توصیف عملیات جبری**، و **بررسی صحت جواب** با جایگذاری در معادله اصلی است. این رویکرد برای کاربرانی که در حال یادگیری هستند مفیدتر است.  \n- **دستیار B:** پاسخ بسیار کوتاه و فشرده است. اگرچه مراحل اصلی را پوشش می‌دهد، اما **فاقد توضیحات آموزشی** و **بررسی صحت جواب** است که برای کاربران مبتدی ممکن است گنگ باشد.  \n\n**ارتباط با پرسش (Relevance):**  \n- هر دو دستیار **مستقیماً به حل معادله** پرداخته‌اند و از موضوع خارج نشده‌اند.  \n- **دستیار A** با ارائه جزئیات بیشتر، **ارتباط عمیق‌تری** با نیاز کاربر (درک فرآیند حل) برقرار کرده است.  \n\n**دقت (Accuracy):**  \n- هر دو پاسخ از نظر ریاضی **کاملاً صحیح** هستند و جواب نهایی (x=3) را به درستی محاسبه کرده‌اند.  \n- **دستیار A** با اضافه کردن مرحله **بررسی جواب**، دقت خود را به شکل ملموس‌تری تأیید می‌کند.  \n\n**کیفیت کلی (Overall Quality):**  \n- **دستیار A:**  \n  - **ساختار منسجم** با توضیح هر مرحله به زبان ساده.  \n  - **توجه به نیازهای آموزشی** کاربر (انتقال جملات، ساده‌سازی، بررسی صحت).  \n  - استفاده از **زبان واضح** و بدون ابهام.  \n- **دستیار B:**  \n  - پاسخ **فقط به حل مکانیکی معادله** بسنده کرده است.  \n  - **کاهش کیفیت** به دلیل حذف توضیحات ضروری (مثل تغییر علامت هنگام انتقال جملات).  \n  - برای کاربران مبتدی ممکن است **گمراه‌کننده** باشد (مثلاً عدم اشاره به تغییر علامت هنگام انتقال ۵x).  \n\n---\n\n### نتیجه‌گیری نهایی\nهر دو پاسخ از نظر دقت ریاضی قابل قبول هستند، اما **دستیار A** با ارائه‌ی **توضیحات جامع، پوشش مراحل ضروری، و تأیید صحت جواب**، پاسخ مفیدتر و باکیفیت‌تری ارائه کرده است. این رویکرد به ویژه برای کاربرانی که به دنبال درک فرآیند حل معادله هستند، ارزش آموزشی بالاتری دارد.  \n\n**نتیجه: [[A]]** (پاسخ دستیار A بهتر است)",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Response  \n**Helpfulness:** Highly helpful. The assistant provides a step-by-step solution, explains each algebraic operation clearly, and includes a verification step by substituting the solution back into the original equation. This educational approach benefits learners by reinforcing understanding.  \n**Relevance:** Fully relevant. The response directly addresses the user's query to solve the equation and stays focused on the mathematical process.  \n**Accuracy:** Entirely accurate. The solution (x=3) is correct, and all steps (rearranging terms, simplifying, and verifying) are mathematically sound.  \n**Overall Quality:** Excellent. The response is structured, thorough, and adds value by briefly explaining the real-world applications of linear equations, enhancing its educational impact.  \n\n### Evaluation of Assistant B's Response  \n**Helpfulness:** Moderately helpful. The assistant provides the correct solution but omits critical steps (e.g., initial equation transcription, verification) and lacks explanatory details. This may leave beginners confused.  \n**Relevance:** Relevant, as it solves the equation concisely. However, it assumes prior knowledge of equation-solving techniques.  \n**Accuracy:** Accurate in the minimal steps shown (rearranging terms and solving), but the absence of verification or context reduces reliability.  \n**Overall Quality:** Average. While correct and concise, it lacks educational depth, verification, and clarity for users needing guidance.  \n\n### Comparison  \nAssistant A's response is superior in all criteria:  \n- It is **more helpful** due to its detailed, beginner-friendly approach.  \n- It is **more accurate** with verification and error-checking.  \n- It maintains **higher relevance** by thoroughly addressing the query's intent.  \n- It demonstrates **better overall quality** through structure, completeness, and added context about real-world applications.  \nAssistant B's brevity may appeal to advanced users but fails to support learning or ensure understanding.  \n\n**Final Verdict:** [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **مفید بودن**:\n- **دستیار A**:  \n  پاسخ بسیار مفید است. با وجود اشتباه محاسباتی اولیه، خطا را شناسایی و اصلاح می‌کند، مراحل حل را با جزئیات توضیح می‌دهد، و صحت جواب را با جایگذاری تأیید می‌کند. این رویکرد به کاربر می‌آموزد که چگونه خطاهای رایج را تشخیص دهد و از درستی پاسخ اطمینان یابد.  \n- **دستیار B**:  \n  پاسخ کم‌فایده است. جواب نهایی (x=3) **اشتباه** است و هیچ توضیحی برای مراحل حل یا بررسی صحت ارائه نمی‌دهد. این ممکن است کاربر را گمراه کند.  \n\n#### **ارتباط با پرسش**:\n- **دستیار A**:  \n  کاملاً مرتبط است. معادله را به دقت به شکل جبری تبدیل کرده و تمام مراحل حل را گام‌به‌گام پوشش می‌دهد.  \n- **دستیار B**:  \n  مرتبط است اما **ناقص**. تنها مراحل پایه را بدون توضیح کافی ارائه می‌دهد و به هدف اصلی (یافتن پاسخ صحیح) نرسیده است.  \n\n#### **دقت**:\n- **دستیار A**:  \n  با وجود خطای اولیه در انتقال جملات (که خودش آن را اصلاح کرد)، پاسخ نهایی (x=-3) **صحیح** است و با جایگذاری تأیید شده است.  \n- **دستیار B**:  \n  پاسخ نهایی (x=3) **نادرست** است. جایگذاری آن در معادله اصلی تساوی را برقرار نمی‌کند (۹ ≠ ۲۱-).  \n\n#### **کیفیت کلی**:\n- **دستیار A**:  \n  پاسخ دارای ساختار آموزشی، شفاف و خوداصلاح‌گر است. اشتباه اولیه به‌جای ضعف، نشان‌دهندهٔ صداقت و تأکید بر اهمیت دقت است.  \n- **دستیار B**:  \n  پاسخ بیش‌ازحد خلاصه و فاقد عمق است. عدم بررسی صحت جواب و ارائهٔ پاسخ نادرست، کیفیت را به‌شدت کاهش می‌دهد.  \n\n#### نتیجه نهایی:\n[[A]]  \n**دلایل**:  \n- پاسخ A با وجود اشتباه گذرا، با اصلاح خطا و تأیید نهایی، **دقت** و **مفید بودن** بالاتری دارد.  \n- پاسخ B با ارائهٔ جواب غلط و نادیده گرفتن بررسی صحت، **غیرقابل اعتماد** است.  \n- پاسخ A به کاربر می‌آموزد که چگونه معادلات را حل و تأیید کند، در حالی که پاسخ B ممکن است باعث سردرگمی شود.",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

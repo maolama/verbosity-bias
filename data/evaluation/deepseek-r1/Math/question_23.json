@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیار A و دستیار B\n\n#### ۱. **مفید بودن**:\n- **دستیار A**: پاسخ بسیار مفید است. با ارائه **دو روش حل متفاوت** (حل جبری با معادله و حل معکوس از انتها) و همچنین **تأیید نتیجه نهایی**، به کاربر امکان می‌دهد مسئله را از زوایای مختلف درک کند. این رویکرد برای کاربران با سبک‌های یادگیری مختلف (تحلیلی یا شهودی) مناسب است.\n- **دستیار B**: پاسخ مفید اما **کم‌عمق** است. تنها یک روش (حل معکوس) بدون توضیح کافی ارائه می‌دهد و هیچ گام تأییدی یا جایگزینی ندارد. برای کاربران مبتدی ممکن است کافی نباشد.\n\n#### ۲. **ارتباط با پرسش**:\n- هر دو دستیار **کاملاً مرتبط** با پرسش عمل کرده‌اند. هر دو مستقیماً به مسئله ریاضی پرداخته و هیچ انحرافی از موضوع اصلی ندارند.\n\n#### ۳. **دقت**:\n- هر دو پاسخ **دقیق** هستند و به نتیجه صحیح (عدد اولیه ۱۰) می‌رسند. محاسبات در هر دو مورد بدون خطا است.\n\n#### ۴. **کیفیت کلی**:\n- **دستیار A**: پاسخ دارای **ساختار منظم**، **تجزیه‌وتحلیل گام‌به‌گام**، و **پشتیبانی آموزشی** (ارائه چندین روش + تأیید نتیجه) است. این پاسخ نه‌تنها جواب نهایی، بلکه **مکانیزم حل مسئله** را آموزش می‌دهد.\n- **دستیار B**: پاسخ **خلاصه و صحیح** است اما **فاقد عمق** است. عدم ارائه توضیحات کافی (مثلاً چرایی مراحل حل معکوس) و حذف روش‌های جایگزین، آن را برای یادگیری مؤثر محدود می‌کند.\n\n### نتیجه‌گیری:\nدستیار A با ارائه **چندین روش حل**، **توجیه منطقی هر گام**، و **تأیید نتیجه**، پاسخ جامع‌تر و آموزشی‌تری ارائه کرده است. هرچند دستیار B پاسخ صحیحی داده، ولی کیفیت کلی آن به‌دلیل عدم بسط مفاهیم پایین‌تر است.  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیاران A و B\n\n#### **مفید بودن**:\n- **دستیار A**: پاسخ کاملاً مفید است. با توضیح گام‌به‌گامِ فرآیند معکوس‌سازی عملیات، نه تنها جواب نهایی، بلکه **منطق حل مسئله** را به وضوح آموزش می‌دهد. این برای کاربرانی که می‌خواهند روش حل را بیاموزند، بسیار ارزشمند است.  \n- **دستیار B**: پاسخ مفید اما **بیش از حد مختصر** است. اگرچه جواب درست را ارائه می‌دهد، اما توضیح ناکافی ممکن است برای کاربرانی که با ریاضیات آشنا نیستند، گمراه‌کننده باشد.  \n\n#### **ارتباط با پرسش**:\n- هر دو پاسخ **کاملاً مرتبط** هستند و مستقیماً به پرسش کاربر پاسخ می‌دهند. هیچکدام از موضوع خارج نشده‌اند.  \n\n#### **دقت**:\n- هر دو پاسخ از **دقت بالایی** برخوردارند. مراحل معکوس‌سازی عملیات (کم کردن ← دوبرابر کردن ← جمع) و اعداد استفاده‌شده (۳۰، ۱۵، ۱۰) در هر دو پاسخ **کاملاً صحیح** است.  \n\n#### **کیفیت کلی**:\n- **دستیار A**:  \n  - **نقاط قوت**: ساختار منسجم، توضیح آموزشی هر مرحله، و تأکید بر استدلال ریاضی. این رویکرد به کاربر کمک می‌کند تا مفاهیم را تعمیم دهد.  \n  - **ضعف**: طولانی‌تر است، اما این به دلیل آموزشی بودن، توجیه‌پذیر است.  \n- **دستیار B**:  \n  - **نقاط قوت**: پاسخ سریع و بدون حاشیه، مناسب کاربران با دانش ریاضی قوی.  \n  - **ضعف**: **کمبود جزئیات** ممکن است موجب سردرگمی کاربرانی شود که نیاز به درک فرآیند دارند (مثلاً چرا \"قبل از دوبرابر شدن، عدد ۱۵ بوده است؟\").  \n\n### نتیجه‌گیری:\nهر دو پاسخ از نظر دقت و ارتباط برابرند، اما **دستیار A** به دلیل **تبیین آموزشی، شفافیت در استدلال، و مفیدتر بودن برای طیف گسترده‌تری از کاربران**، کیفیت کلی بالاتری دارد. پاسخ B اگرچه صحیح است، اما به‌دلیل ایجاز بیش‌ازحد، ارزش آموزشی کمتری ارائه می‌دهد.  \n\n**نتیجه نهایی**: [[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Evaluation of Assistant A's Answer\n- **Helpfulness**: Assistant A's response is highly helpful. It presents two distinct solution methods (algebraic equation and reverse operations) and includes verification by forward calculation, which aids understanding and caters to different learning styles.  \n- **Relevance**: Directly addresses the user's question about finding the initial number. All steps are logically connected to the problem.  \n- **Accuracy**: The solution (x=10) is correct, and both methods are mathematically sound. The verification step confirms accuracy.  \n- **Overall Quality**: Excellent structure, clear explanations, and educational value. The inclusion of multiple approaches enhances depth and reliability.  \n\n### Evaluation of Assistant B's Answer  \n- **Helpfulness**: Minimally helpful. It correctly applies the reverse-operations method but omits explanations, algebraic reasoning, and verification. Lacks educational depth.  \n- **Relevance**: Addresses the core question but is overly brief, missing opportunities to clarify logic.  \n- **Accuracy**: The answer (10) is correct, but the lack of detail could leave uncertainty.  \n- **Overall Quality**: Technically correct but superficial. Fails to demonstrate problem-solving rigor or reinforce understanding.  \n\n### Reasoning  \nAssistant A is superior in all criteria. It provides comprehensive reasoning (dual methods + verification), making it more educational and trustworthy. Assistant B, while correct, offers no added value or clarity. The extra effort in Assistant A’s response significantly elevates its helpfulness and quality, especially for learners.  \n\n### Final Verdict  \n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### **دستیار A**:\n- **مفید بودن**: بالا (توضیح گام‌به‌گام و ارائه چک نهایی برای اطمینان).  \n- **ارتباط با پرسش**: عالی (پاسخ مستقیم به پرسش و حل مسئله).  \n- **دقت**: **دارای خطا** (در محاسبه چک نهایی گفته: `۳۰ - ۱۰ = ۲۵`، که اشتباه است و باید ۲۰ باشد).  \n- **کیفیت کلی**: توضیحات جامع ولی با خطای محاسباتی که اعتبار پاسخ را کاهش می‌دهد.  \n\n#### **دستیار B**:\n- **مفید بودن**: کافی (پاسخ مختصر و مستقیم بدون حاشیه).  \n- **ارتباط با پرسش**: عالی (تمرکز صرف بر حل مسئله).  \n- **دقت**: عالی (بدون خطا، مراحل معکوس‌سازی به درستی انجام شده).  \n- **کیفیت کلی**: پاسخ دقیق، واضح و بدون خطا، اما فاقد توضیح اضافی برای درک عمیق‌تر.  \n\n### نتیجه‌گیری:\nهر دو پاسخ به نتیجه صحیح (عدد اولیه ۱۰) رسیده‌اند، اما **دستیار A** به دلیل **خطای محاسباتی در بخش چک نهایی** (`۳۰ - ۱۰ = ۲۵`) از دقت کمتری برخوردار است. این خطا می‌تواند برای کاربر گیج‌کننده باشد و اعتماد به پاسخ را کاهش دهد. در مقابل، **دستیار B** پاسخ دقیق‌تر و بدون خطایی ارائه کرده است. اگرچه توضیحات آن مختصرتر است، اما کاملاً صحیح و مرتبط با پرسش است.  \nبنابراین، کیفیت کلی پاسخ **دستیار B** بالاتر است.  \n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

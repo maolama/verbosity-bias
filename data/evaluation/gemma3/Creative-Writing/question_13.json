@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A و B هر دو به درستی به پرسش پاسخ داده‌اند و ساختار کلی یک نامه استعفا را ارائه کرده‌اند. با این حال، دستیار A در ارائه جزئیات و مثال‌های کاربردی بسیار بهتر عمل کرده است. دستیار A با ارائه جملات نمونه برای هر بخش از نامه، به کاربر کمک می‌کند تا به راحتی بتواند نامه خود را شخصی‌سازی کند. همچنین، نکات مهمی مانند اهمیت دادن به بازه زمانی دو هفته‌ای برای انتقال مسئولیت‌ها و پرهیز از بیان دلایل منفی در نامه را نیز یادآوری کرده است.\n\nدستیار B در حالی که ساختار کلی را ارائه می‌دهد، بسیار مختصر و کلی است و فاقد جزئیات و مثال‌های کاربردی است که به کاربر در نوشتن یک نامه استعفای موثر کمک کند.\n\nبنابراین، با توجه به مفید بودن، ارتباط با پرسش، دقت و کیفیت کلی، پاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو دستیار پاسخ‌های مناسبی ارائه داده‌اند و به خوبی به پرسش کاربر پاسخ داده‌اند. هر دو ساختار کلی یک نامه استعفا را به درستی بیان کرده‌اند و بر اهمیت تشکر و حفظ روابط خوب تاکید کرده‌اند.\n\nبا این حال، پاسخ دستیار A جزئیات بیشتری ارائه می‌دهد و راهنمایی‌های دقیق‌تری در مورد محتوای هر بخش از نامه ارائه می‌کند. به عنوان مثال، اشاره به \"مختصر و بدون حاشیه بودن\" بخش اول و \"محترمانه\" بودن تشکر در بخش دوم، نکات مفیدی هستند که به کاربر کمک می‌کنند نامه بهتری بنویسد. همچنین، پیشنهاد همکاری در دوره انتقال، نکته‌ای عملی و حرفه‌ای است که دستیار A به آن اشاره کرده است.\n\nپاسخ دستیار B مختصرتر است و به همین دلیل ممکن است برای کاربرانی که به دنبال راهنمایی دقیق‌تر هستند، کافی نباشد.\n\nبنابراین، با توجه به جزئیات بیشتر و راهنمایی‌های عملی‌تر، پاسخ دستیار A کمی بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a significantly more helpful and detailed response than Assistant B. While both correctly identify the core components of a resignation letter (date, statement of resignation, thank you, offer of assistance, closing), Assistant A *expands* on each of these points with specific examples and advice. For instance, it suggests a timeframe for the last day of work (two weeks), provides example phrasing for expressing gratitude (\"همکاری با تیم [نام بخش] فرصت ارزشمندی برای من بود...\"), and explicitly warns against negativity. Assistant B is very concise, almost to the point of being unhelpful. It states *what* to include, but doesn't offer much guidance on *how* to do so effectively, or the nuances of maintaining a good relationship. Assistant A's response is more likely to result in a well-written, professional, and positive resignation letter. Both responses are accurate and relevant to the user's request, but the depth and practicality of A's answer are far superior.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به شدت مشکل‌ساز است و با هدف پرسش کاربر مغایرت دارد. در حالی که کاربر خواسته است نامه‌ای بنویسد که روابط خوب را حفظ کند و از فرصت‌ها تشکر کند، دستیار A پیشنهاد می‌کند دلایل نارضایتی را با جزئیات شرح دهد و پیشنهادهای اصلاحی ارائه کند. این رویکرد نه تنها روابط را حفظ نمی‌کند، بلکه می‌تواند به آن‌ها آسیب برساند. همچنین، توصیه به درخواست توصیه‌نامه در پایان نامه، در حالی که در حال بیان نارضایتی‌ها هستیم، کمی نامناسب به نظر می‌رسد. طولانی بودن مقدمه و تاکید بر جزئیات منفی، نامه را بیش از حد پیچیده و غیرضروری می‌کند.\n\nپاسخ دستیار B بسیار مختصر و مفید است و به طور مستقیم به پرسش کاربر پاسخ می‌دهد. ساختار پیشنهادی ساده و منطقی است و بر حفظ روابط مثبت و تشکر از فرصت‌ها تمرکز دارد. پیشنهاد انتقال مسئولیت‌ها نیز نشان‌دهنده حرفه‌ای‌گری است.\n\nبه طور کلی، پاسخ دستیار B بسیار بهتر است زیرا با هدف پرسش کاربر همسو است و یک راهنمایی عملی و مناسب ارائه می‌دهد. پاسخ دستیار A نه تنها مفید نیست، بلکه می‌تواند مضر نیز باشد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

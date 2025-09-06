@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A به طور قابل توجهی بهتر از پاسخ دستیار B است. در حالی که هر دو پاسخ به پرسش کاربر پاسخ می‌دهند و یک نامه تشکر می‌نویسند، پاسخ A به مراتب مفصل‌تر، شخصی‌تر و تاثیرگذارتر است.\n\n* **مفید بودن و ارتباط با پرسش:** هر دو پاسخ مرتبط هستند، اما پاسخ A با ارائه جزئیات مشخص از تجربیات و تاثیر معلم، مفیدتر است.\n* **دقت:** هر دو پاسخ از نظر گرامری و املایی دقیق هستند.\n* **کیفیت کلی:** پاسخ A با استفاده از داستان‌سرایی و توصیف صحنه‌ها (مانند روز اول کلاس، جلسه بعد از امتحان میان‌ترم) یک نامه تشکر بسیار قوی و احساسی ارائه می‌دهد. این جزئیات باعث می‌شود نامه صمیمانه‌تر و معنادارتر به نظر برسد. پاسخ B بسیار کلی و فاقد جزئیات است و به همین دلیل تاثیر کمتری دارد. لحن پاسخ A نیز گرم‌تر و قدردانانه‌تر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ، نامه‌های تشکری مناسب و مرتبط با درخواست کاربر هستند. با این حال، پاسخ دستیار A به طور قابل توجهی مفصل‌تر و پر احساس‌تر است. استفاده از واژگان غنی‌تر و جملات طولانی‌تر، عمق قدردانی را بیشتر نشان می‌دهد. در حالی که پاسخ دستیار B مختصر و مفید است، پاسخ A حس صمیمیت و تأثیرگذاری معلم را بهتر منتقل می‌کند. با این وجود، طولانی بودن پاسخ A ممکن است برای برخی افراد کمی بیش از حد باشد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "Assistant A provides a much more detailed and emotionally resonant thank you letter. It includes specific anecdotes – the initial class experience, help with a midterm, guidance on a specific interest – that make the gratitude feel genuine and personal. The language is also more sophisticated and evocative. Assistant B's response is perfectly adequate and polite, but it's quite generic. It expresses gratitude but lacks the depth and specific examples that would make it truly impactful. While both answers are relevant and accurate (they both fulfill the prompt of writing a thank you letter), Assistant A is significantly more helpful in providing a *quality* example that a user could adapt or use as inspiration.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nپاسخ دستیار A بسیار طولانی و اغراق‌آمیز است. در حالی که قدردانی را نشان می‌دهد، لحن آن بیش از حد احساسی و غیرواقعی به نظر می‌رسد. استفاده از عباراتی مانند \"بهترین معلمی که تا به حال داشته‌ام\"، \"هیچ معلمی در تمام دوران تحصیلم به خوبی شما نبوده است\"، \"موفق‌ترین معلم کشور هستید\" و \"خانواده‌ام همیشه از شما به عنوان یک قهرمان یاد می‌کنند\" بیش از حد است و ممکن است برای یک نامه تشکر واقعی نامناسب باشد. همچنین، تمرکز بیش از حد بر موفقیت‌های شخصی نویسنده (گرفتن نمره کامل و رتبه اول) کمی خودخواهانه به نظر می‌رسد.\n\nپاسخ دستیار B مختصر، صادقانه و به موضوع اصلی (تشکر از معلم برای انگیزه دادن) متمرکز است. لحن آن طبیعی‌تر و قابل باورتر است. استفاده از عباراتی مانند \"صبر و حوصله\"، \"تشویق\"، \"الگو\" و \"انگیزه دادن\" به خوبی منظور را می‌رساند.\n\nبه طور کلی، پاسخ دستیار B یک نامه تشکر مناسب‌تر و واقع‌بینانه‌تر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

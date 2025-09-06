@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "\n\nارزیابی:\n\nپاسخ دستیار A بسیار کامل‌تر و شخصی‌تر است. در حالی که پاسخ B مودبانه و مناسب است، پاسخ A با جزئیات بیشتری درباره احساسات و انتظارات فرد نسبت به شغل جدید صحبت می‌کند. این جزئیات باعث می‌شود پاسخ A صمیمانه‌تر و تاثیرگذارتر به نظر برسد. همچنین، اشاره به سختی‌های مسیر و ارزش قائل شدن برای حمایت دیگران، عمق بیشتری به پاسخ می‌دهد. پاسخ B کمی کلی و فاقد عمق است.\n\nبنابراین:\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به پرسش کاربر مرتبط هستند و به درستی به تبریک شغل جدید پاسخ می‌دهند. با این حال، پاسخ دستیار A بسیار طولانی‌تر و رسمی‌تر است. در حالی که لحن آن مودبانه است، ممکن است برای بسیاری از موقعیت‌ها بیش از حد رسمی و پرطمطراق به نظر برسد. پاسخ دستیار B مختصر، صمیمی و به اندازه کافی قدردانی را نشان می‌دهد.\n\nاز نظر مفید بودن، هر دو پاسخ کارآمد هستند، اما پاسخ B به دلیل سادگی و صراحتش، در اکثر موقعیت‌ها کاربردی‌تر است. پاسخ A ممکن است برای یک موقعیت بسیار رسمی یا برای قدردانی از یک فرد بسیار مهم مناسب باشد، اما در اکثر موارد، پاسخ B انتخاب بهتری است.\n\nاز نظر دقت، هر دو پاسخ بدون اشکال هستند. از نظر کیفیت کلی، پاسخ B به دلیل تعادل بین ادب و صمیمیت، برتری دارد.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nBoth responses are appropriate and polite replies to a congratulatory message for a new job. However, Assistant A's response is significantly more detailed and heartfelt. It provides context about the job search process, expresses enthusiasm for the new role, and acknowledges the importance of support from friends. While Assistant B is perfectly acceptable, it's rather brief and lacks the warmth and depth of Assistant A's answer. Assistant A's response feels more personal and engaging, making it a better reply in this context. Assistant B is a perfectly fine, standard response, but A goes above and beyond.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A پاسخی بسیار نامناسب و غیرواقعی ارائه داده است. لحن پاسخ خودشیفته، متکبرانه و غیرصادقانه است. اغراق‌های بیش از حد در مورد موفقیت‌ها، نمرات مصاحبه، شرایط کاری و وعده‌های دریافتی، اعتبار پاسخ را به شدت زیر سوال می‌برد. این پاسخ به جای سپاسگزاری، بیشتر به خودستایی و نمایش قدرت می‌پردازد و به هیچ وجه پاسخی مناسب برای تبریک یک دوست یا همکار نیست.\n\nدستیار B پاسخی مودبانه، صمیمانه و مناسب ارائه داده است. لحن پاسخ سپاسگزارانه و فروتنانه است و بر اهمیت حمایت دیگران تاکید می‌کند. این پاسخ کوتاه و مختصر، اما در عین حال بسیار مفید و مرتبط با پرسش است.\n\nبه طور کلی، پاسخ دستیار B بسیار بهتر است زیرا پاسخی طبیعی، صادقانه و مناسب برای موقعیت ارائه می‌دهد، در حالی که پاسخ دستیار A غیرواقعی، خودشیفته و نامناسب است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

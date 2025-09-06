@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل بسیار کامل و دقیق نوشته است. این پاسخ شامل تمام اطلاعات ضروری برای یک درخواست بازپرداخت است: تاریخ خرید، مدل تلویزیون، مبلغ پرداختی، شرح دقیق مشکل، اشاره به تماس با تکنسین و تایید مشکل، استناد به بند مربوطه در قرارداد گارانتی، و ارائه مدارک پیوست. لحن ایمیل نیز رسمی و محترمانه است.\n\nدستیار B یک ایمیل کوتاه و کلی نوشته است. در حالی که درخواست بازپرداخت را مطرح می‌کند، جزئیات کافی در مورد مشکل، تماس با تکنسین یا استناد به شرایط گارانتی ارائه نمی‌دهد. این می‌تواند منجر به تاخیر یا رد درخواست شود، زیرا اطلاعات کافی برای پردازش وجود ندارد.\n\nبه طور کلی، پاسخ دستیار A بسیار مفیدتر و حرفه‌ای‌تر است و احتمال موفقیت درخواست بازپرداخت را افزایش می‌دهد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "\n\nهر دو پاسخ به طور کلی خوب هستند و به درخواست کاربر پاسخ می‌دهند. با این حال، پاسخ دستیار A به طور قابل توجهی دقیق‌تر، حرفه‌ای‌تر و کامل‌تر است. \n\n* **مفید بودن:** هر دو ایمیل می‌توانند برای درخواست بازپرداخت استفاده شوند، اما جزئیات بیشتر در پاسخ A آن را مفیدتر می‌کند.\n* **ارتباط با پرسش:** هر دو پاسخ مستقیماً به پرسش پاسخ می‌دهند.\n* **دقت:** پاسخ A با ارائه جزئیاتی مانند \"تلاش‌های متعدد و اعمال تنظیمات گوناگون\" و اشاره به \"مفاد مندرج در ضمانت‌نامه\" دقیق‌تر است. همچنین لحن رسمی‌تر و استفاده از کلمات مناسب‌تر، اعتبار درخواست را افزایش می‌دهد. پاسخ B در عین حال که ساده است، ممکن است به اندازه کافی جزئیات را ارائه ندهد.\n* **کیفیت کلی:** پاسخ A به دلیل لحن حرفه‌ای، جزئیات بیشتر و ساختار منسجم‌تر، کیفیت بالاتری دارد. پاسخ B مختصر و مفید است، اما کمی بیش از حد ساده و غیررسمی به نظر می‌رسد.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\n\nAssistant A provides a significantly more detailed and effective email. It outlines *specific* problems with the television (vertical lines, sound cutting out, auto-shutoff), references a technician's visit and diagnosis (and provides a placeholder for the contact number), and *specifically cites the clause in the warranty* allowing for a full refund within 30 days. It also proactively includes information about attached documents (invoice, technician report, warranty card) and provides multiple contact methods. This level of detail dramatically increases the likelihood of a successful refund request.\n\nAssistant B is far too brief and generic. While it mentions a defect and requests a refund, it lacks crucial specifics. It doesn't detail the problem, doesn’t mention any attempts to troubleshoot, and doesn't refer to specific warranty terms. This makes the request weak and easily dismissible. It simply states a defect exists without providing supporting evidence within the email itself.\n\nTherefore, Assistant A is demonstrably better.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "ارزیابی:\n\nدستیار A یک ایمیل بسیار مفصل و با جزئیات نوشته است که شامل ارجاع به قوانین حمایت از مصرف‌کننده، استانداردهای جهانی، و حتی مصوبات سازمان استاندارد می‌شود. این رویکرد می‌تواند در برخی موارد موثر باشد، اما در عین حال ممکن است بیش از حد تهاجمی و غیرضروری به نظر برسد. درخواست خسارت تأخیر و اشاره به کشور سازنده (چین) و لیسانس محصول، می‌تواند باعث ایجاد تنش و طولانی شدن فرآیند بازپرداخت شود.\n\nدستیار B یک ایمیل مختصر، مودبانه و مستقیم نوشته است. به طور واضح مشکل را بیان کرده و درخواست بازپرداخت را مطرح می‌کند. اشاره به ضمانت‌نامه و پیوست کردن فاکتور، اطلاعات ضروری را ارائه می‌دهد بدون اینکه وارد جزئیات غیرضروری شود. این رویکرد احتمالاً سریع‌تر و موثرتر خواهد بود.\n\nاز نظر مفید بودن، هر دو پاسخ می‌توانند به هدف نهایی (دریافت بازپرداخت) کمک کنند. اما از نظر ارتباط با پرسش و کیفیت کلی، پاسخ دستیار B به دلیل سادگی، وضوح و لحن مناسب، بهتر است. پاسخ دستیار A بیش از حد پیچیده و ممکن است باعث ایجاد مشکل شود.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         }
     }
 }

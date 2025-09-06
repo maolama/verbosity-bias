@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی به پرسش کاربر پاسخ داده‌اند و روش اصلی تشخیص اعداد اول را توضیح داده‌اند. با این حال، پاسخ دستیار A جامع‌تر است. این پاسخ نه تنها روش تقسیم آزمایشی را توضیح می‌دهد، بلکه بهینه‌سازی‌های ممکن (بررسی اعداد کمتر از ۲، زوج بودن، بخش‌پذیری بر ۳) و همچنین الگوریتم‌های پیشرفته‌تر برای اعداد بزرگ (غربال اراتوستن، آزمون میلر-رابین) را نیز ذکر می‌کند. اشاره به وجود توابع آماده در کتابخانه‌های برنامه‌نویسی نیز مفید است.\n\nپاسخ دستیار B ساده‌تر و مختصرتر است، اما فاقد جزئیات و عمق پاسخ A است. در حالی که روش اصلی را به درستی توضیح می‌دهد، بهینه‌سازی‌ها و الگوریتم‌های پیشرفته‌تر را نادیده می‌گیرد.\n\nبنابراین، با توجه به جامعیت و دقت بیشتر، پاسخ دستیار A بهتر است.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی و به طور کامل به پرسش کاربر پاسخ داده‌اند و روش تشخیص اعداد اول را به درستی توضیح داده‌اند. هر دو پاسخ بهینه‌سازی مربوط به بررسی تا جذر عدد را نیز ذکر کرده‌اند.\n\nبا این حال، پاسخ دستیار B مختصرتر و مستقیم‌تر است. در حالی که پاسخ دستیار A دقیقاً همان اطلاعات را ارائه می‌دهد، اما با لحنی رسمی‌تر و طولانی‌تر که ممکن است برای برخی کاربران کمی خسته‌کننده باشد. استفاده از کلماتی مانند \"ضروری است\"، \"آزمون کنیم\" و \"مذکور\" در پاسخ A، آن را کمی سنگین می‌کند.\n\nبنابراین، با توجه به سادگی و وضوح بیشتر، پاسخ دستیار B کمی بهتر است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Consistent",
+          "result": "A"
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "\nBoth assistants provide correct and relevant answers to the question of how to check if a number is prime in Persian. However, Assistant A is significantly more comprehensive and provides a better overview of different approaches.\n\nAssistant A details several methods, including trial division, optimizations (checking for divisibility by 2 and 3, handling small numbers), and even mentions more advanced algorithms like the Sieve of Eratosthenes and probabilistic tests like Miller-Rabin. It also points out the availability of prime-checking functions in programming libraries. This makes it a much more informative response.\n\nAssistant B is concise and accurate, but it lacks the depth and breadth of Assistant A's explanation. While it correctly describes the trial division method, it doesn’t mention the broader context or alternative approaches. It's a good, simple explanation, but not as helpful overall.\n\nTherefore, Assistant A is better due to its completeness and consideration of different scenarios and algorithms.\n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "هر دو پاسخ به درستی به پرسش کاربر پاسخ می‌دهند و روش‌های اصلی تشخیص اعداد اول را توضیح می‌دهند. با این حال، پاسخ دستیار B مختصرتر، واضح‌تر و مستقیم‌تر به اصل مطلب می‌پردازد. در حالی که پاسخ دستیار A جزئیات بیشتری ارائه می‌دهد (مانند غربال اراتوستن و آزمون میلر-رابین)، این جزئیات برای یک پاسخ اولیه به پرسش \"چگونه بررسی کنیم که آیا عدد اول است؟\" ضروری نیستند و ممکن است کاربر را گیج کنند. تمرکز بر جذر عدد در پاسخ B، یک بهینه‌سازی مهم را به درستی برجسته می‌کند که درک آن برای پیاده‌سازی عملی الگوریتم بسیار مفید است.\n\n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         }
     }
 }

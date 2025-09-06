@@ -17,7 +17,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌ها\n\n#### دستیار A:\n- **مفید بودن**: توضیحات جامع دربارهٔ روش حل (قضیهٔ ریشه‌های گویا و تجزیهٔ چندجمله‌ای) مفید و آموزشی است.\n- **ارتباط با پرسش**: پاسخ کاملاً مرتبط با حل معادله است و مراحل را به‌طور کامل پوشش می‌دهد.\n- **دقت**: دارای **اشتباه محاسباتی قابل توجه** در حل معادلهٔ درجه دوم (محاسبهٔ نادرست دلتا و نتیجه‌گیری اشتباه دربارهٔ ریشه‌های مختلط)، هرچند در نهایت اصلاح شده، اما این خطا ممکن است کاربر را سردرگم کند.\n- **کیفیت کلی**: باوجود جزئیات آموزشی ارزشمند، اشتباه در محاسبات دقت کلی را کاهش می‌دهد.\n\n#### دستیار B:\n- **مفید بودن**: پاسخ مختصر و مستقیم، با تمرکز بر حل عملی معادله (تقسیم مصنوعی و فرمول دلتا) بدون افزودن جزئیات غیرضروری.\n- **ارتباط با پرسش**: کاملاً مرتبط و بدون انحراف از هدف اصلی.\n- **دقت**: محاسبات **بدون خطا** و نتایج صحیح ارائه شده است.\n- **کیفیت کلی**: اگرچه فاقد توضیحات مفهومی گسترده است، اما دقیق، کارآمد و قابل اعتماد است.\n\n### نتیجه‌گیری:\nپاسخ دستیار B به‌دلیل **دقت بالا، شفافیت و عدم وجود اشتباه محاسباتی**، کیفیت بهتری دارد. پاسخ دستیار A باوجود ارزش آموزشی، به‌علت خطای محاسباتی که می‌توانست منجر به سردرگمی کاربر شود، نقطه ضعف جدی دارد.  \n[[B]]",
                 "extracted_answer": "B"
-            }
+            },
+          "status": "Inconsistent (Position Bias)",
+          "result": null
         },
         "1": {
             "direct": {
@@ -27,7 +29,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دستیارهای A و B\n\n#### ۱. **مفید بودن**:\n- **دستیار A**: بسیار مفید است. مراحل حل را به‌طور کامل و آموزشی توضیح داده، از جمله آزمایش ریشه صحیح، تأیید محاسباتی، تجزیه چندجمله‌ای، و حل معادله درجه دوم با جزئیات. این رویکرد به کاربر کمک می‌کند فرآیند حل را درک کند.\n- **دستیار B**: مفید اما مختصر است. مراحل اصلی را ذکر کرده، اما توضیحات کافی برای درک منطق پشت محاسبات ارائه نکرده (مثلاً نحوه تجزیه یا محاسبه دلتا).\n\n#### ۲. **ارتباط با پرسش**:\n- هر دو پاسخ به‌طور مستقیم به پرسش کاربر (یافتن ریشه‌های \\(f(x) = 0\\)) پرداخته‌اند و سه ریشه یکسان را ارائه کرده‌اند. هیچ کدام از موضوع منحرف نشده‌اند.\n\n#### ۳. **دقت**:\n- هر دو پاسخ از نظر ریاضی **دقیق** هستند:\n  - ریشه \\(x = 2\\) را به‌درستی تأیید کرده‌اند.\n  - تجزیه چندجمله‌ای به \\((x-2)(4x^2 + 8x + 7)\\) صحیح است.\n  - ریشه‌های معادله درجه دوم (\\(4x^2 + 8x + 7 = 0\\)) به‌درستی \\(x = -1\\) و \\(x = -\\frac{7}{4}\\) محاسبه شده‌اند.\n- اما **دستیار A** با ذکر تأیید نهایی پاسخ‌ها، دقت بیشتری نشان داده است.\n\n#### ۴. **کیفیت کلی**:\n- **دستیار A**: ساختار منسجم، آموزشی و کامل دارد. با توضیح مراحل (تقسیم مصنوعی، محاسبه دلتا، و تأیید پاسخ) به نیازهای کاربران با سطوح مختلف دانش پاسخ می‌دهد.  \n- **دستیار B**: صحیح اما فشرده است. برای کاربران آشنا با مفاهیم ریاضی کافی است، اما برای یادگیری عمیق‌تر یا کاربران کم‌تجربه، ناقص به نظر می‌رسد.\n\n### نتیجه‌گیری:\nپاسخ **دستیار A** به‌دلیل ارائه **توضیحات کامل‌تر، رویکرد آموزشی، و تأکید بر تأیید محاسبات**، کیفیت بالاتری دارد. این پاسخ نه‌تنها جواب نهایی، بلکه فرآیند حل را شفاف می‌کند، که برای درک کاربر حیاتی است. پاسخ دستیار B اگرچه صحیح است، اما به‌دلیل خلاصه‌گویی، از نظر عمق و مفید بودن ضعیف‌تر عمل کرده است.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Inconsistent (Unstable Evaluation)",
+          "result": null
         },
         "2": {
             "direct": {
@@ -37,7 +41,9 @@
             "reverse": {
                 "response": "### Explanation of Evaluation\n\nI evaluated both assistants' responses based on **helpfulness**, **relevance**, **accuracy**, and **overall quality** for solving the cubic equation \\(f(x) = 4x^3 - 9x - 14 = 0\\).\n\n1. **Accuracy**:  \n   - **Assistant A** correctly identifies \\(x = 2\\) as a root and factors the polynomial as \\((x - 2)(4x^2 + 8x + 7)\\). However, it makes a critical error in solving the quadratic \\(4x^2 + 8x + 7 = 0\\). The discriminant is \\(\\Delta = 8^2 - 4 \\cdot 4 \\cdot 7 = -48\\) (negative), meaning the roots are complex: \\(x = -1 \\pm \\frac{\\sqrt{3}}{2}i\\). Assistant A incorrectly states real roots \\(x = -1\\) and \\(x = -7/4\\), which are invalid (verification: \\(f(-1) = -9 \\neq 0\\), \\(f(-7/4) \\approx -19.7 \\neq 0\\)).  \n   - **Assistant B** replicates the same error: it factors correctly but claims the quadratic has real roots \\(x = -1\\) and \\(x = -7/4\\), which are mathematically incorrect.  \n   Both assistants fail in accuracy due to this error.\n\n2. **Relevance**:  \n   - Both address the user's query directly by explaining steps to solve the cubic equation. Assistant A includes relevant concepts like the Rational Root Theorem and synthetic division, while Assistant B skips theoretical context.  \n   - **Tie**: Both stay on-topic.\n\n3. **Helpfulness**:  \n   - **Assistant A** is more helpful due to its detailed reasoning. It explains the Rational Root Theorem, tests potential roots, demonstrates polynomial factorization, and attempts the quadratic solution (even if flawed). This aids user understanding.  \n   - **Assistant B** is overly concise. It omits the Rational Root Theorem and provides no derivation, reducing educational value. The incorrect solution further diminishes its utility.  \n   **Assistant A is more helpful**.\n\n4. **Overall Quality**:  \n   - **Assistant A** has higher quality in structure and educational approach but is marred by the quadratic error.  \n   - **Assistant B** is efficient but lacks depth and contains the same critical error.  \n   Despite identical flaws in the final answer, **Assistant A**'s comprehensive method provides better scaffolding for learning, making it marginally superior in quality.\n\n### Final Verdict\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         },
         "3": {
             "direct": {
@@ -47,7 +53,9 @@
             "reverse": {
                 "response": "### ارزیابی پاسخ‌های دو دستیار هوش مصنوعی\n\n**۱. مفید بودن (Helpfulness):**  \n- **دستیار A**: پاسخ کاملی ارائه کرده است. تمام مراحل حل معادله (پیدا کردن ریشه اول، تجزیه چندجمله‌ای، تحلیل معادله درجه دوم، و ارائه ریشه‌های حقیقی و مختلط) را با جزئیات توضیح داده و حتی پیشنهاد تأیید پاسخ با جایگذاری را داده است. این رویکرد برای کاربران با سطوح مختلف دانش مفید است.  \n- **دستیار B**: تنها بخشی از مسئله را حل کرده (یافتن ریشه اول و تجزیه) و در محاسبه ریشه‌های معادله درجه دوم **اشتباه فاحش** دارد. پاسخ نهایی نادرست است و کاربر را گمراه می‌کند.  \n\n**۲. ارتباط با پرسش (Relevance):**  \n- هر دو پاسخ مستقیماً به حل معادله پرداخته‌اند و از روش‌های استاندارد (تقسیم چندجمله‌ای) استفاده کرده‌اند.  \n- اما **دستیار B** به دلیل ارائه ریشه‌های نادرست برای معادله درجه دوم، از هدف اصلی (یافتن مقادیر دقیق \\(x\\)) منحرف شده است.  \n\n**۳. دقت (Accuracy):**  \n- **دستیار A**: تمام محاسبات دقیق است:  \n  - تأیید \\(x = 2\\) به عنوان ریشه: \\(4(8) - 9(2) - 14 = 0\\).  \n  - تجزیه صحیح: \\((x-2)(4x^2 + 8x + 7)\\).  \n  - محاسبه درست دلتا برای معادله درجه دوم: \\(\\Delta = 8^2 - 4 \\cdot 4 \\cdot 7 = -48 < 0\\) (معادل \\(-3\\) پس از تقسیم بر ۴).  \n  - نتیجه‌گیری صحیح: عدم وجود ریشه حقیقی و ارائه ریشه‌های مختلط.  \n- **دستیار B**:  \n  - بخش اول (\\(x = 2\\)) صحیح است.  \n  - **اشتباه بزرگ**: ادعا می‌کند ریشه‌های \\(4x^2 + 8x + 7 = 0\\) برابر با \\(x = -1\\) و \\(x = -7/4\\) هستند، در حالی که:  \n    - جایگذاری \\(x = -1\\): \\(4(1) - 8 + 7 = 3 \\neq 0\\).  \n    - جایگذاری \\(x = -7/4\\): \\(4(49/16) + 8(-7/4) + 7 = 49/4 - 14 + 7 = \\text{مثبت} \\neq 0\\).  \n    - دلتای منفی (\\(\\Delta = -48\\)) نشان‌دهنده عدم وجود ریشه حقیقی است.  \n\n**۴. کیفیت کلی (Overall Quality):**  \n- **دستیار A**: ساختار منطقی، توضیحات شفاف، پوشش کامل مسئله (شامل ریشه‌های حقیقی و مختلط)، و تأکید بر تأیید پاسخ. کیفیت بالایی دارد.  \n- **دستیار B**: با وجود استفاده از روش صحیح در ابتدا، به دلیل اشتباه محاسباتی در بخش حیاتی، کیفیت پاسخ به شدت کاهش یافته است. پاسخ کوتاه و فاقد تحلیل کامل است.  \n\n### نتیجه‌گیری نهایی  \nپاسخ **دستیار A** از نظر **مفید بودن، دقت، و کیفیت کلی** برتر است. پاسخ **دستیار B** به دلیل **خطای محاسباتی اساسی** (ارائه ریشه‌های نادرست برای معادله درجه دوم) غیرقابل اتکا است.  \n\n[[A]]",
                 "extracted_answer": "A"
-            }
+            },
+          "status": "Consistent",
+          "result": "B"
         }
     }
 }
